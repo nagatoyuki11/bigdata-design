@@ -1,0 +1,182 @@
+[
+  {
+    "year": 1991,
+    "cnt": 218,
+    "avg_comment": 3069.0
+  },
+  {
+    "year": 1992,
+    "cnt": 230,
+    "avg_comment": 3960.0
+  },
+  {
+    "year": 1993,
+    "cnt": 229,
+    "avg_comment": 4062.0
+  },
+  {
+    "year": 1994,
+    "cnt": 288,
+    "avg_comment": 3348.0
+  },
+  {
+    "year": 1995,
+    "cnt": 326,
+    "avg_comment": 2694.0
+  },
+  {
+    "year": 1996,
+    "cnt": 306,
+    "avg_comment": 3673.0
+  },
+  {
+    "year": 1997,
+    "cnt": 264,
+    "avg_comment": 3041.0
+  },
+  {
+    "year": 1998,
+    "cnt": 352,
+    "avg_comment": 2675.0
+  },
+  {
+    "year": 1999,
+    "cnt": 333,
+    "avg_comment": 5493.0
+  },
+  {
+    "year": 2000,
+    "cnt": 442,
+    "avg_comment": 6025.0
+  },
+  {
+    "year": 2001,
+    "cnt": 356,
+    "avg_comment": 4303.0
+  },
+  {
+    "year": 2002,
+    "cnt": 405,
+    "avg_comment": 5414.0
+  },
+  {
+    "year": 2003,
+    "cnt": 426,
+    "avg_comment": 5071.0
+  },
+  {
+    "year": 2004,
+    "cnt": 509,
+    "avg_comment": 9217.0
+  },
+  {
+    "year": 2005,
+    "cnt": 555,
+    "avg_comment": 7879.0
+  },
+  {
+    "year": 2006,
+    "cnt": 557,
+    "avg_comment": 6531.0
+  },
+  {
+    "year": 2007,
+    "cnt": 618,
+    "avg_comment": 9342.0
+  },
+  {
+    "year": 2008,
+    "cnt": 578,
+    "avg_comment": 9356.0
+  },
+  {
+    "year": 2009,
+    "cnt": 608,
+    "avg_comment": 13558.0
+  },
+  {
+    "year": 2010,
+    "cnt": 591,
+    "avg_comment": 9234.0
+  },
+  {
+    "year": 2011,
+    "cnt": 544,
+    "avg_comment": 12078.0
+  },
+  {
+    "year": 2012,
+    "cnt": 686,
+    "avg_comment": 7028.0
+  },
+  {
+    "year": 2013,
+    "cnt": 910,
+    "avg_comment": 9393.0
+  },
+  {
+    "year": 2014,
+    "cnt": 875,
+    "avg_comment": 11116.0
+  },
+  {
+    "year": 2015,
+    "cnt": 907,
+    "avg_comment": 11671.0
+  },
+  {
+    "year": 2016,
+    "cnt": 1118,
+    "avg_comment": 19504.0
+  },
+  {
+    "year": 2017,
+    "cnt": 1345,
+    "avg_comment": 15579.0
+  },
+  {
+    "year": 2018,
+    "cnt": 1614,
+    "avg_comment": 14293.0
+  },
+  {
+    "year": 2019,
+    "cnt": 1583,
+    "avg_comment": 15967.0
+  },
+  {
+    "year": 2020,
+    "cnt": 2000,
+    "avg_comment": 12723.0
+  },
+  {
+    "year": 2021,
+    "cnt": 2072,
+    "avg_comment": 6411.0
+  },
+  {
+    "year": 2022,
+    "cnt": 2506,
+    "avg_comment": 4326.0
+  },
+  {
+    "year": 2023,
+    "cnt": 2741,
+    "avg_comment": 3629.0
+  },
+  {
+    "year": 2024,
+    "cnt": 1945,
+    "avg_comment": 6190.0
+  },
+  {
+    "year": 2025,
+    "cnt": 2569,
+    "avg_comment": 7382.0
+  },
+  {
+    "year": 2026,
+    "cnt": 1591,
+    "avg_comment": 3398.0
+  }
+]

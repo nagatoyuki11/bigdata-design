@@ -1,0 +1,164 @@
+[
+  {
+    "main_topic": 0,
+    "count": 2257,
+    "name": "励志成长",
+    "examples": [
+      {
+        "name": "一丝不挂",
+        "artist": "陈奕迅"
+      },
+      {
+        "name": "乱世巨星",
+        "artist": "陈小春"
+      },
+      {
+        "name": "爱情转移(国)",
+        "artist": "陈奕迅"
+      },
+      {
+        "name": "天下无双 (2007 Live)",
+        "artist": "陈奕迅"
+      },
+      {
+        "name": "早晨的晚霞",
+        "artist": "陈建年"
+      }
+    ]
+  },
+  {
+    "main_topic": 1,
+    "count": 4658,
+    "name": "怀旧青春",
+    "examples": [
+      {
+        "name": "茶花姑娘",
+        "artist": "艾尔肯-Erkin Abdulla"
+      },
+      {
+        "name": "新不了情",
+        "artist": "万芳"
+      },
+      {
+        "name": "对酒当歌",
+        "artist": "陈百强"
+      },
+      {
+        "name": "一生何求",
+        "artist": "马浚伟/吴奇隆/张卫健/刘德华/李沁怡/吕方/钟镇涛/黎姿/叶蒨文/郭富城/苏有朋"
+      },
+      {
+        "name": "山有多高",
+        "artist": "陈建年"
+      }
+    ]
+  },
+  {
+    "main_topic": 2,
+    "count": 2680,
+    "name": "综合主题",
+    "examples": [
+      {
+        "name": "Let It Out",
+        "artist": "陈奕迅"
+      },
+      {
+        "name": "B.O.K",
+        "artist": "侧田"
+      },
+      {
+        "name": "心腹",
+        "artist": "陈奕迅"
+      },
+      {
+        "name": "海洋",
+        "artist": "陈建年"
+      },
+      {
+        "name": "谣言",
+        "artist": "陈冠希"
+      }
+    ]
+  },
+  {
+    "main_topic": 3,
+    "count": 5252,
+    "name": "孤独emo",
+    "examples": [
+      {
+        "name": "爱我久久",
+        "artist": "阿牛"
+      },
+      {
+        "name": "命运的吉他",
+        "artist": "阿吉仔"
+      },
+      {
+        "name": "背叛",
+        "artist": "曹格"
+      },
+      {
+        "name": "笑我笨",
+        "artist": "曹格"
+      },
+      {
+        "name": "新长征路上的摇滚",
+        "artist": "崔健"
+      }
+    ]
+  },
+  {
+    "main_topic": 4,
+    "count": 6398,
+    "name": "人生哲思",
+    "examples": [
+      {
+        "name": "城市·蓝天",
+        "artist": "阿牛"
+      },
+      {
+        "name": "祝我情人节快乐",
+        "artist": "曹格/李幸倪"
+      },
+      {
+        "name": "无辜",
+        "artist": "曹格"
+      },
+      {
+        "name": "烛光晚餐",
+        "artist": "曹格"
+      },
+      {
+        "name": "花房姑娘",
+        "artist": "崔健"
+      }
+    ]
+  },
+  {
+    "main_topic": 5,
+    "count": 2738,
+    "name": "离别思念",
+    "examples": [
+      {
+        "name": "Happy Birth Day",
+        "artist": "五月天 阿信"
+      },
+      {
+        "name": "离别",
+        "artist": "阿杜"
+      },
+      {
+        "name": "一个人住",
+        "artist": "阿杜"
+      },
+      {
+        "name": "离别",
+        "artist": "阿杜"
+      },
+      {
+        "name": "掌纹",
+        "artist": "曹格"
+      }
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "dur_bucket": "3-4min",
+    "count": 12794
+  },
+  {
+    "dur_bucket": "4-5min",
+    "count": 11161
+  },
+  {
+    "dur_bucket": "<3min",
+    "count": 5685
+  },
+  {
+    "dur_bucket": ">5min",
+    "count": 4630
+  }
+]

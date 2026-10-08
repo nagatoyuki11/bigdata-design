@@ -1,0 +1,242 @@
+[
+  {
+    "artist_name": "陈奕迅",
+    "comments": 5601963,
+    "likes": 4208923,
+    "songs": 170,
+    "avg_pop": 94.52941176470588,
+    "heat": 236.6
+  },
+  {
+    "artist_name": "张学友",
+    "comments": 973666,
+    "likes": 940036,
+    "songs": 170,
+    "avg_pop": 79.47058823529412,
+    "heat": 229.09
+  },
+  {
+    "artist_name": "王菲",
+    "comments": 1765714,
+    "likes": 1989367,
+    "songs": 134,
+    "avg_pop": 87.61194029850746,
+    "heat": 196.04
+  },
+  {
+    "artist_name": "容祖儿",
+    "comments": 490602,
+    "likes": 381286,
+    "songs": 131,
+    "avg_pop": 69.61832061068702,
+    "heat": 186.64
+  },
+  {
+    "artist_name": "林俊杰",
+    "comments": 4325499,
+    "likes": 2567357,
+    "songs": 112,
+    "avg_pop": 98.70535714285714,
+    "heat": 177.53
+  },
+  {
+    "artist_name": "张国荣",
+    "comments": 1331895,
+    "likes": 857611,
+    "songs": 112,
+    "avg_pop": 81.5625,
+    "heat": 172.05
+  },
+  {
+    "artist_name": "Beyond",
+    "comments": 1121849,
+    "likes": 1400182,
+    "songs": 105,
+    "avg_pop": 79.0952380952381,
+    "heat": 164.9
+  },
+  {
+    "artist_name": "李克勤",
+    "comments": 381603,
+    "likes": 584972,
+    "songs": 108,
+    "avg_pop": 59.25925925925926,
+    "heat": 162.8
+  },
+  {
+    "artist_name": "林忆莲",
+    "comments": 495872,
+    "likes": 572751,
+    "songs": 104,
+    "avg_pop": 73.26923076923077,
+    "heat": 160.26
+  },
+  {
+    "artist_name": "五月天",
+    "comments": 1257872,
+    "likes": 621877,
+    "songs": 97,
+    "avg_pop": 96.23711340206185,
+    "heat": 157.29
+  },
+  {
+    "artist_name": "谭咏麟",
+    "comments": 326758,
+    "likes": 138919,
+    "songs": 102,
+    "avg_pop": 67.94117647058823,
+    "heat": 155.33
+  },
+  {
+    "artist_name": "孙燕姿",
+    "comments": 2068863,
+    "likes": 743771,
+    "songs": 93,
+    "avg_pop": 97.74193548387096,
+    "heat": 155.03
+  },
+  {
+    "artist_name": "张杰",
+    "comments": 1520236,
+    "likes": 531511,
+    "songs": 93,
+    "avg_pop": 93.76344086021506,
+    "heat": 153.57
+  },
+  {
+    "artist_name": "黎明",
+    "comments": 207652,
+    "likes": 73609,
+    "songs": 89,
+    "avg_pop": 58.764044943820224,
+    "heat": 139.88
+  },
+  {
+    "artist_name": "杨千嬅",
+    "comments": 591809,
+    "likes": 767319,
+    "songs": 81,
+    "avg_pop": 81.04938271604938,
+    "heat": 138.48
+  },
+  {
+    "artist_name": "莫文蔚",
+    "comments": 1028044,
+    "likes": 1009437,
+    "songs": 77,
+    "avg_pop": 82.59740259740259,
+    "heat": 136.48
+  },
+  {
+    "artist_name": "周深",
+    "comments": 3376774,
+    "likes": 1371728,
+    "songs": 72,
+    "avg_pop": 95.48611111111111,
+    "heat": 136.0
+  },
+  {
+    "artist_name": "王心凌",
+    "comments": 545811,
+    "likes": 228458,
+    "songs": 78,
+    "avg_pop": 89.61538461538461,
+    "heat": 134.45
+  },
+  {
+    "artist_name": "汪苏泷",
+    "comments": 1776390,
+    "likes": 1107914,
+    "songs": 72,
+    "avg_pop": 97.84722222222223,
+    "heat": 133.98
+  },
+  {
+    "artist_name": "李宗盛",
+    "comments": 294586,
+    "likes": 137057,
+    "songs": 80,
+    "avg_pop": 83.1875,
+    "heat": 133.77
+  },
+  {
+    "artist_name": "陈慧琳",
+    "comments": 200782,
+    "likes": 105329,
+    "songs": 82,
+    "avg_pop": 56.09756097560975,
+    "heat": 133.0
+  },
+  {
+    "artist_name": "古巨基",
+    "comments": 331344,
+    "likes": 477995,
+    "songs": 78,
+    "avg_pop": 67.43589743589743,
+    "heat": 132.58
+  },
+  {
+    "artist_name": "陈慧娴",
+    "comments": 365012,
+    "likes": 311228,
+    "songs": 75,
+    "avg_pop": 77.53333333333333,
+    "heat": 129.95
+  },
+  {
+    "artist_name": "G.E.M.邓紫棋",
+    "comments": 3121653,
+    "likes": 1629697,
+    "songs": 62,
+    "avg_pop": 98.70967741935483,
+    "heat": 126.1
+  },
+  {
+    "artist_name": "张敬轩",
+    "comments": 448403,
+    "likes": 458913,
+    "songs": 70,
+    "avg_pop": 73.5,
+    "heat": 125.75
+  },
+  {
+    "artist_name": "梁咏琪",
+    "comments": 251833,
+    "likes": 156026,
+    "songs": 72,
+    "avg_pop": 66.94444444444444,
+    "heat": 124.61
+  },
+  {
+    "artist_name": "梁静茹",
+    "comments": 647616,
+    "likes": 388916,
+    "songs": 67,
+    "avg_pop": 91.19402985074628,
+    "heat": 124.57
+  },
+  {
+    "artist_name": "薛之谦",
+    "comments": 7822398,
+    "likes": 6022765,
+    "songs": 55,
+    "avg_pop": 100.0,
+    "heat": 123.23
+  },
+  {
+    "artist_name": "陶喆",
+    "comments": 998286,
+    "likes": 951295,
+    "songs": 62,
+    "avg_pop": 96.45161290322581,
+    "heat": 122.03
+  },
+  {
+    "artist_name": "萧亚轩",
+    "comments": 567178,
+    "likes": 318912,
+    "songs": 65,
+    "avg_pop": 87.84615384615384,
+    "heat": 121.81
+  }
+]

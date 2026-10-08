@@ -1,0 +1,10 @@
+{
+  "auc": 0.896,
+  "rmse": 2.13,
+  "importance": {
+    "duration_sec": 0.0043,
+    "year": 0.0938,
+    "word_count": 0.1529,
+    "pop": 0.7491
+  }
+}

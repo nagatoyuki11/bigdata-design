@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>乐评 · 网易云音乐大数据分析大屏</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="lib/echarts.min.js"></script>
+  <script src="lib/echarts-wordcloud.min.js"></script>
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand-row">
+      <div class="brand">🎵 乐评 · 网易云音乐大数据分析平台</div>
+      <div class="subtitle">华语歌曲大数据库 ｜ 采集 → HDFS → Spark/MLlib → HBase + SQLite检索层 → 可视化 ｜ 复合检索 · 全文搜索 · 交互分析</div>
+    </div>
+    <div class="kpi-strip" id="kpi"></div>
+  </header>
+
+  <nav class="tabs">
+    <span class="tab-group">🔍 数据库</span>
+    <button class="tab active" data-view="db_song">🎵 歌曲</button>
+    <button class="tab" data-view="db_artist">🎤 歌手</button>
+    <button class="tab" data-view="db_lyric">📝 歌词</button>
+    <button class="tab" data-view="db_comment">💬 评论</button>
+    <span class="tab-sep"></span>
+    <span class="tab-group">📊 分析</span>
+    <button class="tab" data-view="rank">① 热度榜单</button>
+    <button class="tab" data-view="sentiment">② 情感分析</button>
+    <button class="tab" data-view="topic">③ 主题挖掘</button>
+    <button class="tab" data-view="mood">④ 情绪点歌</button>
+    <button class="tab" data-view="artist">⑤ 歌手画像</button>
+    <span class="tab-sep"></span>
+    <span class="tab-group">🚀 创新</span>
+    <button class="tab" data-view="imagery">🗺️ 意象地图</button>
+    <button class="tab" data-view="era">⏳ 年代时光机</button>
+  </nav>
+
+  <main id="app"></main>
+
+  <!-- ============ 数据库 · 歌曲（复合搜索） ============ -->
+  <template id="view-db_song">
+    <div class="dbwrap">
+      <div class="card filter-card">
+        <h3>🎵 歌曲库 · 复合检索</h3>
+        <p class="desc">在 <b id="db_song_total">34,270</b> 首华语歌曲中按多条件组合检索：关键词 + 发行年份区间 + 真实评论数区间 + 时长 + 排序，秒级返回。</p>
+        <div class="filters">
+          <label>关键词<input id="fs_q" placeholder="歌名 / 歌手" /></label>
+          <label>年份从<input id="fs_ymin" type="number" placeholder="1990" min="1970" /></label>
+          <label>年份到<input id="fs_ymax" type="number" placeholder="今年" min="1970" /></label>
+          <label>评论数≥<input id="fs_cmin" type="number" placeholder="如 10000" /></label>
+          <label>评论数≤<input id="fs_cmax" type="number" placeholder="" /></label>
+          <label>时长≥(秒)<input id="fs_dmin" type="number" placeholder="" /></label>
+          <label>排序
+            <select id="fs_sort">
+              <option value="comment">真实评论数</option>
+              <option value="liked">评论点赞</option>
+              <option value="pop">官方热度</option>
+              <option value="year">发行年份</option>
+              <option value="duration">时长</option>
+            </select>
+          </label>
+          <button class="btn-go" id="fs_go">检索</button>
+          <button class="btn-reset" id="fs_reset">重置</button>
+        </div>
+      </div>
+      <div class="card">
+        <div class="result-head"><span id="fs_count" class="result-count"></span><span id="fs_pager" class="pager"></span></div>
+        <div id="fs_list" class="dblist"></div>
+      </div>
+    </div>
+  </template>
+
+  <!-- ============ 数据库 · 歌手 ============ -->
+  <template id="view-db_artist">
+    <div class="dbwrap">
+      <div class="card filter-card">
+        <h3>🎤 歌手库</h3>
+        <p class="desc">按姓名关键词 / 影响力 / 作品数检索歌手，点击查看画像与代表作。默认仅展示 <b>真实歌手（评论总数 ≥ 100）</b>，可勾选「显示全部歌手」查看未达标项。影响力 = log(真实总评论)·2 + log(总点赞) + 作品数。</p>
+        <div class="filters">
+          <label>关键词<input id="fa_q" placeholder="歌手名" /></label>
+          <label>影响力≥<input id="fa_hmin" type="number" placeholder="如 50" /></label>
+          <label>作品数≥<input id="fa_smin" type="number" placeholder="如 5" /></label>
+          <label class="chk"><input id="fa_all" type="checkbox" /> 显示全部歌手（含未达标）</label>
+          <button class="btn-go" id="fa_go">检索</button>
+          <button class="btn-reset" id="fa_reset">重置</button>
+        </div>
+      </div>
+      <div class="card">
+        <div class="result-head"><span id="fa_count" class="result-count"></span><span id="fa_pager" class="pager"></span></div>
+        <div id="fa_list" class="dblist"></div>
+      </div>
+    </div>
+  </template>
+
+  <!-- ============ 数据库 · 歌词（全文检索） ============ -->
+  <template id="view-db_lyric">
+    <div class="dbwrap">
+      <div class="card filter-card">
+        <h3>📝 歌词全文检索</h3>
+        <p class="desc">基于 <b>SQLite FTS5 全文索引</b>（索引列为 jieba 分词结果）。输入意象 / 关键词，命中片段高亮显示；可按 LDA 主题筛选。未被分词命中时自动回退原文扫描。</p>
+        <div class="filters">
+          <label>关键词<input id="fl_q" placeholder="如 青春 / 故乡 / 海" /></label>
+          <label>主题
+            <select id="fl_topic"><option value="">全部主题</option></select>
+          </label>
+          <button class="btn-go" id="fl_go">检索</button>
+          <button class="btn-reset" id="fl_reset">重置</button>
+        </div>
+      </div>
+      <div class="card">
+        <div class="result-head"><span id="fl_count" class="result-count"></span><span id="fl_pager" class="pager"></span></div>
+        <div id="fl_list" class="dblist"></div>
+      </div>
+    </div>
+  </template>
+
+  <!-- ============ 数据库 · 评论（全文检索 + 情感） ============ -->
+  <template id="view-db_comment">
+    <div class="dbwrap">
+      <div class="card filter-card">
+        <h3>💬 评论全文检索</h3>
+        <p class="desc">在 <b id="db_cmt_total">20.8 万</b> 条评论中全文检索，可叠加 <b>情感倾向</b> 与 <b>点赞下限</b>。情感由情感词典在构建期标注（正向/中性/负向）。</p>
+        <div class="filters">
+          <label>关键词<input id="fc_q" placeholder="如 想哭 / 回忆 / 前任" /></label>
+          <label>情感
+            <select id="fc_sent"><option value="">全部</option><option value="正向">正向</option><option value="中性">中性</option><option value="负向">负向</option></select>
+          </label>
+          <label>点赞≥<input id="fc_lmin" type="number" placeholder="如 1000" /></label>
+          <label>排序
+            <select id="fc_sort"><option value="liked">按点赞</option><option value="relevance">按相关度</option></select>
+          </label>
+          <button class="btn-go" id="fc_go">检索</button>
+          <button class="btn-reset" id="fc_reset">重置</button>
+        </div>
+      </div>
+      <div class="card">
+        <div class="result-head"><span id="fc_count" class="result-count"></span><span id="fc_pager" class="pager"></span></div>
+        <div id="fc_list" class="dblist"></div>
+      </div>
+    </div>
+  </template>
+
+  <!-- 详情抽屉 -->
+  <div id="drawer" class="drawer"><div class="drawer-mask"></div><div class="drawer-body"><button class="drawer-x">✕</button><div id="drawer-content"></div></div></div>
+
+  <!-- ============ 创新 · 歌词意象地图 ============ -->
+  <template id="view-imagery">
+    <div class="dbwrap">
+      <div class="card filter-card">
+        <h3>🗺️ 歌词意象地图 —— 华语歌曲都在唱哪些地方</h3>
+        <p class="desc">对全部华语歌词分词结果匹配<b>地名意象词典</b>（含国内省市 + 国外名城，多写法归并），统计各地点被歌唱的歌曲数与热度。气泡越大该地出现越多，点击查看"唱到这里的歌"。</p>
+        <div id="im_legend" class="ng-legend"></div>
+      </div>
+      <div class="card"><div id="c_imagery" class="chart" style="height:62vh"></div></div>
+    </div>
+  </template>
+
+  <!-- ============ 创新 · 年代时光机 ============ -->
+  <template id="view-era">
+    <div class="dbwrap">
+      <div class="card filter-card">
+        <h3>⏳ 年代时光机 —— 拖动滑块穿越华语乐坛</h3>
+        <p class="desc">选择年份，查看<b>当年高频歌词意象</b>词云的漂移与<b>当年热歌榜</b>。数据按发行年份聚合。</p>
+        <div class="era-slider-wrap">
+          <input type="range" id="era_slider" class="era-slider" />
+          <div class="era-year" id="era_year">—</div>
+        </div>
+      </div>
+      <div class="grid">
+        <div class="card"><h3>当年高频意象词云</h3><div id="c_era_wc" class="chart"></div></div>
+        <div class="card"><h3>当年热歌榜（按真实评论）</h3><div id="era_list" class="list"></div></div>
+      </div>
+    </div>
+  </template>
+
+  <template id="view-rank">
+    <div class="grid">
+      <div class="card span2">
+        <h3>多维热度榜单</h3>
+        <p class="desc">支持三种口径：<b>真实总评论数</b>（采集自接口 total，跨度可达百万）、<b>评论区总点赞</b>、<b>官方综合热度</b>(网易云 popularity 0-100，单曲播放量公开 API 不暴露)。</p>
+        <div class="rank-switch">
+          <button class="rsw active" data-k="rank_comment" data-v="comment_total" data-u="评论数">按真实评论数</button>
+          <button class="rsw" data-k="rank_liked" data-v="total_liked" data-u="点赞">按评论点赞</button>
+          <button class="rsw" data-k="rank_pop" data-v="pop" data-u="热度">按官方热度</button>
+        </div>
+        <div id="c_rank" class="chart tall"></div>
+      </div>
+      <div class="card"><h3>爆款时长分布</h3><p class="desc">主流华语歌曲时长集中区间。</p><div id="c_dur" class="chart"></div></div>
+      <div class="card"><h3>歌手热度 Top</h3><p class="desc">热度 = log(真实总评论)·3 + log(总点赞) + 作品数 + 平均热度/20。</p><div id="c_arthot" class="chart"></div></div>
+      <div class="card span2"><h3>年代发行量 & 平均真实评论</h3><p class="desc">发行年份取自专辑 publishTime；平均评论用真实总评论数。</p><div id="c_year" class="chart"></div></div>
+    </div>
+  </template>
+
+  <template id="view-sentiment">
+    <div class="grid">
+      <div class="card"><h3>评论情感分布（三分类）</h3><p class="desc">MLlib LogisticRegression 预测情感得分，按阈值分 正向(&gt;0.6)/中性/负向(&lt;0.4)。</p><div id="c_sentdist" class="chart"></div></div>
+      <div class="card"><h3>争议歌曲榜</h3><p class="desc">争议指数 = 情感方差 × 正负平衡度，越高表示评价越两极分化（非单纯方差）。</p><div id="c_contro" class="chart"></div></div>
+      <div class="card"><h3>情绪歌曲榜</h3><p class="desc">基于情绪词典对评论打标后按歌聚合。</p>
+        <div class="rank-switch">
+          <button class="rsw active" data-k="tearjerker" data-v="tear_sum">😢 最催泪</button>
+          <button class="rsw" data-k="rank_healing" data-v="cnt">🌿 最治愈</button>
+          <button class="rsw" data-k="rank_inspire" data-v="cnt">🔥 最励志</button>
+        </div>
+        <div id="c_emorank" class="chart"></div>
+      </div>
+      <div class="card"><h3>高赞金句 / 催泪故事热评</h3><p class="desc">每条标注所属《歌曲》— 歌手。</p>
+        <div class="rank-switch">
+          <button class="rsw active" data-k="top_comments">👍 高赞金句</button>
+          <button class="rsw" data-k="tear_comments">😢 催泪故事</button>
+        </div>
+        <div id="cmt_list" class="list"></div>
+      </div>
+    </div>
+  </template>
+
+  <template id="view-topic">
+    <div class="grid">
+      <div class="card span2"><h3>LDA 歌词主题（自动命名）</h3><p class="desc">从全部华语歌词中无监督发现若干主题，下方为各主题代表词、归属歌曲数与代表歌曲。</p><div id="topic_cards" class="topic-cards"></div></div>
+      <div class="card"><h3>主题歌曲分布</h3><div id="c_topicdist" class="chart"></div></div>
+      <div class="card span2"><h3>歌词年代主题河流图</h3><p class="desc">各主题歌曲数随发行年份的变迁。</p><div id="c_river" class="chart"></div></div>
+      <div class="card"><h3>热评话题词云</h3><div id="c_wc" class="chart"></div></div>
+      <div class="card"><h3>歌词主题词云</h3><div id="c_wcl" class="chart"></div></div>
+    </div>
+  </template>
+
+  <template id="view-mood">
+    <div class="grid">
+      <div class="card span2"><h3>🎧 情绪点歌 —— 选择心情，为你推荐</h3>
+        <p class="desc">基于歌词情绪词典，把歌曲打上 治愈/emo/励志/甜蜜/怀旧 标签，点选心情即出歌单。</p>
+        <div id="mood_btns" class="mood-btns"></div>
+        <div id="mood_list" class="list big"></div></div>
+      <div class="card span2"><h3>🎯 相似歌曲推荐（内容推荐）</h3>
+        <p class="desc">基于歌词 LDA 主题向量的余弦相似度：<b>选一首你喜欢的歌，为你找出歌词主题最接近的歌</b>。</p>
+        <select id="rec_sel"></select>
+        <div id="rec_result" class="list"></div></div>
+    </div>
+  </template>
+
+  <template id="view-artist">
+    <div class="grid">
+      <div class="card"><h3>歌手影响力排行</h3><p class="desc">影响力 = log(真实总评论)·2 + log(总点赞) + 作品数。</p><div id="c_influence" class="chart"></div></div>
+      <div class="card"><h3>歌手词风雷达</h3><p class="desc">选择歌手查看其多维画像。</p>
+        <select id="artist_sel"></select>
+        <div id="c_radar" class="chart"></div></div>
+      <div class="card span2"><h3>歌手画像明细（含词风关键词）</h3><div id="artist_tbl" class="table-wrap"></div></div>
+    </div>
+  </template>
+
+  <script>(function(){var y=new Date().getFullYear();['fs_ymin','fs_ymax'].forEach(function(id){var el=document.getElementById(id);if(el)el.max=y;});var to=document.getElementById('fs_ymax');if(to)to.placeholder=String(y);})();</script>
+  <script src="db.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

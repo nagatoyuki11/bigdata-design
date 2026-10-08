@@ -1,0 +1,8898 @@
+[
+  {
+    "year": 1970,
+    "song_count": 4,
+    "total_cmt": 1672,
+    "top_songs": [
+      {
+        "name": "难忘今宵",
+        "artist": "李谷一",
+        "album": "世纪歌典（第十四辑）1978-2000（5）",
+        "cmt": 1541,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "Slightly All The Time (Remastered 2006)",
+        "artist": "Soft Machine",
+        "album": "Third",
+        "cmt": 129,
+        "topic": null
+      },
+      {
+        "name": "Domino",
+        "artist": "Van Morrison",
+        "album": "His Band And The Street Choir (Bonus Tracks)",
+        "cmt": 2,
+        "topic": null
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "李谷一",
+        "cmt": 1541,
+        "songs": 1
+      },
+      {
+        "name": "Soft Machine",
+        "cmt": 129,
+        "songs": 1
+      },
+      {
+        "name": "Van Morrison",
+        "cmt": 2,
+        "songs": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "怀旧青春",
+        "cnt": 1
+      }
+    ],
+    "top_words": [
+      {
+        "word": "祖国",
+        "count": 8
+      },
+      {
+        "word": "今宵",
+        "count": 7
+      },
+      {
+        "word": "祝愿",
+        "count": 6
+      },
+      {
+        "word": "难忘",
+        "count": 5
+      },
+      {
+        "word": "无论",
+        "count": 3
+      },
+      {
+        "word": "青山",
+        "count": 3
+      },
+      {
+        "word": "乔羽",
+        "count": 2
+      },
+      {
+        "word": "天涯",
+        "count": 2
+      }
+    ],
+    "comment": "文革末期至改革开放前夕，华语流行音乐几乎处于停滞状态，仅有极少数作品流传。1970年是华语乐坛的小年，全年收录4首歌曲，累计1672条评论，讨论量有限（注：早期数据受限于平台收录）。年度最具影响力歌手为「李谷一」，共贡献1首作品，收获1541条评论。紧随其后的是Soft Machine、Van Morrison等实力歌手。年度金曲《难忘今宵》（李谷一）以1541条评论位居榜首，《Slightly All The Time (Remastered 2006)》（Soft Machine）、《Domino》（Van Morrison）等作品同样深入人心。年度创作主题集中于「怀旧青春」，反映了这一年的社会情绪与听众偏好。年度歌词高频词为「祖国、今宵、祝愿、难忘、无论」，勾勒出这一年大众的情感底色。金曲「难忘今宵」评论量断层领先，是第二名「Slightly All The Time (Remastered 2006)」的11倍。"
+  },
+  {
+    "year": 1971,
+    "song_count": 10,
+    "total_cmt": 2525,
+    "top_songs": [
+      {
+        "name": "One Of These Days",
+        "artist": "Pink Floyd",
+        "album": "Meddle",
+        "cmt": 857,
+        "topic": null
+      },
+      {
+        "name": "Maggot Brain",
+        "artist": "Funkadelic",
+        "album": "Maggot Brain",
+        "cmt": 776,
+        "topic": null
+      },
+      {
+        "name": "Prelude - Song Of The Gulls",
+        "artist": "King Crimson",
+        "album": "Islands",
+        "cmt": 452,
+        "topic": null
+      },
+      {
+        "name": "The Noonward Race",
+        "artist": "Mahavishnu Orchestra",
+        "album": "The Inner Mounting Flame",
+        "cmt": 167,
+        "topic": null
+      },
+      {
+        "name": "Right Off",
+        "artist": "Miles Davis",
+        "album": "A Tribute To Jack Johnson",
+        "cmt": 145,
+        "topic": null
+      },
+      {
+        "name": "Journey In Satchidananda",
+        "artist": "Alice Coltrane/Pharoah Sanders",
+        "album": "Journey in Satchidananda",
+        "cmt": 97,
+        "topic": null
+      },
+      {
+        "name": "Jump Into The Fire",
+        "artist": "Harry Nilsson",
+        "album": "Nilsson Schmilsson",
+        "cmt": 13,
+        "topic": null
+      },
+      {
+        "name": "Girl You Need A Change Of Mind",
+        "artist": "Eddie Kendricks",
+        "album": "People... Hold On",
+        "cmt": 11,
+        "topic": null
+      },
+      {
+        "name": "Traction in the Rain",
+        "artist": "David Crosby",
+        "album": "If I Could Only Remember My Name",
+        "cmt": 5,
+        "topic": null
+      },
+      {
+        "name": "The Rising of the Moon",
+        "artist": "Tia Blake",
+        "album": "Folksongs & Ballads",
+        "cmt": 2,
+        "topic": null
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "Pink Floyd",
+        "cmt": 857,
+        "songs": 1
+      },
+      {
+        "name": "Funkadelic",
+        "cmt": 776,
+        "songs": 1
+      },
+      {
+        "name": "King Crimson",
+        "cmt": 452,
+        "songs": 1
+      },
+      {
+        "name": "Mahavishnu Orchestra",
+        "cmt": 167,
+        "songs": 1
+      },
+      {
+        "name": "Miles Davis",
+        "cmt": 145,
+        "songs": 1
+      }
+    ],
+    "top_topics": [],
+    "top_words": [],
+    "comment": "文革末期至改革开放前夕，华语流行音乐几乎处于停滞状态，仅有极少数作品流传。1971年是华语乐坛的小年，全年收录10首歌曲，累计2525条评论，讨论量有限（注：早期数据受限于平台收录）。年度最具影响力歌手为「Pink Floyd」，共贡献1首作品，收获857条评论。紧随其后的是Funkadelic、King Crimson、Mahavishnu Orchestra等实力歌手。年度金曲《One Of These Days》（Pink Floyd）以857条评论位居榜首，《Maggot Brain》（Funkadelic）、《Prelude - Song Of The Gulls》（King Crimson）等作品同样深入人心。黑马「Pink Floyd」首度登顶年度歌手榜，一鸣惊人。"
+  },
+  {
+    "year": 1972,
+    "song_count": 10,
+    "total_cmt": 378,
+    "top_songs": [
+      {
+        "name": "冬の夜",
+        "artist": "古井戸",
+        "album": "オレンジ色のすけっち",
+        "cmt": 206,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "A Love Supreme",
+        "artist": "John McLaughlin",
+        "album": "Love Devotion Surrender",
+        "cmt": 88,
+        "topic": null
+      },
+      {
+        "name": "Song of the Wind",
+        "artist": "Santana",
+        "album": "Caravanserai",
+        "cmt": 33,
+        "topic": null
+      },
+      {
+        "name": "El Condor Pasa (If I Could)",
+        "artist": "Simon & Garfunkel",
+        "album": "Greatest Hits",
+        "cmt": 23,
+        "topic": "综合主题"
+      },
+      {
+        "name": "Down Day",
+        "artist": "Tir Na Nog",
+        "album": "A Tear and a Smile",
+        "cmt": 12,
+        "topic": null
+      },
+      {
+        "name": "Samantha's Rabbit",
+        "artist": "Guru Guru",
+        "album": "Guru Guru",
+        "cmt": 7,
+        "topic": null
+      },
+      {
+        "name": "It Doesn't Have to Be That Way",
+        "artist": "Jim Croce",
+        "album": "Life and Times",
+        "cmt": 4,
+        "topic": null
+      },
+      {
+        "name": "So Freely",
+        "artist": "Tir Na Nog",
+        "album": "A Tear and a Smile",
+        "cmt": 3,
+        "topic": null
+      },
+      {
+        "name": "Please Mrs Henry",
+        "artist": "Manfred Mann's Earth Band",
+        "album": "Manfred Mann's Earth Band",
+        "cmt": 2,
+        "topic": null
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "古井戸",
+        "cmt": 206,
+        "songs": 1
+      },
+      {
+        "name": "John McLaughlin",
+        "cmt": 88,
+        "songs": 1
+      },
+      {
+        "name": "Santana",
+        "cmt": 33,
+        "songs": 1
+      },
+      {
+        "name": "Simon & Garfunkel",
+        "cmt": 23,
+        "songs": 1
+      },
+      {
+        "name": "Tir Na Nog",
+        "cmt": 15,
+        "songs": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "综合主题",
+        "cnt": 1
+      },
+      {
+        "name": "怀旧青春",
+        "cnt": 1
+      }
+    ],
+    "top_words": [
+      {
+        "word": "would",
+        "count": 8
+      },
+      {
+        "word": "宁愿",
+        "count": 7
+      },
+      {
+        "word": "rather",
+        "count": 5
+      },
+      {
+        "word": "yes",
+        "count": 4
+      },
+      {
+        "word": "如此",
+        "count": 4
+      },
+      {
+        "word": "if",
+        "count": 4
+      },
+      {
+        "word": "could",
+        "count": 4
+      },
+      {
+        "word": "我能",
+        "count": 4
+      }
+    ],
+    "comment": "文革末期至改革开放前夕，华语流行音乐几乎处于停滞状态，仅有极少数作品流传。1972年是华语乐坛的小年，全年收录10首歌曲，累计378条评论，讨论量有限（注：早期数据受限于平台收录）。年度最具影响力歌手为「古井戸」，共贡献1首作品，收获206条评论。紧随其后的是John McLaughlin、Santana、Simon & Garfunkel等实力歌手。年度金曲《冬の夜》（古井戸）以206条评论位居榜首，《A Love Supreme》（John McLaughlin）、《Song of the Wind》（Santana）等作品同样深入人心。年度创作主题集中于「综合主题、怀旧青春」，反映了这一年的社会情绪与听众偏好。年度歌词高频词为「would、宁愿、rather、yes、如此」，勾勒出这一年大众的情感底色。黑马「古井戸」首度登顶年度歌手榜，一鸣惊人。"
+  },
+  {
+    "year": 1973,
+    "song_count": 6,
+    "total_cmt": 1265,
+    "top_songs": [
+      {
+        "name": "Quarto de Hotel",
+        "artist": "Hareton Salvanini",
+        "album": "A Virgem de Saint Tropez (Trilha Sonora Original)",
+        "cmt": 525,
+        "topic": null
+      },
+      {
+        "name": "Chameleon",
+        "artist": "Herbie Hancock",
+        "album": "Head Hunters",
+        "cmt": 444,
+        "topic": null
+      },
+      {
+        "name": "Summer Madness",
+        "artist": "Kool & the Gang",
+        "album": "Light Of Worlds",
+        "cmt": 273,
+        "topic": null
+      },
+      {
+        "name": "Hello New York",
+        "artist": "Silverhead",
+        "album": "16 and Savaged",
+        "cmt": 13,
+        "topic": null
+      },
+      {
+        "name": "Wayfaring Pilgrim",
+        "artist": "Roy Buchanan",
+        "album": "In The Beginning",
+        "cmt": 7,
+        "topic": null
+      },
+      {
+        "name": "Midnight Rider",
+        "artist": "Duane Allman/The Allman Brothers Band, The Allman Brothers Band",
+        "album": "An Anthology Vol. II",
+        "cmt": 3,
+        "topic": null
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "Hareton Salvanini",
+        "cmt": 525,
+        "songs": 1
+      },
+      {
+        "name": "Herbie Hancock",
+        "cmt": 444,
+        "songs": 1
+      },
+      {
+        "name": "Kool & the Gang",
+        "cmt": 273,
+        "songs": 1
+      },
+      {
+        "name": "Silverhead",
+        "cmt": 13,
+        "songs": 1
+      },
+      {
+        "name": "Roy Buchanan",
+        "cmt": 7,
+        "songs": 1
+      }
+    ],
+    "top_topics": [],
+    "top_words": [],
+    "comment": "文革末期至改革开放前夕，华语流行音乐几乎处于停滞状态，仅有极少数作品流传。1973年是华语乐坛的小年，全年收录6首歌曲，累计1265条评论，讨论量有限（注：早期数据受限于平台收录）。年度最具影响力歌手为「Hareton Salvanini」，共贡献1首作品，收获525条评论。紧随其后的是Herbie Hancock、Kool & the Gang、Silverhead等实力歌手。年度金曲《Quarto de Hotel》（Hareton Salvanini）以525条评论位居榜首，《Chameleon》（Herbie Hancock）、《Summer Madness》（Kool & the Gang）等作品同样深入人心。黑马「Hareton Salvanini」首度登顶年度歌手榜，一鸣惊人。"
+  },
+  {
+    "year": 1974,
+    "song_count": 11,
+    "total_cmt": 4930,
+    "top_songs": [
+      {
+        "name": "双星情歌",
+        "artist": "许冠杰",
+        "album": "鬼马双星",
+        "cmt": 2488,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "Red",
+        "artist": "King Crimson",
+        "album": "Red",
+        "cmt": 1141,
+        "topic": null
+      },
+      {
+        "name": "Providence",
+        "artist": "King Crimson",
+        "album": "Red",
+        "cmt": 499,
+        "topic": null
+      },
+      {
+        "name": "铁塔凌云",
+        "artist": "许冠杰",
+        "album": "鬼马双星",
+        "cmt": 341,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "大家乐",
+        "artist": "温拿乐队",
+        "album": "大家乐",
+        "cmt": 168,
+        "topic": null
+      },
+      {
+        "name": "I Want'a Do Something Freaky To You",
+        "artist": "Leon Haywood",
+        "album": "Come And Get Yourself Some",
+        "cmt": 151,
+        "topic": null
+      },
+      {
+        "name": "Starless And Bible Black",
+        "artist": "King Crimson",
+        "album": "Starless And Bible Black",
+        "cmt": 102,
+        "topic": null
+      },
+      {
+        "name": "追赶跑跳碰",
+        "artist": "温拿乐队",
+        "album": "温拿最受欢迎歌曲纪念专集",
+        "cmt": 16,
+        "topic": null
+      },
+      {
+        "name": "Vulcan Worlds",
+        "artist": "Return to Forever",
+        "album": "Where Have I Known You Before",
+        "cmt": 15,
+        "topic": null
+      },
+      {
+        "name": "The Way I Want To Touch You",
+        "artist": "Captain & Tennille",
+        "album": "Love Will Keep Us Together",
+        "cmt": 9,
+        "topic": null
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "许冠杰",
+        "cmt": 2829,
+        "songs": 2
+      },
+      {
+        "name": "King Crimson",
+        "cmt": 1742,
+        "songs": 3
+      },
+      {
+        "name": "温拿乐队",
+        "cmt": 184,
+        "songs": 2
+      },
+      {
+        "name": "Leon Haywood",
+        "cmt": 151,
+        "songs": 1
+      },
+      {
+        "name": "Return to Forever",
+        "cmt": 15,
+        "songs": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "怀旧青春",
+        "cnt": 2
+      }
+    ],
+    "top_words": [
+      {
+        "word": "大家",
+        "count": 17
+      },
+      {
+        "word": "欢笑",
+        "count": 16
+      },
+      {
+        "word": "人人",
+        "count": 12
+      },
+      {
+        "word": "美妙",
+        "count": 8
+      },
+      {
+        "word": "笑笑",
+        "count": 8
+      },
+      {
+        "word": "快乐",
+        "count": 8
+      },
+      {
+        "word": "更妙",
+        "count": 6
+      },
+      {
+        "word": "同聚",
+        "count": 6
+      }
+    ],
+    "comment": "文革末期至改革开放前夕，华语流行音乐几乎处于停滞状态，仅有极少数作品流传。1974年是华语乐坛的小年，全年收录11首歌曲，累计4930条评论，讨论量有限（注：早期数据受限于平台收录）。年度最具影响力歌手为「许冠杰」，共贡献2首作品，收获2829条评论。紧随其后的是King Crimson、温拿乐队、Leon Haywood等实力歌手。年度金曲《双星情歌》（许冠杰）以2488条评论位居榜首，《Red》（King Crimson）、《Providence》（King Crimson）等作品同样深入人心。年度创作主题集中于「怀旧青春」，反映了这一年的社会情绪与听众偏好。年度歌词高频词为「大家、欢笑、人人、美妙、笑笑」，勾勒出这一年大众的情感底色。"
+  },
+  {
+    "year": 1975,
+    "song_count": 9,
+    "total_cmt": 24949,
+    "top_songs": [
+      {
+        "name": "天才白痴梦",
+        "artist": "许冠杰",
+        "album": "天才与白痴",
+        "cmt": 19703,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "帝女花",
+        "artist": "郑少秋/佩佩",
+        "album": "天涯孤客",
+        "cmt": 3457,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "Cause We've Ended as Lovers",
+        "artist": "Jeff Beck",
+        "album": "Blow By Blow",
+        "cmt": 1147,
+        "topic": null
+      },
+      {
+        "name": "望郷",
+        "artist": "山崎ハコ",
+        "album": "飛・び・ま・す",
+        "cmt": 280,
+        "topic": "励志成长"
+      },
+      {
+        "name": "It Could Happen To You",
+        "artist": "Ryo Fukui",
+        "album": "Scenery",
+        "cmt": 135,
+        "topic": null
+      },
+      {
+        "name": "地平線",
+        "artist": "森田童子",
+        "album": "Good-Bye",
+        "cmt": 114,
+        "topic": "励志成长"
+      },
+      {
+        "name": "优美子の春",
+        "artist": "友川かずき",
+        "album": "やっと一枚目",
+        "cmt": 108,
+        "topic": null
+      },
+      {
+        "name": "Dói",
+        "artist": "Tom Zé",
+        "album": "Estudando o samba",
+        "cmt": 4,
+        "topic": null
+      },
+      {
+        "name": "Ngungi",
+        "artist": "Franco and Rochereau",
+        "album": "Omona Wapi",
+        "cmt": 1,
+        "topic": null
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "许冠杰",
+        "cmt": 19703,
+        "songs": 1
+      },
+      {
+        "name": "郑少秋",
+        "cmt": 3457,
+        "songs": 1
+      },
+      {
+        "name": "Jeff Beck",
+        "cmt": 1147,
+        "songs": 1
+      },
+      {
+        "name": "山崎ハコ",
+        "cmt": 280,
+        "songs": 1
+      },
+      {
+        "name": "Ryo Fukui",
+        "cmt": 135,
+        "songs": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "怀旧青春",
+        "cnt": 2
+      },
+      {
+        "name": "励志成长",
+        "cnt": 2
+      }
+    ],
+    "top_words": [
+      {
+        "word": "地平线",
+        "count": 10
+      },
+      {
+        "word": "驸马",
+        "count": 5
+      },
+      {
+        "word": "花烛",
+        "count": 4
+      },
+      {
+        "word": "寻梦",
+        "count": 3
+      },
+      {
+        "word": "梦里",
+        "count": 3
+      },
+      {
+        "word": "優美子",
+        "count": 3
+      },
+      {
+        "word": "许冠杰",
+        "count": 2
+      },
+      {
+        "word": "天造",
+        "count": 2
+      }
+    ],
+    "comment": "文革末期至改革开放前夕，华语流行音乐几乎处于停滞状态，仅有极少数作品流传。1975年是华语乐坛的小年，全年收录9首歌曲，累计2.5万条评论，讨论量有限（注：早期数据受限于平台收录）。年度最具影响力歌手为「许冠杰」，共贡献1首作品，收获2.0万条评论。紧随其后的是郑少秋、Jeff Beck、山崎ハコ等实力歌手。年度金曲《天才白痴梦》（许冠杰）以2.0万条评论位居榜首，《帝女花》（郑少秋/佩佩）、《Cause We've Ended as Lovers》（Jeff Beck）等作品同样深入人心。年度创作主题集中于「怀旧青春、励志成长」，反映了这一年的社会情绪与听众偏好。年度歌词高频词为「地平线、驸马、花烛、寻梦、梦里」，勾勒出这一年大众的情感底色。「许冠杰」连续两年登顶年度歌手榜首，势头正盛。金曲「天才白痴梦」评论量断层领先，是第二名「帝女花」的5倍。"
+  },
+  {
+    "year": 1976,
+    "song_count": 13,
+    "total_cmt": 15883,
+    "top_songs": [
+      {
+        "name": "半斤八两",
+        "artist": "许冠杰",
+        "album": "半斤八两",
+        "cmt": 8893,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "有酒今朝醉",
+        "artist": "许冠杰",
+        "album": "半斤八两",
+        "cmt": 4038,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "梨涡浅笑",
+        "artist": "许冠杰",
+        "album": "半斤八两",
+        "cmt": 2257,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "泰安洋行",
+        "artist": "細野晴臣",
+        "album": "泰安洋行",
+        "cmt": 231,
+        "topic": null
+      },
+      {
+        "name": "A Song For Lady Violetta",
+        "artist": "四人囃子",
+        "album": "ゴールデン・ピクニックス",
+        "cmt": 217,
+        "topic": null
+      },
+      {
+        "name": "Bright Size Life",
+        "artist": "Pat Metheny/Jaco Pastorius/Bob Moses",
+        "album": "Bright Size Life",
+        "cmt": 98,
+        "topic": null
+      },
+      {
+        "name": "Led Boots",
+        "artist": "Jeff Beck",
+        "album": "Wired",
+        "cmt": 48,
+        "topic": null
+      },
+      {
+        "name": "知音梦里寻",
+        "artist": "陈丽斯",
+        "album": "高歌",
+        "cmt": 47,
+        "topic": "励志成长"
+      },
+      {
+        "name": "美丽的稻穗",
+        "artist": "杨弦/胡德夫",
+        "album": "西出阳关",
+        "cmt": 47,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "西出阳关",
+        "artist": "杨弦/王沧津",
+        "album": "西出阳关",
+        "cmt": 7,
+        "topic": "人生哲思"
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "许冠杰",
+        "cmt": 15188,
+        "songs": 3
+      },
+      {
+        "name": "細野晴臣",
+        "cmt": 231,
+        "songs": 1
+      },
+      {
+        "name": "四人囃子",
+        "cmt": 217,
+        "songs": 1
+      },
+      {
+        "name": "Pat Metheny",
+        "cmt": 98,
+        "songs": 1
+      },
+      {
+        "name": "杨弦",
+        "cmt": 54,
+        "songs": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "怀旧青春",
+        "cnt": 2
+      },
+      {
+        "name": "孤独emo",
+        "cnt": 2
+      },
+      {
+        "name": "励志成长",
+        "cnt": 1
+      },
+      {
+        "name": "人生哲思",
+        "cnt": 1
+      }
+    ],
+    "top_words": [
+      {
+        "word": "yan",
+        "count": 14
+      },
+      {
+        "word": "欧以",
+        "count": 13
+      },
+      {
+        "word": "许冠杰",
+        "count": 8
+      },
+      {
+        "word": "有酒",
+        "count": 8
+      },
+      {
+        "word": "应该",
+        "count": 8
+      },
+      {
+        "word": "今朝",
+        "count": 8
+      },
+      {
+        "word": "属于",
+        "count": 8
+      },
+      {
+        "word": "半斤八两",
+        "count": 8
+      }
+    ],
+    "comment": "文革末期至改革开放前夕，华语流行音乐几乎处于停滞状态，仅有极少数作品流传。1976年是华语乐坛的小年，全年收录13首歌曲，累计1.6万条评论，讨论量有限（注：早期数据受限于平台收录）。年度最具影响力歌手为「许冠杰」，共贡献3首作品，收获1.5万条评论。紧随其后的是細野晴臣、四人囃子、Pat Metheny等实力歌手。年度金曲《半斤八两》（许冠杰）以8893条评论位居榜首，《有酒今朝醉》（许冠杰）、《梨涡浅笑》（许冠杰）等作品同样深入人心。年度创作主题集中于「怀旧青春、孤独emo、励志成长」，反映了这一年的社会情绪与听众偏好。年度歌词高频词为「yan、欧以、许冠杰、有酒、应该」，勾勒出这一年大众的情感底色。🎖️「许冠杰」连续三年蝉联年度歌手榜首，堪称一代天王。"
+  },
+  {
+    "year": 1977,
+    "song_count": 10,
+    "total_cmt": 3705,
+    "top_songs": [
+      {
+        "name": "凝望",
+        "artist": "张国荣",
+        "album": "I Like Dreamin'",
+        "cmt": 2636,
+        "topic": null
+      },
+      {
+        "name": "都会",
+        "artist": "大貫妙子",
+        "album": "Sunshower",
+        "cmt": 457,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "Speed of Life (2017 Remaster)",
+        "artist": "David Bowie",
+        "album": "Low (2017 Remaster)",
+        "cmt": 205,
+        "topic": null
+      },
+      {
+        "name": "A New Career in a New Town (2017 Remaster)",
+        "artist": "David Bowie",
+        "album": "Low (2017 Remaster)",
+        "cmt": 135,
+        "topic": null
+      },
+      {
+        "name": "Weeping Wall (2017 Remaster)",
+        "artist": "David Bowie",
+        "album": "Low (2017 Remaster)",
+        "cmt": 120,
+        "topic": null
+      },
+      {
+        "name": "鳄鱼泪",
+        "artist": "袁丽嫦",
+        "album": "鳄鱼泪",
+        "cmt": 80,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "Teen Town",
+        "artist": "Weather Report",
+        "album": "Heavy Weather",
+        "cmt": 35,
+        "topic": null
+      },
+      {
+        "name": "让花儿为你开",
+        "artist": "邓丽君",
+        "album": "小村之恋",
+        "cmt": 19,
+        "topic": "离别思念"
+      },
+      {
+        "name": "Odyssey",
+        "artist": "The Dixie Dregs",
+        "album": "What If",
+        "cmt": 10,
+        "topic": null
+      },
+      {
+        "name": "Waiting In Vain",
+        "artist": "Bob Marley & The Wailers/Bob Marley",
+        "album": "Exodus (Deluxe Edition)",
+        "cmt": 8,
+        "topic": null
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "张国荣",
+        "cmt": 2636,
+        "songs": 1
+      },
+      {
+        "name": "David Bowie",
+        "cmt": 460,
+        "songs": 3
+      },
+      {
+        "name": "大貫妙子",
+        "cmt": 457,
+        "songs": 1
+      },
+      {
+        "name": "袁丽嫦",
+        "cmt": 80,
+        "songs": 1
+      },
+      {
+        "name": "Weather Report",
+        "cmt": 35,
+        "songs": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "离别思念",
+        "cnt": 1
+      },
+      {
+        "name": "孤独emo",
+        "cnt": 1
+      },
+      {
+        "name": "人生哲思",
+        "cnt": 1
+      }
+    ],
+    "top_words": [
+      {
+        "word": "日暮",
+        "count": 5
+      },
+      {
+        "word": "是否",
+        "count": 4
+      },
+      {
+        "word": "心中",
+        "count": 4
+      },
+      {
+        "word": "希望",
+        "count": 4
+      },
+      {
+        "word": "一緒",
+        "count": 4
+      },
+      {
+        "word": "仙乐",
+        "count": 4
+      },
+      {
+        "word": "永远",
+        "count": 3
+      },
+      {
+        "word": "眼泪",
+        "count": 3
+      }
+    ],
+    "comment": "文革末期至改革开放前夕，华语流行音乐几乎处于停滞状态，仅有极少数作品流传。1977年是华语乐坛的小年，全年收录10首歌曲，累计3705条评论，讨论量有限（注：早期数据受限于平台收录）。年度最具影响力歌手为「张国荣」，共贡献1首作品，收获2636条评论。紧随其后的是David Bowie、大貫妙子、袁丽嫦等实力歌手。年度金曲《凝望》（张国荣）以2636条评论位居榜首，《都会》（大貫妙子）、《Speed of Life (2017 Remaster)》（David Bowie）等作品同样深入人心。年度创作主题集中于「离别思念、孤独emo、人生哲思」，反映了这一年的社会情绪与听众偏好。年度歌词高频词为「日暮、是否、心中、希望、一緒」，勾勒出这一年大众的情感底色。年度主旋律从「怀旧青春」转向「离别思念」，听众心态发生变化。金曲「凝望」评论量断层领先，是第二名「都会」的5倍。"
+  },
+  {
+    "year": 1978,
+    "song_count": 16,
+    "total_cmt": 34164,
+    "top_songs": [
+      {
+        "name": "Mariage d'amour",
+        "artist": "Richard Clayderman",
+        "album": "Lettre à ma mère",
+        "cmt": 25935,
+        "topic": null
+      },
+      {
+        "name": "Eruption (2015 Remaster)",
+        "artist": "Van Halen",
+        "album": "Van Halen (Remastered)",
+        "cmt": 2108,
+        "topic": null
+      },
+      {
+        "name": "每當變幻時",
+        "artist": "薰妮",
+        "album": "每當變幻時｜飄零夢",
+        "cmt": 2080,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "Chase",
+        "artist": "Giorgio Moroder",
+        "album": "Midnight Express (Soundtrack)",
+        "cmt": 1177,
+        "topic": null
+      },
+      {
+        "name": "卖身契",
+        "artist": "许冠杰",
+        "album": "卖身契",
+        "cmt": 947,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "一封情书",
+        "artist": "邓丽君",
+        "album": "一封情书",
+        "cmt": 744,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "陌上归人",
+        "artist": "区瑞强",
+        "album": "Albert Au…",
+        "cmt": 414,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "夜来香",
+        "artist": "凤飞飞",
+        "album": "夜来香",
+        "cmt": 371,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "1/1 (Remastered 2004)",
+        "artist": "Brian Eno",
+        "album": "Ambient 1/Music For Airports",
+        "cmt": 354,
+        "topic": null
+      },
+      {
+        "name": "我唱歌给你听",
+        "artist": "杨祖珺",
+        "album": "杨祖珺专辑",
+        "cmt": 34,
+        "topic": "人生哲思"
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "Richard Clayderman",
+        "cmt": 25935,
+        "songs": 1
+      },
+      {
+        "name": "Van Halen",
+        "cmt": 2108,
+        "songs": 1
+      },
+      {
+        "name": "薰妮",
+        "cmt": 2080,
+        "songs": 1
+      },
+      {
+        "name": "Giorgio Moroder",
+        "cmt": 1177,
+        "songs": 1
+      },
+      {
+        "name": "许冠杰",
+        "cmt": 947,
+        "songs": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "怀旧青春",
+        "cnt": 4
+      },
+      {
+        "name": "离别思念",
+        "cnt": 2
+      },
+      {
+        "name": "孤独emo",
+        "cnt": 1
+      },
+      {
+        "name": "人生哲思",
+        "cnt": 1
+      }
+    ],
+    "top_words": [
+      {
+        "word": "夜来香",
+        "count": 14
+      },
+      {
+        "word": "歌唱",
+        "count": 13
+      },
+      {
+        "word": "卖身契",
+        "count": 8
+      },
+      {
+        "word": "唱歌",
+        "count": 6
+      },
+      {
+        "word": "青春",
+        "count": 6
+      },
+      {
+        "word": "花儿",
+        "count": 5
+      },
+      {
+        "word": "小鸟",
+        "count": 5
+      },
+      {
+        "word": "爱恋",
+        "count": 4
+      }
+    ],
+    "comment": "改革开放初期，港台流行音乐开始进入内地，粤语歌与台湾民谣并行发展。1978年是华语乐坛的小年，全年收录16首歌曲，累计3.4万条评论，讨论量有限（注：早期数据受限于平台收录）。年度最具影响力歌手为「Richard Clayderman」，共贡献1首作品，收获2.6万条评论。紧随其后的是Van Halen、薰妮、Giorgio Moroder等实力歌手。年度金曲《Mariage d'amour》（Richard Clayderman）以2.6万条评论位居榜首，《Eruption (2015 Remaster)》（Van Halen）、《每當變幻時》（薰妮）等作品同样深入人心。年度创作主题集中于「怀旧青春、离别思念、孤独emo」，反映了这一年的社会情绪与听众偏好。年度歌词高频词为「夜来香、歌唱、卖身契、唱歌、青春」，勾勒出这一年大众的情感底色。黑马「Richard Clayderman」首度登顶年度歌手榜，一鸣惊人。年度主旋律从「离别思念」转向「怀旧青春」，听众心态发生变化。金曲「Mariage d'amour」评论量断层领先，是第二名「Eruption (2015 Remaster)」的12倍。"
+  },
+  {
+    "year": 1979,
+    "song_count": 56,
+    "total_cmt": 31912,
+    "top_songs": [
+      {
+        "name": "橄榄树",
+        "artist": "齐豫",
+        "album": "橄榄树",
+        "cmt": 11863,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "小城故事",
+        "artist": "邓丽君",
+        "album": "小城故事",
+        "cmt": 7482,
+        "topic": null
+      },
+      {
+        "name": "微风细雨",
+        "artist": "邓丽君",
+        "album": "一个小心愿",
+        "cmt": 4441,
+        "topic": "励志成长"
+      },
+      {
+        "name": "雨中即景",
+        "artist": "刘文正",
+        "album": "兰花草",
+        "cmt": 1841,
+        "topic": "离别思念"
+      },
+      {
+        "name": "往事只能回味",
+        "artist": "韩宝仪",
+        "album": "韩宝仪旧情绵绵 Vol.1",
+        "cmt": 1621,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "天蚕变",
+        "artist": "关正杰",
+        "album": "天蚕变",
+        "cmt": 1120,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "三岁仔",
+        "artist": "张国荣",
+        "album": "情人箭",
+        "cmt": 1052,
+        "topic": null
+      },
+      {
+        "name": "一窗清响",
+        "artist": "高敏惠",
+        "album": "永远的未央歌-金韵奖(六)",
+        "cmt": 955,
+        "topic": "离别思念"
+      },
+      {
+        "name": "油脂热潮",
+        "artist": "张国荣",
+        "album": "情人箭",
+        "cmt": 895,
+        "topic": null
+      },
+      {
+        "name": "你教我点好?",
+        "artist": "张国荣",
+        "album": "情人箭",
+        "cmt": 642,
+        "topic": null
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "邓丽君",
+        "cmt": 12237,
+        "songs": 3
+      },
+      {
+        "name": "齐豫",
+        "cmt": 11985,
+        "songs": 2
+      },
+      {
+        "name": "张国荣",
+        "cmt": 5275,
+        "songs": 11
+      },
+      {
+        "name": "刘文正",
+        "cmt": 1841,
+        "songs": 1
+      },
+      {
+        "name": "韩宝仪",
+        "cmt": 1621,
+        "songs": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "怀旧青春",
+        "cnt": 10
+      },
+      {
+        "name": "离别思念",
+        "cnt": 4
+      },
+      {
+        "name": "人生哲思",
+        "cnt": 3
+      },
+      {
+        "name": "励志成长",
+        "cnt": 2
+      },
+      {
+        "name": "孤独emo",
+        "cnt": 1
+      }
+    ],
+    "top_words": [
+      {
+        "word": "妈妈",
+        "count": 28
+      },
+      {
+        "word": "open",
+        "count": 16
+      },
+      {
+        "word": "ali",
+        "count": 15
+      },
+      {
+        "word": "梦中",
+        "count": 14
+      },
+      {
+        "word": "alibaba",
+        "count": 13
+      },
+      {
+        "word": "流浪",
+        "count": 13
+      },
+      {
+        "word": "心里",
+        "count": 12
+      },
+      {
+        "word": "怀念",
+        "count": 12
+      }
+    ],
+    "comment": "改革开放初期，港台流行音乐开始进入内地，粤语歌与台湾民谣并行发展。1979年是华语乐坛的小年，全年收录56首歌曲，累计3.2万条评论，讨论量有限（注：早期数据受限于平台收录）。年度最具影响力歌手为「邓丽君」，共贡献3首作品，收获1.2万条评论。紧随其后的是齐豫、张国荣、刘文正等实力歌手。年度金曲《橄榄树》（齐豫）以1.2万条评论位居榜首，《小城故事》（邓丽君）、《微风细雨》（邓丽君）等作品同样深入人心。年度创作主题集中于「怀旧青春、离别思念、人生哲思」，反映了这一年的社会情绪与听众偏好。年度歌词高频词为「妈妈、open、ali、梦中、alibaba」，勾勒出这一年大众的情感底色。"
+  },
+  {
+    "year": 1980,
+    "song_count": 46,
+    "total_cmt": 73165,
+    "top_songs": [
+      {
+        "name": "上海滩",
+        "artist": "叶丽仪",
+        "album": "上海滩",
+        "cmt": 31920,
+        "topic": "励志成长"
+      },
+      {
+        "name": "分分钟需要你",
+        "artist": "林子祥",
+        "album": "林子祥精选集",
+        "cmt": 20257,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "在水一方",
+        "artist": "邓丽君",
+        "album": "在水一方",
+        "cmt": 9499,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "昴-すばる-",
+        "artist": "谷村新司",
+        "album": "昴 -すばる-",
+        "cmt": 3622,
+        "topic": "励志成长"
+      },
+      {
+        "name": "三月里的小雨",
+        "artist": "刘文正",
+        "album": "三月里的小雨",
+        "cmt": 3099,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "玉兰花",
+        "artist": "邰肇玫",
+        "album": "雪歌",
+        "cmt": 1916,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "几分钟的约会",
+        "artist": "陈百强",
+        "album": "陈百强与你几分钟的约会",
+        "cmt": 800,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "蝴蝶泉边",
+        "artist": "李初健/宋艳红",
+        "album": "雷振邦电影歌曲专辑",
+        "cmt": 779,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "上海滩",
+        "artist": "叶丽仪",
+        "album": "上海滩特辑",
+        "cmt": 660,
+        "topic": null
+      },
+      {
+        "name": "不再流泪",
+        "artist": "陈百强",
+        "album": "不再流泪",
+        "cmt": 613,
+        "topic": "励志成长"
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "叶丽仪",
+        "cmt": 32677,
+        "songs": 3
+      },
+      {
+        "name": "林子祥",
+        "cmt": 20257,
+        "songs": 1
+      },
+      {
+        "name": "邓丽君",
+        "cmt": 9499,
+        "songs": 1
+      },
+      {
+        "name": "谷村新司",
+        "cmt": 3622,
+        "songs": 1
+      },
+      {
+        "name": "刘文正",
+        "cmt": 3099,
+        "songs": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "怀旧青春",
+        "cnt": 7
+      },
+      {
+        "name": "人生哲思",
+        "cnt": 4
+      },
+      {
+        "name": "励志成长",
+        "cnt": 3
+      },
+      {
+        "name": "孤独emo",
+        "cnt": 2
+      },
+      {
+        "name": "离别思念",
+        "cnt": 1
+      }
+    ],
+    "top_words": [
+      {
+        "word": "郑国江",
+        "count": 23
+      },
+      {
+        "word": "心中",
+        "count": 18
+      },
+      {
+        "word": "想起",
+        "count": 17
+      },
+      {
+        "word": "快乐",
+        "count": 17
+      },
+      {
+        "word": "欢笑",
+        "count": 14
+      },
+      {
+        "word": "自由",
+        "count": 14
+      },
+      {
+        "word": "琴弦",
+        "count": 13
+      },
+      {
+        "word": "心里",
+        "count": 11
+      }
+    ],
+    "comment": "改革开放初期，港台流行音乐开始进入内地，粤语歌与台湾民谣并行发展。1980年是华语乐坛的小年，全年收录46首歌曲，累计7.3万条评论，讨论量有限（注：早期数据受限于平台收录）。年度最具影响力歌手为「叶丽仪」，共贡献3首作品，收获3.3万条评论。紧随其后的是林子祥、邓丽君、谷村新司等实力歌手。年度金曲《上海滩》（叶丽仪）以3.2万条评论位居榜首，《分分钟需要你》（林子祥）、《在水一方》（邓丽君）等作品同样深入人心。年度创作主题集中于「怀旧青春、人生哲思、励志成长」，反映了这一年的社会情绪与听众偏好。年度歌词高频词为「郑国江、心中、想起、快乐、欢笑」，勾勒出这一年大众的情感底色。黑马「叶丽仪」首度登顶年度歌手榜，一鸣惊人。"
+  },
+  {
+    "year": 1981,
+    "song_count": 47,
+    "total_cmt": 23111,
+    "top_songs": [
+      {
+        "name": "你的眼神",
+        "artist": "蔡琴",
+        "album": "你的眼神",
+        "cmt": 10074,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "旧梦不须记",
+        "artist": "雷安娜",
+        "album": "旧梦不须记",
+        "cmt": 4089,
+        "topic": "励志成长"
+      },
+      {
+        "name": "童年",
+        "artist": "张艾嘉",
+        "album": "童年",
+        "cmt": 3837,
+        "topic": "离别思念"
+      },
+      {
+        "name": "纸船",
+        "artist": "许冠杰",
+        "album": "难忘您‧纸船",
+        "cmt": 1131,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "外婆的澎湖灣",
+        "artist": "潘安邦",
+        "album": "国民歌手 潘安邦 (壹)",
+        "cmt": 1014,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "风的季节",
+        "artist": "徐小凤",
+        "album": "新曲与精选",
+        "cmt": 803,
+        "topic": "离别思念"
+      },
+      {
+        "name": "恼人的秋风",
+        "artist": "高凌风",
+        "album": "不一样",
+        "cmt": 699,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "倩影",
+        "artist": "蔡枫华",
+        "album": "青春三重奏",
+        "cmt": 638,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "スピーチ・バルーン",
+        "artist": "大瀧詠一",
+        "album": "A LONG VACATION",
+        "cmt": 472,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "Canton (2003 Digital Remaster)",
+        "artist": "Japan",
+        "album": "Tin Drum",
+        "cmt": 354,
+        "topic": null
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "蔡琴",
+        "cmt": 10293,
+        "songs": 2
+      },
+      {
+        "name": "雷安娜",
+        "cmt": 4089,
+        "songs": 1
+      },
+      {
+        "name": "张艾嘉",
+        "cmt": 3837,
+        "songs": 1
+      },
+      {
+        "name": "许冠杰",
+        "cmt": 1131,
+        "songs": 1
+      },
+      {
+        "name": "潘安邦",
+        "cmt": 1014,
+        "songs": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "怀旧青春",
+        "cnt": 10
+      },
+      {
+        "name": "离别思念",
+        "cnt": 5
+      },
+      {
+        "name": "励志成长",
+        "cnt": 5
+      },
+      {
+        "name": "人生哲思",
+        "cnt": 3
+      },
+      {
+        "name": "孤独emo",
+        "cnt": 2
+      }
+    ],
+    "top_words": [
+      {
+        "word": "怀念",
+        "count": 19
+      },
+      {
+        "word": "快乐",
+        "count": 18
+      },
+      {
+        "word": "心中",
+        "count": 18
+      },
+      {
+        "word": "缤纷",
+        "count": 15
+      },
+      {
+        "word": "心里",
+        "count": 13
+      },
+      {
+        "word": "郑国江",
+        "count": 11
+      },
+      {
+        "word": "人生",
+        "count": 11
+      },
+      {
+        "word": "欢欣",
+        "count": 10
+      }
+    ],
+    "comment": "改革开放初期，港台流行音乐开始进入内地，粤语歌与台湾民谣并行发展。1981年是华语乐坛的小年，全年收录47首歌曲，累计2.3万条评论，讨论量有限（注：早期数据受限于平台收录）。年度最具影响力歌手为「蔡琴」，共贡献2首作品，收获1.0万条评论。紧随其后的是雷安娜、张艾嘉、许冠杰等实力歌手。年度金曲《你的眼神》（蔡琴）以1.0万条评论位居榜首，《旧梦不须记》（雷安娜）、《童年》（张艾嘉）等作品同样深入人心。年度创作主题集中于「怀旧青春、离别思念、励志成长」，反映了这一年的社会情绪与听众偏好。年度歌词高频词为「怀念、快乐、心中、缤纷、心里」，勾勒出这一年大众的情感底色。"
+  },
+  {
+    "year": 1982,
+    "song_count": 67,
+    "total_cmt": 99940,
+    "top_songs": [
+      {
+        "name": "铁血丹心",
+        "artist": "罗文/甄妮",
+        "album": "射雕英雄传",
+        "cmt": 40444,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "童年",
+        "artist": "罗大佑",
+        "album": "之乎者也",
+        "cmt": 17966,
+        "topic": "离别思念"
+      },
+      {
+        "name": "世间始终你好",
+        "artist": "罗文/甄妮",
+        "album": "射雕英雄传",
+        "cmt": 12758,
+        "topic": "励志成长"
+      },
+      {
+        "name": "一生有意义",
+        "artist": "罗文/甄妮",
+        "album": "射雕英雄传",
+        "cmt": 6046,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "鹿港小镇",
+        "artist": "罗大佑",
+        "album": "之乎者也",
+        "cmt": 5797,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "光阴的故事",
+        "artist": "罗大佑",
+        "album": "之乎者也",
+        "cmt": 5642,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "恋曲1980",
+        "artist": "罗大佑",
+        "album": "之乎者也",
+        "cmt": 3566,
+        "topic": "离别思念"
+      },
+      {
+        "name": "两忘烟水里",
+        "artist": "关菊英/关正杰",
+        "album": "天龙八部",
+        "cmt": 2626,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "在水中央",
+        "artist": "林子祥",
+        "album": "林子祥歌集",
+        "cmt": 2560,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "乡愁四韵",
+        "artist": "罗大佑",
+        "album": "之乎者也",
+        "cmt": 2535,
+        "topic": "怀旧青春"
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "罗文",
+        "cmt": 62775,
+        "songs": 7
+      },
+      {
+        "name": "罗大佑",
+        "cmt": 38982,
+        "songs": 7
+      },
+      {
+        "name": "甄妮",
+        "cmt": 3291,
+        "songs": 2
+      },
+      {
+        "name": "关菊英",
+        "cmt": 3243,
+        "songs": 4
+      },
+      {
+        "name": "林子祥",
+        "cmt": 2801,
+        "songs": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "怀旧青春",
+        "cnt": 13
+      },
+      {
+        "name": "离别思念",
+        "cnt": 6
+      },
+      {
+        "name": "人生哲思",
+        "cnt": 5
+      },
+      {
+        "name": "励志成长",
+        "cnt": 4
+      },
+      {
+        "name": "孤独emo",
+        "cnt": 3
+      }
+    ],
+    "top_words": [
+      {
+        "word": "心中",
+        "count": 30
+      },
+      {
+        "word": "快乐",
+        "count": 27
+      },
+      {
+        "word": "燃烧",
+        "count": 27
+      },
+      {
+        "word": "欢乐",
+        "count": 20
+      },
+      {
+        "word": "不必",
+        "count": 20
+      },
+      {
+        "word": "人们",
+        "count": 19
+      },
+      {
+        "word": "罗大佑",
+        "count": 18
+      },
+      {
+        "word": "多少",
+        "count": 17
+      }
+    ],
+    "comment": "改革开放初期，港台流行音乐开始进入内地，粤语歌与台湾民谣并行发展。1982年是华语乐坛的小年，全年收录67首歌曲，累计10.0万条评论，讨论量有限（注：早期数据受限于平台收录）。年度最具影响力歌手为「罗文」，共贡献7首作品，收获6.3万条评论。紧随其后的是罗大佑、甄妮、关菊英等实力歌手。年度金曲《铁血丹心》（罗文/甄妮）以4.0万条评论位居榜首，《童年》（罗大佑）、《世间始终你好》（罗文/甄妮）等作品同样深入人心。年度创作主题集中于「怀旧青春、离别思念、人生哲思」，反映了这一年的社会情绪与听众偏好。年度歌词高频词为「心中、快乐、燃烧、欢乐、不必」，勾勒出这一年大众的情感底色。黑马「罗文」首度登顶年度歌手榜，一鸣惊人。"
+  },
+  {
+    "year": 1983,
+    "song_count": 99,
+    "total_cmt": 209839,
+    "top_songs": [
+      {
+        "name": "偏偏喜欢你",
+        "artist": "陈百强",
+        "album": "偏偏喜欢你",
+        "cmt": 58781,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "漫步人生路",
+        "artist": "邓丽君",
+        "album": "漫步人生路",
+        "cmt": 49513,
+        "topic": "励志成长"
+      },
+      {
+        "name": "Merry Christmas Mr. Lawrence",
+        "artist": "坂本龍一",
+        "album": "Merry Christmas Mr. Lawrence (Original Motion Picture Soundtrack)",
+        "cmt": 46965,
+        "topic": null
+      },
+      {
+        "name": "甜蜜蜜",
+        "artist": "邓丽君",
+        "album": "邓丽君15周年",
+        "cmt": 19775,
+        "topic": "离别思念"
+      },
+      {
+        "name": "万里长城永不倒",
+        "artist": "罗文",
+        "album": "万里长城永不倒",
+        "cmt": 7171,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "Goldberg Variations, BWV 988:Aria",
+        "artist": "Glenn Gould",
+        "album": "Bach: Goldberg Variations (1981 Digital Recording)",
+        "cmt": 6193,
+        "topic": null
+      },
+      {
+        "name": "激光中 (粤语)",
+        "artist": "张国荣",
+        "album": "张国荣曼谷演唱会现场实录",
+        "cmt": 6153,
+        "topic": null
+      },
+      {
+        "name": "爱的箴言",
+        "artist": "罗大佑",
+        "album": "未来的主人翁",
+        "cmt": 5802,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "我的中國心",
+        "artist": "张明敏",
+        "album": "我的中国心",
+        "cmt": 5580,
+        "topic": "离别思念"
+      },
+      {
+        "name": "是否",
+        "artist": "苏芮",
+        "album": "搭错车 电影原声大碟",
+        "cmt": 3906,
+        "topic": "离别思念"
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "邓丽君",
+        "cmt": 72919,
+        "songs": 9
+      },
+      {
+        "name": "陈百强",
+        "cmt": 58781,
+        "songs": 1
+      },
+      {
+        "name": "坂本龍一",
+        "cmt": 46965,
+        "songs": 1
+      },
+      {
+        "name": "张国荣",
+        "cmt": 15254,
+        "songs": 33
+      },
+      {
+        "name": "罗大佑",
+        "cmt": 12243,
+        "songs": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "怀旧青春",
+        "cnt": 12
+      },
+      {
+        "name": "离别思念",
+        "cnt": 9
+      },
+      {
+        "name": "孤独emo",
+        "cnt": 8
+      },
+      {
+        "name": "人生哲思",
+        "cnt": 6
+      },
+      {
+        "name": "励志成长",
+        "cnt": 5
+      }
+    ],
+    "top_words": [
+      {
+        "word": "不要",
+        "count": 40
+      },
+      {
+        "word": "心中",
+        "count": 39
+      },
+      {
+        "word": "不必",
+        "count": 34
+      },
+      {
+        "word": "心里",
+        "count": 30
+      },
+      {
+        "word": "一起",
+        "count": 28
+      },
+      {
+        "word": "快乐",
+        "count": 26
+      },
+      {
+        "word": "美丽",
+        "count": 25
+      },
+      {
+        "word": "多少",
+        "count": 25
+      }
+    ],
+    "comment": "改革开放初期，港台流行音乐开始进入内地，粤语歌与台湾民谣并行发展。1983年是华语乐坛的小年，全年收录99首歌曲，累计21.0万条评论，市场活跃。年度最具影响力歌手为「邓丽君」，共贡献9首作品，收获7.3万条评论。紧随其后的是陈百强、坂本龍一、张国荣等实力歌手。年度金曲《偏偏喜欢你》（陈百强）以5.9万条评论位居榜首，《漫步人生路》（邓丽君）、《Merry Christmas Mr. Lawrence》（坂本龍一）等作品同样深入人心。年度创作主题集中于「怀旧青春、离别思念、孤独emo」，反映了这一年的社会情绪与听众偏好。年度歌词高频词为「不要、心中、不必、心里、一起」，勾勒出这一年大众的情感底色。"
+  },
+  {
+    "year": 1984,
+    "song_count": 108,
+    "total_cmt": 33467,
+    "top_songs": [
+      {
+        "name": "Halloween Theme - Main Title",
+        "artist": "John Carpenter",
+        "album": "Halloween  (Original Motion Picture Soundtrack)",
+        "cmt": 6764,
+        "topic": null
+      },
+      {
+        "name": "读你",
+        "artist": "蔡琴",
+        "album": "此情可待",
+        "cmt": 5481,
+        "topic": "离别思念"
+      },
+      {
+        "name": "梦驼铃",
+        "artist": "费玉清",
+        "album": "梦驼铃",
+        "cmt": 4640,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "爱在深秋",
+        "artist": "谭咏麟",
+        "album": "爱的根源",
+        "cmt": 4612,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "雾之恋",
+        "artist": "谭咏麟",
+        "album": "雾之恋",
+        "cmt": 2682,
+        "topic": "离别思念"
+      },
+      {
+        "name": "一剪梅",
+        "artist": "费玉清",
+        "album": "精选集1：梦驼铃.一剪梅",
+        "cmt": 2471,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "捕风的汉子",
+        "artist": "谭咏麟",
+        "album": "爱的根源",
+        "cmt": 2089,
+        "topic": null
+      },
+      {
+        "name": "幻影",
+        "artist": "谭咏麟",
+        "album": "雾之恋",
+        "cmt": 1636,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "夏日寒风",
+        "artist": "谭咏麟",
+        "album": "爱的根源",
+        "cmt": 1550,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "爱的根源",
+        "artist": "谭咏麟",
+        "album": "爱的根源",
+        "cmt": 1542,
+        "topic": "励志成长"
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "谭咏麟",
+        "cmt": 14624,
+        "songs": 9
+      },
+      {
+        "name": "费玉清",
+        "cmt": 7111,
+        "songs": 2
+      },
+      {
+        "name": "John Carpenter",
+        "cmt": 6764,
+        "songs": 1
+      },
+      {
+        "name": "蔡琴",
+        "cmt": 5932,
+        "songs": 2
+      },
+      {
+        "name": "林志美",
+        "cmt": 2595,
+        "songs": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "孤独emo",
+        "cnt": 10
+      },
+      {
+        "name": "怀旧青春",
+        "cnt": 8
+      },
+      {
+        "name": "励志成长",
+        "cnt": 7
+      },
+      {
+        "name": "离别思念",
+        "cnt": 6
+      },
+      {
+        "name": "人生哲思",
+        "cnt": 6
+      }
+    ],
+    "top_words": [
+      {
+        "word": "快乐",
+        "count": 37
+      },
+      {
+        "word": "只有",
+        "count": 34
+      },
+      {
+        "word": "心中",
+        "count": 33
+      },
+      {
+        "word": "一生",
+        "count": 29
+      },
+      {
+        "word": "今天",
+        "count": 29
+      },
+      {
+        "word": "不要",
+        "count": 28
+      },
+      {
+        "word": "thanks",
+        "count": 28
+      },
+      {
+        "word": "不再",
+        "count": 27
+      }
+    ],
+    "comment": "改革开放初期，港台流行音乐开始进入内地，粤语歌与台湾民谣并行发展。1984年是华语乐坛的小年，全年收录108首歌曲，累计3.3万条评论，讨论量有限（注：早期数据受限于平台收录）。年度最具影响力歌手为「谭咏麟」，共贡献9首作品，收获1.5万条评论。紧随其后的是费玉清、John Carpenter、蔡琴等实力歌手。年度金曲《Halloween Theme - Main Title》（John Carpenter）以6764条评论位居榜首，《读你》（蔡琴）、《梦驼铃》（费玉清）等作品同样深入人心。年度创作主题集中于「孤独emo、怀旧青春、励志成长」，反映了这一年的社会情绪与听众偏好。年度歌词高频词为「快乐、只有、心中、一生、今天」，勾勒出这一年大众的情感底色。年度主旋律从「怀旧青春」转向「孤独emo」，听众心态发生变化。"
+  },
+  {
+    "year": 1985,
+    "song_count": 235,
+    "total_cmt": 121302,
+    "top_songs": [
+      {
+        "name": "明天会更好",
+        "artist": "李建复/洪荣宏/王梦麟/费玉清/齐秦/蔡琴/苏芮/潘越云/甄妮/林慧萍/王芷蕾/黄莺莺/陈淑桦/娃娃/李珮菁/齐豫/郑怡/江蕙/杨林/余天",
+        "album": "明天会更好",
+        "cmt": 46715,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "爱情陷阱",
+        "artist": "谭咏麟",
+        "album": "爱情陷阱",
+        "cmt": 24090,
+        "topic": "励志成长"
+      },
+      {
+        "name": "十分十二寸",
+        "artist": "林子祥",
+        "album": "十分十二寸",
+        "cmt": 14359,
+        "topic": "励志成长"
+      },
+      {
+        "name": "等",
+        "artist": "陈百强",
+        "album": "离不开… 陈百强纪念歌集80-93",
+        "cmt": 10213,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "亲爱的小孩",
+        "artist": "苏芮",
+        "album": "亲爱的小孩",
+        "cmt": 8188,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "念亲恩",
+        "artist": "陈百强",
+        "album": "我爱经典系列 - 陈百强",
+        "cmt": 4493,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "情已逝",
+        "artist": "张学友",
+        "album": "Smile",
+        "cmt": 3565,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "一阵恼人的秋风",
+        "artist": "张蔷",
+        "album": "星期六 请留下来",
+        "cmt": 3548,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "狼",
+        "artist": "齐秦",
+        "album": "狼的专辑",
+        "cmt": 3161,
+        "topic": "励志成长"
+      },
+      {
+        "name": "一生不可自决",
+        "artist": "陈百强",
+        "album": "离不开… 陈百强纪念歌集80-93",
+        "cmt": 2970,
+        "topic": "孤独emo"
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "李建复",
+        "cmt": 46715,
+        "songs": 1
+      },
+      {
+        "name": "陈百强",
+        "cmt": 37831,
+        "songs": 117
+      },
+      {
+        "name": "谭咏麟",
+        "cmt": 29523,
+        "songs": 5
+      },
+      {
+        "name": "林子祥",
+        "cmt": 14510,
+        "songs": 2
+      },
+      {
+        "name": "张学友",
+        "cmt": 8682,
+        "songs": 13
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "怀旧青春",
+        "cnt": 15
+      },
+      {
+        "name": "孤独emo",
+        "cnt": 11
+      },
+      {
+        "name": "人生哲思",
+        "cnt": 10
+      },
+      {
+        "name": "励志成长",
+        "cnt": 8
+      },
+      {
+        "name": "离别思念",
+        "cnt": 7
+      }
+    ],
+    "top_words": [
+      {
+        "word": "心中",
+        "count": 172
+      },
+      {
+        "word": "一生",
+        "count": 130
+      },
+      {
+        "word": "我心",
+        "count": 111
+      },
+      {
+        "word": "心里",
+        "count": 105
+      },
+      {
+        "word": "快乐",
+        "count": 94
+      },
+      {
+        "word": "不要",
+        "count": 93
+      },
+      {
+        "word": "为何",
+        "count": 87
+      },
+      {
+        "word": "怀念",
+        "count": 85
+      }
+    ],
+    "comment": "八十年代中后期，香港乐坛「谭张争霸」白热化，台湾唱片工业走向成熟。1985年是华语乐坛的小年，全年收录235首歌曲，累计12.1万条评论，市场活跃。年度最具影响力歌手为「李建复」，共贡献1首作品，收获4.7万条评论。紧随其后的是陈百强、谭咏麟、林子祥等实力歌手。年度金曲《明天会更好》（李建复/洪荣宏/王梦麟/费玉清/齐秦/蔡琴/苏芮/潘越云/甄妮/林慧萍/王芷蕾/黄莺莺/陈淑桦/娃娃/李珮菁/齐豫/郑怡/江蕙/杨林/余天）以4.7万条评论位居榜首，《爱情陷阱》（谭咏麟）、《十分十二寸》（林子祥）等作品同样深入人心。年度创作主题集中于「怀旧青春、孤独emo、人生哲思」，反映了这一年的社会情绪与听众偏好。年度歌词高频词为「心中、一生、我心、心里、快乐」，勾勒出这一年大众的情感底色。歌曲收录量较上年增长127首（+118%）。黑马「李建复」首度登顶年度歌手榜，一鸣惊人。年度主旋律从「孤独emo」转向「怀旧青春」，听众心态发生变化。"
+  },
+  {
+    "year": 1986,
+    "song_count": 213,
+    "total_cmt": 139143,
+    "top_songs": [
+      {
+        "name": "遥远的她",
+        "artist": "张学友",
+        "album": "遥远的她·Amour",
+        "cmt": 50131,
+        "topic": "励志成长"
+      },
+      {
+        "name": "敢问路在何方",
+        "artist": "蒋大为",
+        "album": "西游记 电视剧配乐原声",
+        "cmt": 18386,
+        "topic": "励志成长"
+      },
+      {
+        "name": "连锁反应",
+        "artist": "林姗姗",
+        "album": "精装林姗姗",
+        "cmt": 14151,
+        "topic": "综合主题"
+      },
+      {
+        "name": "数字人生",
+        "artist": "林子祥",
+        "album": "最爱",
+        "cmt": 13761,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "别亦难",
+        "artist": "吴静",
+        "album": "西游记 电视剧配乐原声",
+        "cmt": 9489,
+        "topic": null
+      },
+      {
+        "name": "无言感激",
+        "artist": "谭咏麟",
+        "album": "第一滴泪",
+        "cmt": 8098,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "寂寞难耐",
+        "artist": "李宗盛",
+        "album": "生命中的精灵",
+        "cmt": 6850,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "巨人",
+        "artist": "Beyond",
+        "album": "再见理想",
+        "cmt": 6542,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "每一步",
+        "artist": "徐小凤",
+        "album": "每一步",
+        "cmt": 6127,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "何必西天万里遥",
+        "artist": "吴静",
+        "album": "西游记 电视剧配乐原声",
+        "cmt": 5608,
+        "topic": null
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "张学友",
+        "cmt": 72320,
+        "songs": 34
+      },
+      {
+        "name": "蒋大为",
+        "cmt": 18386,
+        "songs": 1
+      },
+      {
+        "name": "吴静",
+        "cmt": 15097,
+        "songs": 2
+      },
+      {
+        "name": "林姗姗",
+        "cmt": 14848,
+        "songs": 3
+      },
+      {
+        "name": "林子祥",
+        "cmt": 13913,
+        "songs": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "孤独emo",
+        "cnt": 18
+      },
+      {
+        "name": "励志成长",
+        "cnt": 14
+      },
+      {
+        "name": "人生哲思",
+        "cnt": 13
+      },
+      {
+        "name": "离别思念",
+        "cnt": 12
+      },
+      {
+        "name": "怀旧青春",
+        "cnt": 9
+      }
+    ],
+    "top_words": [
+      {
+        "word": "心中",
+        "count": 136
+      },
+      {
+        "word": "you",
+        "count": 104
+      },
+      {
+        "word": "不要",
+        "count": 98
+      },
+      {
+        "word": "amour",
+        "count": 85
+      },
+      {
+        "word": "今天",
+        "count": 74
+      },
+      {
+        "word": "心里",
+        "count": 68
+      },
+      {
+        "word": "一切",
+        "count": 66
+      },
+      {
+        "word": "永远",
+        "count": 64
+      }
+    ],
+    "comment": "八十年代中后期，香港乐坛「谭张争霸」白热化，台湾唱片工业走向成熟。1986年是华语乐坛的小年，全年收录213首歌曲，累计13.9万条评论，市场活跃。年度最具影响力歌手为「张学友」，共贡献34首作品，收获7.2万条评论。紧随其后的是蒋大为、吴静、林姗姗等实力歌手。年度金曲《遥远的她》（张学友）以5.0万条评论位居榜首，《敢问路在何方》（蒋大为）、《连锁反应》（林姗姗）等作品同样深入人心。年度创作主题集中于「孤独emo、励志成长、人生哲思」，反映了这一年的社会情绪与听众偏好。年度歌词高频词为「心中、you、不要、amour、今天」，勾勒出这一年大众的情感底色。年度主旋律从「怀旧青春」转向「孤独emo」，听众心态发生变化。"
+  },
+  {
+    "year": 1987,
+    "song_count": 332,
+    "total_cmt": 254953,
+    "top_songs": [
+      {
+        "name": "我只在乎你",
+        "artist": "邓丽君",
+        "album": "我只在乎你",
+        "cmt": 45725,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "敢爱敢做",
+        "artist": "林子祥",
+        "album": "花街70号",
+        "cmt": 36450,
+        "topic": "励志成长"
+      },
+      {
+        "name": "友谊之光",
+        "artist": "Maria Cordero",
+        "album": "监狱风云",
+        "cmt": 31903,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "一场游戏一场梦",
+        "artist": "王杰",
+        "album": "一场游戏一场梦",
+        "cmt": 31320,
+        "topic": "离别思念"
+      },
+      {
+        "name": "让一切随风",
+        "artist": "钟镇涛",
+        "album": "听涛",
+        "cmt": 29409,
+        "topic": "励志成长"
+      },
+      {
+        "name": "枉凝眉",
+        "artist": "陈力",
+        "album": "红楼梦 电视连续剧歌曲集.原声带",
+        "cmt": 21945,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "葬花吟",
+        "artist": "陈力",
+        "album": "红楼梦 电视连续剧歌曲集.原声带",
+        "cmt": 21278,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "安妮",
+        "artist": "王杰",
+        "album": "一场游戏一场梦",
+        "cmt": 15503,
+        "topic": "离别思念"
+      },
+      {
+        "name": "酒干倘卖无",
+        "artist": "苏芮",
+        "album": "酒干倘卖无/优柔的执着",
+        "cmt": 11186,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "浪子心声",
+        "artist": "许冠杰",
+        "album": "钜片名曲选",
+        "cmt": 10234,
+        "topic": "励志成长"
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "王杰",
+        "cmt": 46823,
+        "songs": 2
+      },
+      {
+        "name": "邓丽君",
+        "cmt": 45725,
+        "songs": 1
+      },
+      {
+        "name": "陈力",
+        "cmt": 45100,
+        "songs": 3
+      },
+      {
+        "name": "林子祥",
+        "cmt": 44266,
+        "songs": 9
+      },
+      {
+        "name": "Maria Cordero",
+        "cmt": 33209,
+        "songs": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "励志成长",
+        "cnt": 23
+      },
+      {
+        "name": "怀旧青春",
+        "cnt": 19
+      },
+      {
+        "name": "孤独emo",
+        "cnt": 17
+      },
+      {
+        "name": "离别思念",
+        "cnt": 16
+      },
+      {
+        "name": "人生哲思",
+        "cnt": 14
+      }
+    ],
+    "top_words": [
+      {
+        "word": "心中",
+        "count": 179
+      },
+      {
+        "word": "今天",
+        "count": 135
+      },
+      {
+        "word": "一切",
+        "count": 102
+      },
+      {
+        "word": "一生",
+        "count": 98
+      },
+      {
+        "word": "身边",
+        "count": 93
+      },
+      {
+        "word": "不要",
+        "count": 89
+      },
+      {
+        "word": "一天",
+        "count": 89
+      },
+      {
+        "word": "不再",
+        "count": 87
+      }
+    ],
+    "comment": "八十年代中后期，香港乐坛「谭张争霸」白热化，台湾唱片工业走向成熟。1987年是华语乐坛的稳年，全年收录332首歌曲，累计25.5万条评论，市场活跃。年度最具影响力歌手为「王杰」，共贡献2首作品，收获4.7万条评论。紧随其后的是邓丽君、陈力、林子祥等实力歌手。年度金曲《我只在乎你》（邓丽君）以4.6万条评论位居榜首，《敢爱敢做》（林子祥）、《友谊之光》（Maria Cordero）等作品同样深入人心。年度创作主题集中于「励志成长、怀旧青春、孤独emo」，反映了这一年的社会情绪与听众偏好。年度歌词高频词为「心中、今天、一切、一生、身边」，勾勒出这一年大众的情感底色。歌曲收录量较上年增长119首（+56%）。年度主旋律从「孤独emo」转向「励志成长」，听众心态发生变化。"
+  },
+  {
+    "year": 1988,
+    "song_count": 421,
+    "total_cmt": 156388,
+    "top_songs": [
+      {
+        "name": "忘了你忘了我",
+        "artist": "王杰",
+        "album": "忘了你忘了我",
+        "cmt": 23424,
+        "topic": "离别思念"
+      },
+      {
+        "name": "大地",
+        "artist": "Beyond",
+        "album": "秘密警察",
+        "cmt": 21738,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "爱拼才会赢",
+        "artist": "叶启田",
+        "album": "爱拼才会赢",
+        "cmt": 20181,
+        "topic": "励志成长"
+      },
+      {
+        "name": "堆积情感",
+        "artist": "邝美云",
+        "album": "堆积情感",
+        "cmt": 18595,
+        "topic": "励志成长"
+      },
+      {
+        "name": "萍聚",
+        "artist": "李翊君/李富兴",
+        "album": "萍聚/珍重再见",
+        "cmt": 16905,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "風のとおり道",
+        "artist": "久石譲",
+        "album": "となりのトトロ サウンドトラック",
+        "cmt": 14801,
+        "topic": null
+      },
+      {
+        "name": "让一切随风",
+        "artist": "钟镇涛",
+        "album": "B歌",
+        "cmt": 12360,
+        "topic": "励志成长"
+      },
+      {
+        "name": "我的中国心",
+        "artist": "张明敏",
+        "album": "香港电台六十周年纪念",
+        "cmt": 12165,
+        "topic": "离别思念"
+      },
+      {
+        "name": "舒克与贝塔",
+        "artist": "金复载",
+        "album": "舒克和贝塔",
+        "cmt": 8140,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "沉默是金",
+        "artist": "许冠杰/张国荣",
+        "album": "沉默是金(引进版)",
+        "cmt": 8079,
+        "topic": "孤独emo"
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "张国荣",
+        "cmt": 31202,
+        "songs": 69
+      },
+      {
+        "name": "Beyond",
+        "cmt": 27140,
+        "songs": 5
+      },
+      {
+        "name": "王杰",
+        "cmt": 23424,
+        "songs": 1
+      },
+      {
+        "name": "邝美云",
+        "cmt": 22411,
+        "songs": 6
+      },
+      {
+        "name": "叶启田",
+        "cmt": 20181,
+        "songs": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "孤独emo",
+        "cnt": 35
+      },
+      {
+        "name": "励志成长",
+        "cnt": 25
+      },
+      {
+        "name": "怀旧青春",
+        "cnt": 20
+      },
+      {
+        "name": "离别思念",
+        "cnt": 14
+      },
+      {
+        "name": "人生哲思",
+        "cnt": 13
+      }
+    ],
+    "top_words": [
+      {
+        "word": "心中",
+        "count": 186
+      },
+      {
+        "word": "心里",
+        "count": 130
+      },
+      {
+        "word": "一生",
+        "count": 113
+      },
+      {
+        "word": "今天",
+        "count": 103
+      },
+      {
+        "word": "不要",
+        "count": 103
+      },
+      {
+        "word": "不再",
+        "count": 101
+      },
+      {
+        "word": "永远",
+        "count": 93
+      },
+      {
+        "word": "我心",
+        "count": 93
+      }
+    ],
+    "comment": "八十年代中后期，香港乐坛「谭张争霸」白热化，台湾唱片工业走向成熟。1988年是华语乐坛的稳年，全年收录421首歌曲，累计15.6万条评论，市场活跃。年度最具影响力歌手为「张国荣」，共贡献69首作品，收获3.1万条评论。紧随其后的是Beyond、王杰、邝美云等实力歌手。年度金曲《忘了你忘了我》（王杰）以2.3万条评论位居榜首，《大地》（Beyond）、《爱拼才会赢》（叶启田）等作品同样深入人心。年度创作主题集中于「孤独emo、励志成长、怀旧青春」，反映了这一年的社会情绪与听众偏好。年度歌词高频词为「心中、心里、一生、今天、不要」，勾勒出这一年大众的情感底色。年度主旋律从「励志成长」转向「孤独emo」，听众心态发生变化。"
+  },
+  {
+    "year": 1989,
+    "song_count": 381,
+    "total_cmt": 209401,
+    "top_songs": [
+      {
+        "name": "若生命等候",
+        "artist": "黄凯芹",
+        "album": "没结果的一些感情",
+        "cmt": 38741,
+        "topic": "励志成长"
+      },
+      {
+        "name": "谁明浪子心",
+        "artist": "王杰",
+        "album": "谁明浪子心",
+        "cmt": 34502,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "夜机",
+        "artist": "陈慧娴",
+        "album": "永远是你的朋友",
+        "cmt": 24629,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "一生何求",
+        "artist": "陈百强",
+        "album": "一生何求",
+        "cmt": 18169,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "似水流年",
+        "artist": "张国荣",
+        "album": "Salute",
+        "cmt": 17679,
+        "topic": "离别思念"
+      },
+      {
+        "name": "焚情",
+        "artist": "黄凯芹",
+        "album": "没结果的一些感情",
+        "cmt": 17002,
+        "topic": "励志成长"
+      },
+      {
+        "name": "再回首",
+        "artist": "姜育恒",
+        "album": "多年以后·再回首",
+        "cmt": 15562,
+        "topic": "励志成长"
+      },
+      {
+        "name": "无悔这一生",
+        "artist": "Beyond",
+        "album": "真的见证",
+        "cmt": 15420,
+        "topic": "励志成长"
+      },
+      {
+        "name": "难得有情人",
+        "artist": "关淑怡",
+        "album": "难得有情人",
+        "cmt": 15229,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "一生不变",
+        "artist": "李克勤",
+        "album": "Purple Dream",
+        "cmt": 12468,
+        "topic": "离别思念"
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "张国荣",
+        "cmt": 130035,
+        "songs": 98
+      },
+      {
+        "name": "黄凯芹",
+        "cmt": 56935,
+        "songs": 4
+      },
+      {
+        "name": "王杰",
+        "cmt": 54799,
+        "songs": 4
+      },
+      {
+        "name": "张学友",
+        "cmt": 41044,
+        "songs": 40
+      },
+      {
+        "name": "Beyond",
+        "cmt": 29921,
+        "songs": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "孤独emo",
+        "cnt": 48
+      },
+      {
+        "name": "励志成长",
+        "cnt": 31
+      },
+      {
+        "name": "离别思念",
+        "cnt": 30
+      },
+      {
+        "name": "人生哲思",
+        "cnt": 21
+      },
+      {
+        "name": "怀旧青春",
+        "cnt": 18
+      }
+    ],
+    "top_words": [
+      {
+        "word": "心中",
+        "count": 170
+      },
+      {
+        "word": "一生",
+        "count": 170
+      },
+      {
+        "word": "不要",
+        "count": 136
+      },
+      {
+        "word": "永远",
+        "count": 116
+      },
+      {
+        "word": "一起",
+        "count": 107
+      },
+      {
+        "word": "今天",
+        "count": 102
+      },
+      {
+        "word": "一切",
+        "count": 96
+      },
+      {
+        "word": "寂寞",
+        "count": 89
+      }
+    ],
+    "comment": "八十年代中后期，香港乐坛「谭张争霸」白热化，台湾唱片工业走向成熟。1989年是华语乐坛的稳年，全年收录381首歌曲，累计20.9万条评论，市场活跃。年度最具影响力歌手为「张国荣」，共贡献98首作品，收获13.0万条评论。紧随其后的是黄凯芹、王杰、张学友等实力歌手。年度金曲《若生命等候》（黄凯芹）以3.9万条评论位居榜首，《谁明浪子心》（王杰）、《夜机》（陈慧娴）等作品同样深入人心。年度创作主题集中于「孤独emo、励志成长、离别思念」，反映了这一年的社会情绪与听众偏好。年度歌词高频词为「心中、一生、不要、永远、一起」，勾勒出这一年大众的情感底色。「张国荣」连续两年登顶年度歌手榜首，势头正盛。"
+  },
+  {
+    "year": 1990,
+    "song_count": 415,
+    "total_cmt": 301993,
+    "top_songs": [
+      {
+        "name": "半点心",
+        "artist": "草蜢",
+        "album": "Grasshopper Ⅳ",
+        "cmt": 91342,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "失恋阵线联盟",
+        "artist": "草蜢",
+        "album": "失恋阵线联盟",
+        "cmt": 48489,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "风继续吹(Live)",
+        "artist": "张国荣",
+        "album": "张国荣告别乐坛演唱会",
+        "cmt": 43761,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "千千阕歌(Live)",
+        "artist": "张国荣",
+        "album": "张国荣告别乐坛演唱会",
+        "cmt": 37101,
+        "topic": "励志成长"
+      },
+      {
+        "name": "恋曲1990",
+        "artist": "罗大佑",
+        "album": "昨日情歌74-89",
+        "cmt": 20725,
+        "topic": "离别思念"
+      },
+      {
+        "name": "珍重",
+        "artist": "叶蒨文",
+        "album": "珍重",
+        "cmt": 18935,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "当年情(Live)",
+        "artist": "张国荣",
+        "album": "张国荣告别乐坛演唱会",
+        "cmt": 16452,
+        "topic": null
+      },
+      {
+        "name": "对你爱不完",
+        "artist": "郭富城",
+        "album": "对你爱不完",
+        "cmt": 9455,
+        "topic": "离别思念"
+      },
+      {
+        "name": "红蜻蜓",
+        "artist": "小虎队",
+        "album": "红蜻蜓",
+        "cmt": 9317,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "你的样子",
+        "artist": "罗大佑",
+        "album": "昨日情歌74-89",
+        "cmt": 6416,
+        "topic": "人生哲思"
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "张国荣",
+        "cmt": 140836,
+        "songs": 93
+      },
+      {
+        "name": "草蜢",
+        "cmt": 139831,
+        "songs": 2
+      },
+      {
+        "name": "罗大佑",
+        "cmt": 28834,
+        "songs": 4
+      },
+      {
+        "name": "叶蒨文",
+        "cmt": 22409,
+        "songs": 2
+      },
+      {
+        "name": "童安格",
+        "cmt": 18062,
+        "songs": 9
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "孤独emo",
+        "cnt": 47
+      },
+      {
+        "name": "离别思念",
+        "cnt": 28
+      },
+      {
+        "name": "怀旧青春",
+        "cnt": 27
+      },
+      {
+        "name": "励志成长",
+        "cnt": 22
+      },
+      {
+        "name": "人生哲思",
+        "cnt": 11
+      }
+    ],
+    "top_words": [
+      {
+        "word": "为何",
+        "count": 150
+      },
+      {
+        "word": "永远",
+        "count": 141
+      },
+      {
+        "word": "一生",
+        "count": 139
+      },
+      {
+        "word": "you",
+        "count": 133
+      },
+      {
+        "word": "爱情",
+        "count": 118
+      },
+      {
+        "word": "心中",
+        "count": 117
+      },
+      {
+        "word": "心里",
+        "count": 116
+      },
+      {
+        "word": "利亚",
+        "count": 114
+      }
+    ],
+    "comment": "九十年代初期，四大天王（刘德华、张学友、郭富城、黎明）统治香港乐坛，Beyond乐队将粤语摇滚推向巅峰。1990年是华语乐坛的稳年，全年收录415首歌曲，累计30.2万条评论，市场活跃。年度最具影响力歌手为「张国荣」，共贡献93首作品，收获14.1万条评论。紧随其后的是草蜢、罗大佑、叶蒨文等实力歌手。年度金曲《半点心》（草蜢）以9.1万条评论位居榜首，《失恋阵线联盟》（草蜢）、《风继续吹(Live)》（张国荣）等作品同样深入人心。年度创作主题集中于「孤独emo、离别思念、怀旧青春」，反映了这一年的社会情绪与听众偏好。年度歌词高频词为「为何、永远、一生、you、爱情」，勾勒出这一年大众的情感底色。🎖️「张国荣」连续三年蝉联年度歌手榜首，堪称一代天王。"
+  },
+  {
+    "year": 1991,
+    "song_count": 465,
+    "total_cmt": 352725,
+    "top_songs": [
+      {
+        "name": "不再犹豫",
+        "artist": "Beyond",
+        "album": "Deliberate 犹豫",
+        "cmt": 90307,
+        "topic": "励志成长"
+      },
+      {
+        "name": "护花使者",
+        "artist": "李克勤",
+        "album": "雨中街头剧",
+        "cmt": 61460,
+        "topic": "离别思念"
+      },
+      {
+        "name": "初恋情人",
+        "artist": "刘小慧",
+        "album": "In Your Dreams (Remastered 2020)",
+        "cmt": 37224,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "无地自容",
+        "artist": "黑豹乐队",
+        "album": "黑豹",
+        "cmt": 29959,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "Don't Break My Heart",
+        "artist": "黑豹乐队",
+        "album": "黑豹",
+        "cmt": 27260,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "爱",
+        "artist": "小虎队",
+        "album": "爱",
+        "cmt": 26040,
+        "topic": "离别思念"
+      },
+      {
+        "name": "追梦人",
+        "artist": "凤飞飞",
+        "album": "浮世情怀",
+        "cmt": 24830,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "潇洒走一回",
+        "artist": "叶蒨文",
+        "album": "潇洒走一回",
+        "cmt": 20299,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "每天爱你多一些",
+        "artist": "张学友",
+        "album": "爱你多一些 精选",
+        "cmt": 18720,
+        "topic": "励志成长"
+      },
+      {
+        "name": "没有情人的情人节",
+        "artist": "孟庭苇",
+        "album": "冬季到台北来看雨",
+        "cmt": 16626,
+        "topic": "孤独emo"
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "Beyond",
+        "cmt": 122853,
+        "songs": 14
+      },
+      {
+        "name": "黑豹乐队",
+        "cmt": 82260,
+        "songs": 9
+      },
+      {
+        "name": "李克勤",
+        "cmt": 67076,
+        "songs": 8
+      },
+      {
+        "name": "张学友",
+        "cmt": 44161,
+        "songs": 62
+      },
+      {
+        "name": "刘小慧",
+        "cmt": 38609,
+        "songs": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "孤独emo",
+        "cnt": 62
+      },
+      {
+        "name": "励志成长",
+        "cnt": 39
+      },
+      {
+        "name": "离别思念",
+        "cnt": 38
+      },
+      {
+        "name": "怀旧青春",
+        "cnt": 29
+      },
+      {
+        "name": "人生哲思",
+        "cnt": 27
+      }
+    ],
+    "top_words": [
+      {
+        "word": "一生",
+        "count": 243
+      },
+      {
+        "word": "不要",
+        "count": 146
+      },
+      {
+        "word": "心中",
+        "count": 140
+      },
+      {
+        "word": "寂寞",
+        "count": 135
+      },
+      {
+        "word": "永远",
+        "count": 132
+      },
+      {
+        "word": "不再",
+        "count": 124
+      },
+      {
+        "word": "一切",
+        "count": 120
+      },
+      {
+        "word": "一天",
+        "count": 115
+      }
+    ],
+    "comment": "九十年代初期，四大天王（刘德华、张学友、郭富城、黎明）统治香港乐坛，Beyond乐队将粤语摇滚推向巅峰。1991年是华语乐坛的稳年，全年收录465首歌曲，累计35.3万条评论，市场活跃。年度最具影响力歌手为「Beyond」，共贡献14首作品，收获12.3万条评论。紧随其后的是黑豹乐队、李克勤、张学友等实力歌手。年度金曲《不再犹豫》（Beyond）以9.0万条评论位居榜首，《护花使者》（李克勤）、《初恋情人》（刘小慧）等作品同样深入人心。年度创作主题集中于「孤独emo、励志成长、离别思念」，反映了这一年的社会情绪与听众偏好。年度歌词高频词为「一生、不要、心中、寂寞、永远」，勾勒出这一年大众的情感底色。"
+  },
+  {
+    "year": 1992,
+    "song_count": 545,
+    "total_cmt": 522028,
+    "top_songs": [
+      {
+        "name": "千千阙歌",
+        "artist": "陈慧娴",
+        "album": "千千阙歌",
+        "cmt": 93095,
+        "topic": "励志成长"
+      },
+      {
+        "name": "水手",
+        "artist": "郑智化",
+        "album": "私房歌",
+        "cmt": 66988,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "沉默是金",
+        "artist": "张国荣",
+        "album": "Ultimate",
+        "cmt": 65162,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "红日",
+        "artist": "李克勤",
+        "album": "红日",
+        "cmt": 60907,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "倩女幽魂",
+        "artist": "张国荣",
+        "album": "Ultimate",
+        "cmt": 43259,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "千年等一回",
+        "artist": "高胜美",
+        "album": "新白娘子传奇 电视原声带",
+        "cmt": 42742,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "星星点灯",
+        "artist": "郑智化",
+        "album": "星星点灯",
+        "cmt": 39862,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "渡情",
+        "artist": "左宏元/张慧清",
+        "album": "新白娘子传奇 电视原声带",
+        "cmt": 39316,
+        "topic": null
+      },
+      {
+        "name": "飘雪",
+        "artist": "陈慧娴",
+        "album": "归来吧",
+        "cmt": 37020,
+        "topic": "励志成长"
+      },
+      {
+        "name": "雨中的恋人们",
+        "artist": "黄凯芹",
+        "album": "挥不去的情感 黄凯芹精选",
+        "cmt": 33677,
+        "topic": "怀旧青春"
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "陈慧娴",
+        "cmt": 168360,
+        "songs": 8
+      },
+      {
+        "name": "张国荣",
+        "cmt": 132365,
+        "songs": 47
+      },
+      {
+        "name": "郑智化",
+        "cmt": 109847,
+        "songs": 5
+      },
+      {
+        "name": "李克勤",
+        "cmt": 65986,
+        "songs": 5
+      },
+      {
+        "name": "高胜美",
+        "cmt": 47379,
+        "songs": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "孤独emo",
+        "cnt": 65
+      },
+      {
+        "name": "离别思念",
+        "cnt": 44
+      },
+      {
+        "name": "人生哲思",
+        "cnt": 40
+      },
+      {
+        "name": "怀旧青春",
+        "cnt": 33
+      },
+      {
+        "name": "励志成长",
+        "cnt": 28
+      }
+    ],
+    "top_words": [
+      {
+        "word": "一生",
+        "count": 252
+      },
+      {
+        "word": "心中",
+        "count": 201
+      },
+      {
+        "word": "永远",
+        "count": 163
+      },
+      {
+        "word": "今天",
+        "count": 160
+      },
+      {
+        "word": "不要",
+        "count": 145
+      },
+      {
+        "word": "为何",
+        "count": 145
+      },
+      {
+        "word": "一切",
+        "count": 141
+      },
+      {
+        "word": "世界",
+        "count": 124
+      }
+    ],
+    "comment": "九十年代初期，四大天王（刘德华、张学友、郭富城、黎明）统治香港乐坛，Beyond乐队将粤语摇滚推向巅峰。1992年是华语乐坛的稳年，全年收录545首歌曲，累计52.2万条评论，市场活跃。年度最具影响力歌手为「陈慧娴」，共贡献8首作品，收获16.8万条评论。紧随其后的是张国荣、郑智化、李克勤等实力歌手。年度金曲《千千阙歌》（陈慧娴）以9.3万条评论位居榜首，《水手》（郑智化）、《沉默是金》（张国荣）等作品同样深入人心。年度创作主题集中于「孤独emo、离别思念、人生哲思」，反映了这一年的社会情绪与听众偏好。年度歌词高频词为「一生、心中、永远、今天、不要」，勾勒出这一年大众的情感底色。"
+  },
+  {
+    "year": 1993,
+    "song_count": 535,
+    "total_cmt": 385058,
+    "top_songs": [
+      {
+        "name": "海阔天空",
+        "artist": "Beyond",
+        "album": "海阔天空",
+        "cmt": 70466,
+        "topic": "励志成长"
+      },
+      {
+        "name": "情人",
+        "artist": "Beyond",
+        "album": "乐与怒",
+        "cmt": 53531,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "最爱",
+        "artist": "周慧敏",
+        "album": "最爱",
+        "cmt": 50827,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "傻女",
+        "artist": "陈慧娴",
+        "album": "陈慧娴金曲精选26首",
+        "cmt": 38037,
+        "topic": "离别思念"
+      },
+      {
+        "name": "新鸳鸯蝴蝶梦",
+        "artist": "黄安",
+        "album": "新鸳鸯蝴蝶梦",
+        "cmt": 37716,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "吻别",
+        "artist": "张学友",
+        "album": "吻别",
+        "cmt": 35886,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "不必在乎我是谁",
+        "artist": "林忆莲",
+        "album": "不必在乎我是谁",
+        "cmt": 28202,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "还是觉得你最好",
+        "artist": "张学友",
+        "album": "等你等到我心痛 张学友精选",
+        "cmt": 26727,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "爱如潮水",
+        "artist": "张信哲",
+        "album": "心事",
+        "cmt": 22077,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "等你等到我心痛",
+        "artist": "张学友",
+        "album": "等你等到我心痛 张学友精选",
+        "cmt": 21589,
+        "topic": "孤独emo"
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "Beyond",
+        "cmt": 190228,
+        "songs": 21
+      },
+      {
+        "name": "张学友",
+        "cmt": 182689,
+        "songs": 89
+      },
+      {
+        "name": "周慧敏",
+        "cmt": 73161,
+        "songs": 12
+      },
+      {
+        "name": "陈慧娴",
+        "cmt": 69008,
+        "songs": 17
+      },
+      {
+        "name": "黄安",
+        "cmt": 37716,
+        "songs": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "孤独emo",
+        "cnt": 76
+      },
+      {
+        "name": "离别思念",
+        "cnt": 36
+      },
+      {
+        "name": "怀旧青春",
+        "cnt": 35
+      },
+      {
+        "name": "励志成长",
+        "cnt": 34
+      },
+      {
+        "name": "人生哲思",
+        "cnt": 26
+      }
+    ],
+    "top_words": [
+      {
+        "word": "一生",
+        "count": 349
+      },
+      {
+        "word": "永远",
+        "count": 236
+      },
+      {
+        "word": "一切",
+        "count": 190
+      },
+      {
+        "word": "心中",
+        "count": 190
+      },
+      {
+        "word": "今天",
+        "count": 170
+      },
+      {
+        "word": "一天",
+        "count": 167
+      },
+      {
+        "word": "一起",
+        "count": 162
+      },
+      {
+        "word": "心里",
+        "count": 159
+      }
+    ],
+    "comment": "九十年代初期，四大天王（刘德华、张学友、郭富城、黎明）统治香港乐坛，Beyond乐队将粤语摇滚推向巅峰。1993年是华语乐坛的稳年，全年收录535首歌曲，累计38.5万条评论，市场活跃。年度最具影响力歌手为「Beyond」，共贡献21首作品，收获19.0万条评论。紧随其后的是张学友、周慧敏、陈慧娴等实力歌手。年度金曲《海阔天空》（Beyond）以7.0万条评论位居榜首，《情人》（Beyond）、《最爱》（周慧敏）等作品同样深入人心。年度创作主题集中于「孤独emo、离别思念、怀旧青春」，反映了这一年的社会情绪与听众偏好。年度歌词高频词为「一生、永远、一切、心中、今天」，勾勒出这一年大众的情感底色。"
+  },
+  {
+    "year": 1994,
+    "song_count": 817,
+    "total_cmt": 408894,
+    "top_songs": [
+      {
+        "name": "灰色轨迹",
+        "artist": "Beyond",
+        "album": "Beyond 24K Gold 金碟至尊精选",
+        "cmt": 89876,
+        "topic": "励志成长"
+      },
+      {
+        "name": "月半小夜曲",
+        "artist": "李克勤",
+        "album": "经典金曲",
+        "cmt": 71494,
+        "topic": "励志成长"
+      },
+      {
+        "name": "爱江山更爱美人",
+        "artist": "李丽芬",
+        "album": "李丽芬的东西(爱不释手)",
+        "cmt": 44316,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "爱的故事(上)",
+        "artist": "孙耀威",
+        "album": "爱的故事(上集)",
+        "cmt": 39107,
+        "topic": "励志成长"
+      },
+      {
+        "name": "快点告诉你",
+        "artist": "苑冉",
+        "album": "快点告诉你",
+        "cmt": 36149,
+        "topic": "离别思念"
+      },
+      {
+        "name": "灰姑娘",
+        "artist": "郑钧",
+        "album": "赤裸裸",
+        "cmt": 35509,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "饿狼传说",
+        "artist": "张学友",
+        "album": "饿狼传说",
+        "cmt": 25429,
+        "topic": "励志成长"
+      },
+      {
+        "name": "人生何处不相逢",
+        "artist": "陈慧娴",
+        "album": "今天的爱人是谁",
+        "cmt": 23298,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "梦中人",
+        "artist": "王菲",
+        "album": "重庆森林 电影原声大碟",
+        "cmt": 23004,
+        "topic": "励志成长"
+      },
+      {
+        "name": "海尔兄弟",
+        "artist": "蒋小涵/唐亚男",
+        "album": "海尔兄弟",
+        "cmt": 20712,
+        "topic": "离别思念"
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "Beyond",
+        "cmt": 103519,
+        "songs": 5
+      },
+      {
+        "name": "张学友",
+        "cmt": 92066,
+        "songs": 143
+      },
+      {
+        "name": "李克勤",
+        "cmt": 72065,
+        "songs": 3
+      },
+      {
+        "name": "王菲",
+        "cmt": 70905,
+        "songs": 15
+      },
+      {
+        "name": "李丽芬",
+        "cmt": 63848,
+        "songs": 7
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "孤独emo",
+        "cnt": 83
+      },
+      {
+        "name": "人生哲思",
+        "cnt": 46
+      },
+      {
+        "name": "离别思念",
+        "cnt": 44
+      },
+      {
+        "name": "怀旧青春",
+        "cnt": 44
+      },
+      {
+        "name": "励志成长",
+        "cnt": 41
+      }
+    ],
+    "top_words": [
+      {
+        "word": "一生",
+        "count": 239
+      },
+      {
+        "word": "蚂蚁",
+        "count": 200
+      },
+      {
+        "word": "心中",
+        "count": 174
+      },
+      {
+        "word": "不要",
+        "count": 168
+      },
+      {
+        "word": "就算",
+        "count": 153
+      },
+      {
+        "word": "为何",
+        "count": 150
+      },
+      {
+        "word": "一起",
+        "count": 147
+      },
+      {
+        "word": "一切",
+        "count": 147
+      }
+    ],
+    "comment": "九十年代中期，香港回归前夕，四大天王时代渐入尾声，内地校园民谣与摇滚乐开始崛起。1994年是华语乐坛的稳年，全年收录817首歌曲，累计40.9万条评论，市场活跃。年度最具影响力歌手为「Beyond」，共贡献5首作品，收获10.4万条评论。紧随其后的是张学友、李克勤、王菲等实力歌手。年度金曲《灰色轨迹》（Beyond）以9.0万条评论位居榜首，《月半小夜曲》（李克勤）、《爱江山更爱美人》（李丽芬）等作品同样深入人心。年度创作主题集中于「孤独emo、人生哲思、离别思念」，反映了这一年的社会情绪与听众偏好。年度歌词高频词为「一生、蚂蚁、心中、不要、就算」，勾勒出这一年大众的情感底色。歌曲收录量较上年增长282首（+53%）。「Beyond」连续两年登顶年度歌手榜首，势头正盛。"
+  },
+  {
+    "year": 1995,
+    "song_count": 741,
+    "total_cmt": 432866,
+    "top_songs": [
+      {
+        "name": "一生所爱",
+        "artist": "卢冠廷/莫文蔚",
+        "album": "齐天周大圣之西游双记 电影歌乐游唱版",
+        "cmt": 162065,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "残酷な天使のテーゼ",
+        "artist": "高橋洋子",
+        "album": "残酷な天使のテーゼ/FLY ME TO THE MOON",
+        "cmt": 61402,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "一生中最爱",
+        "artist": "谭咏麟",
+        "album": "一生中最爱",
+        "cmt": 60873,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "只想一生跟你走",
+        "artist": "张学友",
+        "album": "一生跟你走 年度代表作品辑",
+        "cmt": 32080,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "为你我受冷风吹",
+        "artist": "林忆莲",
+        "album": "Love, Sandy",
+        "cmt": 25307,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "我的未来不是梦",
+        "artist": "张雨生",
+        "album": "惊世记录Ⅱ",
+        "cmt": 23856,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "中华民谣",
+        "artist": "孙浩",
+        "album": "二十世纪原创经典典藏 龙凤金歌榜",
+        "cmt": 20387,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "遗憾",
+        "artist": "许美静",
+        "album": "遗憾",
+        "cmt": 16223,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "滚滚长江东逝水",
+        "artist": "杨洪基",
+        "album": "《三国演义》电视连续剧主题·插曲",
+        "cmt": 15909,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "历史的天空",
+        "artist": "毛阿敏",
+        "album": "《三国演义》电视连续剧主题·插曲",
+        "cmt": 14764,
+        "topic": "怀旧青春"
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "卢冠廷",
+        "cmt": 162065,
+        "songs": 1
+      },
+      {
+        "name": "张学友",
+        "cmt": 100762,
+        "songs": 177
+      },
+      {
+        "name": "谭咏麟",
+        "cmt": 73057,
+        "songs": 9
+      },
+      {
+        "name": "高橋洋子",
+        "cmt": 61402,
+        "songs": 1
+      },
+      {
+        "name": "关淑怡",
+        "cmt": 30353,
+        "songs": 9
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "孤独emo",
+        "cnt": 100
+      },
+      {
+        "name": "人生哲思",
+        "cnt": 59
+      },
+      {
+        "name": "怀旧青春",
+        "cnt": 43
+      },
+      {
+        "name": "离别思念",
+        "cnt": 42
+      },
+      {
+        "name": "励志成长",
+        "cnt": 40
+      }
+    ],
+    "top_words": [
+      {
+        "word": "一生",
+        "count": 291
+      },
+      {
+        "word": "心中",
+        "count": 218
+      },
+      {
+        "word": "一切",
+        "count": 211
+      },
+      {
+        "word": "永远",
+        "count": 189
+      },
+      {
+        "word": "不会",
+        "count": 160
+      },
+      {
+        "word": "不要",
+        "count": 154
+      },
+      {
+        "word": "世界",
+        "count": 147
+      },
+      {
+        "word": "不再",
+        "count": 147
+      }
+    ],
+    "comment": "九十年代中期，香港回归前夕，四大天王时代渐入尾声，内地校园民谣与摇滚乐开始崛起。1995年是华语乐坛的稳年，全年收录741首歌曲，累计43.3万条评论，市场活跃。年度最具影响力歌手为「卢冠廷」，共贡献1首作品，收获16.2万条评论。紧随其后的是张学友、谭咏麟、高橋洋子等实力歌手。年度金曲《一生所爱》（卢冠廷/莫文蔚）以16.2万条评论位居榜首，《残酷な天使のテーゼ》（高橋洋子）、《一生中最爱》（谭咏麟）等作品同样深入人心。年度创作主题集中于「孤独emo、人生哲思、怀旧青春」，反映了这一年的社会情绪与听众偏好。年度歌词高频词为「一生、心中、一切、永远、不会」，勾勒出这一年大众的情感底色。黑马「卢冠廷」首度登顶年度歌手榜，一鸣惊人。"
+  },
+  {
+    "year": 1996,
+    "song_count": 666,
+    "total_cmt": 574354,
+    "top_songs": [
+      {
+        "name": "Last Dance",
+        "artist": "伍佰 & China Blue",
+        "album": "爱情的尽头",
+        "cmt": 175088,
+        "topic": "离别思念"
+      },
+      {
+        "name": "「名探偵コナン」~メインテーマ",
+        "artist": "大野克夫",
+        "album": "「名探偵コナン」メインテーマ",
+        "cmt": 85790,
+        "topic": null
+      },
+      {
+        "name": "心愿",
+        "artist": "四个女生",
+        "album": "心愿",
+        "cmt": 81223,
+        "topic": "离别思念"
+      },
+      {
+        "name": "慢慢",
+        "artist": "张学友",
+        "album": "忘记你我做不到",
+        "cmt": 49916,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "独角戏",
+        "artist": "许茹芸",
+        "album": "如果云知道",
+        "cmt": 38450,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "挪威的森林",
+        "artist": "伍佰 & China Blue",
+        "album": "爱情的尽头",
+        "cmt": 37794,
+        "topic": "离别思念"
+      },
+      {
+        "name": "阳光总在风雨后",
+        "artist": "许美静",
+        "album": "都是夜归人",
+        "cmt": 28348,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "友情岁月（电影《古惑仔之人在江湖》主题曲）",
+        "artist": "郑伊健",
+        "album": "古惑仔II之猛龙过江",
+        "cmt": 27393,
+        "topic": "励志成长"
+      },
+      {
+        "name": "沧海一声笑",
+        "artist": "许冠杰",
+        "album": "沧海一声笑",
+        "cmt": 25988,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "渡口",
+        "artist": "蔡琴",
+        "album": "民歌蔡琴",
+        "cmt": 24364,
+        "topic": "怀旧青春"
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "伍佰 & China Blue",
+        "cmt": 236550,
+        "songs": 5
+      },
+      {
+        "name": "张学友",
+        "cmt": 114153,
+        "songs": 69
+      },
+      {
+        "name": "大野克夫",
+        "cmt": 85790,
+        "songs": 1
+      },
+      {
+        "name": "四个女生",
+        "cmt": 81223,
+        "songs": 1
+      },
+      {
+        "name": "许茹芸",
+        "cmt": 60042,
+        "songs": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "孤独emo",
+        "cnt": 90
+      },
+      {
+        "name": "人生哲思",
+        "cnt": 59
+      },
+      {
+        "name": "离别思念",
+        "cnt": 40
+      },
+      {
+        "name": "怀旧青春",
+        "cnt": 31
+      },
+      {
+        "name": "励志成长",
+        "cnt": 30
+      }
+    ],
+    "top_words": [
+      {
+        "word": "一生",
+        "count": 194
+      },
+      {
+        "word": "心中",
+        "count": 182
+      },
+      {
+        "word": "永远",
+        "count": 178
+      },
+      {
+        "word": "爱情",
+        "count": 174
+      },
+      {
+        "word": "一切",
+        "count": 167
+      },
+      {
+        "word": "寂寞",
+        "count": 155
+      },
+      {
+        "word": "不要",
+        "count": 151
+      },
+      {
+        "word": "如何",
+        "count": 147
+      }
+    ],
+    "comment": "九十年代中期，香港回归前夕，四大天王时代渐入尾声，内地校园民谣与摇滚乐开始崛起。1996年是华语乐坛的稳年，全年收录666首歌曲，累计57.4万条评论，市场活跃。年度最具影响力歌手为「伍佰 & China Blue」，共贡献5首作品，收获23.7万条评论。紧随其后的是张学友、大野克夫、四个女生等实力歌手。年度金曲《Last Dance》（伍佰 & China Blue）以17.5万条评论位居榜首，《「名探偵コナン」~メインテーマ》（大野克夫）、《心愿》（四个女生）等作品同样深入人心。年度创作主题集中于「孤独emo、人生哲思、离别思念」，反映了这一年的社会情绪与听众偏好。年度歌词高频词为「一生、心中、永远、爱情、一切」，勾勒出这一年大众的情感底色。歌曲收录量较上年减少75首（-10%）。黑马「伍佰 & China Blue」首度登顶年度歌手榜，一鸣惊人。"
+  },
+  {
+    "year": 1997,
+    "song_count": 556,
+    "total_cmt": 321093,
+    "top_songs": [
+      {
+        "name": "暧昧",
+        "artist": "王菲",
+        "album": "菲主打",
+        "cmt": 42495,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "暗涌",
+        "artist": "王菲",
+        "album": "玩具",
+        "cmt": 41504,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "人间",
+        "artist": "王菲",
+        "album": "王菲",
+        "cmt": 38356,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "电台情歌",
+        "artist": "莫文蔚",
+        "album": "做自己",
+        "cmt": 37098,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "矜持",
+        "artist": "王菲",
+        "album": "菲卖品",
+        "cmt": 36714,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "流沙",
+        "artist": "陶喆",
+        "album": "David Tao",
+        "cmt": 31604,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "飞机场的10:30",
+        "artist": "陶喆",
+        "album": "David Tao",
+        "cmt": 24971,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "爱，很简单",
+        "artist": "陶喆",
+        "album": "David Tao",
+        "cmt": 24708,
+        "topic": "综合主题"
+      },
+      {
+        "name": "短发",
+        "artist": "梁咏琪",
+        "album": "短发",
+        "cmt": 24391,
+        "topic": "励志成长"
+      },
+      {
+        "name": "女人花",
+        "artist": "梅艳芳",
+        "album": "女人花",
+        "cmt": 19252,
+        "topic": "怀旧青春"
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "王菲",
+        "cmt": 207454,
+        "songs": 16
+      },
+      {
+        "name": "陶喆",
+        "cmt": 143401,
+        "songs": 15
+      },
+      {
+        "name": "张国荣",
+        "cmt": 54398,
+        "songs": 24
+      },
+      {
+        "name": "莫文蔚",
+        "cmt": 47644,
+        "songs": 15
+      },
+      {
+        "name": "张学友",
+        "cmt": 32162,
+        "songs": 54
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "孤独emo",
+        "cnt": 62
+      },
+      {
+        "name": "人生哲思",
+        "cnt": 59
+      },
+      {
+        "name": "离别思念",
+        "cnt": 40
+      },
+      {
+        "name": "励志成长",
+        "cnt": 37
+      },
+      {
+        "name": "怀旧青春",
+        "cnt": 27
+      }
+    ],
+    "top_words": [
+      {
+        "word": "爱情",
+        "count": 212
+      },
+      {
+        "word": "世界",
+        "count": 181
+      },
+      {
+        "word": "永远",
+        "count": 168
+      },
+      {
+        "word": "心中",
+        "count": 167
+      },
+      {
+        "word": "一切",
+        "count": 164
+      },
+      {
+        "word": "一生",
+        "count": 154
+      },
+      {
+        "word": "不会",
+        "count": 147
+      },
+      {
+        "word": "所有",
+        "count": 143
+      }
+    ],
+    "comment": "九十年代中期，香港回归前夕，四大天王时代渐入尾声，内地校园民谣与摇滚乐开始崛起。1997年是华语乐坛的稳年，全年收录556首歌曲，累计32.1万条评论，市场活跃。年度最具影响力歌手为「王菲」，共贡献16首作品，收获20.7万条评论。紧随其后的是陶喆、张国荣、莫文蔚等实力歌手。年度金曲《暧昧》（王菲）以4.2万条评论位居榜首，《暗涌》（王菲）、《人间》（王菲）等作品同样深入人心。年度创作主题集中于「孤独emo、人生哲思、离别思念」，反映了这一年的社会情绪与听众偏好。年度歌词高频词为「爱情、世界、永远、心中、一切」，勾勒出这一年大众的情感底色。歌曲收录量较上年减少110首（-17%）。年度总评论回落25.3万（-44%）。"
+  },
+  {
+    "year": 1998,
+    "song_count": 724,
+    "total_cmt": 374790,
+    "top_songs": [
+      {
+        "name": "那些花儿",
+        "artist": "朴树",
+        "album": "我去2000年",
+        "cmt": 62144,
+        "topic": "离别思念"
+      },
+      {
+        "name": "伤心太平洋",
+        "artist": "任贤齐",
+        "album": "爱像太平洋",
+        "cmt": 40070,
+        "topic": "离别思念"
+      },
+      {
+        "name": "白桦林",
+        "artist": "朴树",
+        "album": "我去2000年",
+        "cmt": 38824,
+        "topic": "离别思念"
+      },
+      {
+        "name": "红豆",
+        "artist": "王菲",
+        "album": "唱游",
+        "cmt": 38511,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "Snowdreams",
+        "artist": "Bandari",
+        "album": "One Day In Spring",
+        "cmt": 37237,
+        "topic": null
+      },
+      {
+        "name": "胆小鬼",
+        "artist": "梁咏琪",
+        "album": "梁咏琪 同名专辑",
+        "cmt": 35440,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "New Boy",
+        "artist": "朴树",
+        "album": "我去2000年",
+        "cmt": 34907,
+        "topic": "综合主题"
+      },
+      {
+        "name": "月亮惹的祸",
+        "artist": "张宇",
+        "album": "月亮 太阳",
+        "cmt": 31388,
+        "topic": "励志成长"
+      },
+      {
+        "name": "万里の長城",
+        "artist": "太田美知彦",
+        "album": "中华一番! スペシャルTVオンエアーミックス& ― オリジナル・サウンドトラック",
+        "cmt": 29411,
+        "topic": null
+      },
+      {
+        "name": "懂你",
+        "artist": "满文军",
+        "album": "让你的天空最美",
+        "cmt": 26858,
+        "topic": "离别思念"
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "朴树",
+        "cmt": 182880,
+        "songs": 11
+      },
+      {
+        "name": "张学友",
+        "cmt": 75630,
+        "songs": 40
+      },
+      {
+        "name": "王菲",
+        "cmt": 70042,
+        "songs": 11
+      },
+      {
+        "name": "任贤齐",
+        "cmt": 66340,
+        "songs": 7
+      },
+      {
+        "name": "张宇",
+        "cmt": 47504,
+        "songs": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "孤独emo",
+        "cnt": 84
+      },
+      {
+        "name": "离别思念",
+        "cnt": 76
+      },
+      {
+        "name": "人生哲思",
+        "cnt": 66
+      },
+      {
+        "name": "怀旧青春",
+        "cnt": 49
+      },
+      {
+        "name": "励志成长",
+        "cnt": 30
+      }
+    ],
+    "top_words": [
+      {
+        "word": "不要",
+        "count": 197
+      },
+      {
+        "word": "世界",
+        "count": 153
+      },
+      {
+        "word": "永远",
+        "count": 145
+      },
+      {
+        "word": "寂寞",
+        "count": 145
+      },
+      {
+        "word": "you",
+        "count": 141
+      },
+      {
+        "word": "不会",
+        "count": 138
+      },
+      {
+        "word": "yei",
+        "count": 137
+      },
+      {
+        "word": "一天",
+        "count": 135
+      }
+    ],
+    "comment": "九十年代末至世纪之交，王菲、张惠妹、陶喆等歌手引领华语乐坛走向国际化，R&B曲风开始流行。1998年是华语乐坛的稳年，全年收录724首歌曲，累计37.5万条评论，市场活跃。年度最具影响力歌手为「朴树」，共贡献11首作品，收获18.3万条评论。紧随其后的是张学友、王菲、任贤齐等实力歌手。年度金曲《那些花儿》（朴树）以6.2万条评论位居榜首，《伤心太平洋》（任贤齐）、《白桦林》（朴树）等作品同样深入人心。年度创作主题集中于「孤独emo、离别思念、人生哲思」，反映了这一年的社会情绪与听众偏好。年度歌词高频词为「不要、世界、永远、寂寞、you」，勾勒出这一年大众的情感底色。歌曲收录量较上年增长168首（+30%）。"
+  },
+  {
+    "year": 1999,
+    "song_count": 850,
+    "total_cmt": 768669,
+    "top_songs": [
+      {
+        "name": "DEAR JOHN",
+        "artist": "比莉",
+        "album": "傻瓜就是我",
+        "cmt": 145784,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "光辉岁月",
+        "artist": "Beyond",
+        "album": "光辉岁月十五年",
+        "cmt": 134048,
+        "topic": "励志成长"
+      },
+      {
+        "name": "给你们",
+        "artist": "张宇",
+        "album": "雨一直下",
+        "cmt": 91432,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "想你的365天",
+        "artist": "李玟",
+        "album": "宝莲灯 电影原声音乐",
+        "cmt": 79439,
+        "topic": "离别思念"
+      },
+      {
+        "name": "天天",
+        "artist": "陶喆",
+        "album": "I'm OK",
+        "cmt": 67512,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "普通朋友",
+        "artist": "陶喆",
+        "album": "I'm OK",
+        "cmt": 64025,
+        "topic": "综合主题"
+      },
+      {
+        "name": "突然想起你",
+        "artist": "萧亚轩",
+        "album": "萧亚轩 同名专辑",
+        "cmt": 62863,
+        "topic": "离别思念"
+      },
+      {
+        "name": "红豆",
+        "artist": "王菲",
+        "album": "Eyes On Me",
+        "cmt": 44873,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "雨一直下",
+        "artist": "张宇",
+        "album": "雨一直下",
+        "cmt": 40058,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "单身情歌",
+        "artist": "林志炫",
+        "album": "单身情歌 超炫精选",
+        "cmt": 38635,
+        "topic": "孤独emo"
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "陶喆",
+        "cmt": 217475,
+        "songs": 12
+      },
+      {
+        "name": "王菲",
+        "cmt": 150542,
+        "songs": 12
+      },
+      {
+        "name": "比莉",
+        "cmt": 146722,
+        "songs": 2
+      },
+      {
+        "name": "Beyond",
+        "cmt": 143105,
+        "songs": 7
+      },
+      {
+        "name": "张宇",
+        "cmt": 135626,
+        "songs": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "孤独emo",
+        "cnt": 93
+      },
+      {
+        "name": "人生哲思",
+        "cnt": 73
+      },
+      {
+        "name": "离别思念",
+        "cnt": 55
+      },
+      {
+        "name": "励志成长",
+        "cnt": 28
+      },
+      {
+        "name": "综合主题",
+        "cnt": 21
+      }
+    ],
+    "top_words": [
+      {
+        "word": "不要",
+        "count": 199
+      },
+      {
+        "word": "快乐",
+        "count": 182
+      },
+      {
+        "word": "感觉",
+        "count": 181
+      },
+      {
+        "word": "世界",
+        "count": 168
+      },
+      {
+        "word": "永远",
+        "count": 153
+      },
+      {
+        "word": "一天",
+        "count": 153
+      },
+      {
+        "word": "今天",
+        "count": 152
+      },
+      {
+        "word": "一切",
+        "count": 144
+      }
+    ],
+    "comment": "九十年代末至世纪之交，王菲、张惠妹、陶喆等歌手引领华语乐坛走向国际化，R&B曲风开始流行。1999年是华语乐坛的稳年，全年收录850首歌曲，累计76.9万条评论，市场活跃。年度最具影响力歌手为「陶喆」，共贡献12首作品，收获21.7万条评论。紧随其后的是王菲、比莉、Beyond等实力歌手。年度金曲《DEAR JOHN》（比莉）以14.6万条评论位居榜首，《光辉岁月》（Beyond）、《给你们》（张宇）等作品同样深入人心。年度创作主题集中于「孤独emo、人生哲思、离别思念」，反映了这一年的社会情绪与听众偏好。年度歌词高频词为「不要、快乐、感觉、世界、永远」，勾勒出这一年大众的情感底色。歌曲收录量较上年增长126首（+17%）。"
+  },
+  {
+    "year": 2000,
+    "song_count": 1022,
+    "total_cmt": 1146590,
+    "top_songs": [
+      {
+        "name": "后来",
+        "artist": "刘若英",
+        "album": "我等你",
+        "cmt": 396773,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "黄昏",
+        "artist": "周传雄",
+        "album": "Transfer",
+        "cmt": 140787,
+        "topic": "离别思念"
+      },
+      {
+        "name": "开始懂了",
+        "artist": "孙燕姿",
+        "album": "我要的幸福",
+        "cmt": 124738,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "勇气",
+        "artist": "梁静茹",
+        "album": "勇气",
+        "cmt": 116313,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "不值得",
+        "artist": "梦飞船",
+        "album": "梦飞船航行记录2",
+        "cmt": 77981,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "至少还有你",
+        "artist": "林忆莲",
+        "album": "林忆莲's",
+        "cmt": 76985,
+        "topic": "离别思念"
+      },
+      {
+        "name": "爱如潮水",
+        "artist": "张信哲",
+        "album": "张信哲精选",
+        "cmt": 61679,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "灰姑娘",
+        "artist": "梁咏琪",
+        "album": "花火",
+        "cmt": 56559,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "她来听我的演唱会",
+        "artist": "张学友",
+        "album": "友情歌",
+        "cmt": 53384,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "天黑黑",
+        "artist": "孙燕姿",
+        "album": "孙燕姿 同名专辑",
+        "cmt": 41391,
+        "topic": "人生哲思"
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "刘若英",
+        "cmt": 401864,
+        "songs": 21
+      },
+      {
+        "name": "张国荣",
+        "cmt": 217238,
+        "songs": 77
+      },
+      {
+        "name": "孙燕姿",
+        "cmt": 212410,
+        "songs": 22
+      },
+      {
+        "name": "周杰伦",
+        "cmt": 197716,
+        "songs": 10
+      },
+      {
+        "name": "张学友",
+        "cmt": 197417,
+        "songs": 68
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "孤独emo",
+        "cnt": 140
+      },
+      {
+        "name": "人生哲思",
+        "cnt": 108
+      },
+      {
+        "name": "离别思念",
+        "cnt": 62
+      },
+      {
+        "name": "励志成长",
+        "cnt": 38
+      },
+      {
+        "name": "怀旧青春",
+        "cnt": 31
+      }
+    ],
+    "top_words": [
+      {
+        "word": "世界",
+        "count": 188
+      },
+      {
+        "word": "快乐",
+        "count": 169
+      },
+      {
+        "word": "不要",
+        "count": 165
+      },
+      {
+        "word": "一切",
+        "count": 154
+      },
+      {
+        "word": "一天",
+        "count": 153
+      },
+      {
+        "word": "心中",
+        "count": 140
+      },
+      {
+        "word": "爱情",
+        "count": 138
+      },
+      {
+        "word": "一生",
+        "count": 137
+      }
+    ],
+    "comment": "九十年代末至世纪之交，王菲、张惠妹、陶喆等歌手引领华语乐坛走向国际化，R&B曲风开始流行。2000年是华语乐坛的丰年，全年收录1022首歌曲，累计114.7万条评论，热度不凡。年度最具影响力歌手为「刘若英」，共贡献21首作品，收获40.2万条评论。紧随其后的是张国荣、孙燕姿、周杰伦等实力歌手。年度金曲《后来》（刘若英）以39.7万条评论位居榜首，《黄昏》（周传雄）、《开始懂了》（孙燕姿）等作品同样深入人心。年度创作主题集中于「孤独emo、人生哲思、离别思念」，反映了这一年的社会情绪与听众偏好。年度歌词高频词为「世界、快乐、不要、一切、一天」，勾勒出这一年大众的情感底色。歌曲收录量较上年增长172首（+20%）。黑马「刘若英」首度登顶年度歌手榜，一鸣惊人。"
+  },
+  {
+    "year": 2001,
+    "song_count": 1034,
+    "total_cmt": 625000,
+    "top_songs": [
+      {
+        "name": "怎样",
+        "artist": "戴佩妮",
+        "album": "怎样",
+        "cmt": 110607,
+        "topic": "离别思念"
+      },
+      {
+        "name": "开不了口",
+        "artist": "周杰伦",
+        "album": "范特西",
+        "cmt": 67604,
+        "topic": null
+      },
+      {
+        "name": "一生有你",
+        "artist": "水木年华",
+        "album": "一生有你",
+        "cmt": 64555,
+        "topic": "励志成长"
+      },
+      {
+        "name": "第一次",
+        "artist": "光良",
+        "album": "第1次个人创作专辑",
+        "cmt": 62610,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "安静",
+        "artist": "周杰伦",
+        "album": "范特西",
+        "cmt": 57937,
+        "topic": null
+      },
+      {
+        "name": "难念的经",
+        "artist": "周华健",
+        "album": "电视剧歌曲大全",
+        "cmt": 57684,
+        "topic": "励志成长"
+      },
+      {
+        "name": "乱世巨星（电影《97古惑仔：战无不胜》插曲）",
+        "artist": "陈小春",
+        "album": "古惑仔最强精选集",
+        "cmt": 56988,
+        "topic": null
+      },
+      {
+        "name": "海阔天空",
+        "artist": "Beyond",
+        "album": "华纳廿三周年纪念精选系列 - B﻿eyond",
+        "cmt": 50278,
+        "topic": "励志成长"
+      },
+      {
+        "name": "雨蝶",
+        "artist": "李翊君",
+        "album": "情爱怨女",
+        "cmt": 49603,
+        "topic": "离别思念"
+      },
+      {
+        "name": "简单爱",
+        "artist": "周杰伦",
+        "album": "范特西",
+        "cmt": 47134,
+        "topic": null
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "周杰伦",
+        "cmt": 405993,
+        "songs": 19
+      },
+      {
+        "name": "戴佩妮",
+        "cmt": 139868,
+        "songs": 2
+      },
+      {
+        "name": "周华健",
+        "cmt": 108493,
+        "songs": 7
+      },
+      {
+        "name": "张学友",
+        "cmt": 89151,
+        "songs": 54
+      },
+      {
+        "name": "陈奕迅",
+        "cmt": 82253,
+        "songs": 65
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "孤独emo",
+        "cnt": 118
+      },
+      {
+        "name": "人生哲思",
+        "cnt": 71
+      },
+      {
+        "name": "离别思念",
+        "cnt": 62
+      },
+      {
+        "name": "励志成长",
+        "cnt": 27
+      },
+      {
+        "name": "综合主题",
+        "cnt": 20
+      }
+    ],
+    "top_words": [
+      {
+        "word": "世界",
+        "count": 209
+      },
+      {
+        "word": "不会",
+        "count": 193
+      },
+      {
+        "word": "永远",
+        "count": 185
+      },
+      {
+        "word": "一切",
+        "count": 175
+      },
+      {
+        "word": "不要",
+        "count": 168
+      },
+      {
+        "word": "爱情",
+        "count": 158
+      },
+      {
+        "word": "感觉",
+        "count": 151
+      },
+      {
+        "word": "不能",
+        "count": 149
+      }
+    ],
+    "comment": "千禧年初，周杰伦横空出世，以独特的「周式R&B+中国风」重新定义了华语流行音乐。2001年是华语乐坛的丰年，全年收录1034首歌曲，累计62.5万条评论，市场活跃。年度最具影响力歌手为「周杰伦」，共贡献19首作品，收获40.6万条评论。紧随其后的是戴佩妮、周华健、张学友等实力歌手。年度金曲《怎样》（戴佩妮）以11.1万条评论位居榜首，《开不了口》（周杰伦）、《一生有你》（水木年华）等作品同样深入人心。年度创作主题集中于「孤独emo、人生哲思、离别思念」，反映了这一年的社会情绪与听众偏好。年度歌词高频词为「世界、不会、永远、一切、不要」，勾勒出这一年大众的情感底色。年度总评论回落52.2万（-45%）。"
+  },
+  {
+    "year": 2002,
+    "song_count": 947,
+    "total_cmt": 801350,
+    "top_songs": [
+      {
+        "name": "太聪明",
+        "artist": "陈绮贞",
+        "album": "Groupies吉他手",
+        "cmt": 208791,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "蓝莲花",
+        "artist": "许巍",
+        "album": "时光.漫步",
+        "cmt": 188088,
+        "topic": "励志成长"
+      },
+      {
+        "name": "太多",
+        "artist": "陈冠蒲",
+        "album": "就让你走",
+        "cmt": 63835,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "我是真的爱上你",
+        "artist": "王杰",
+        "album": "爱与梦",
+        "cmt": 53954,
+        "topic": "励志成长"
+      },
+      {
+        "name": "半岛铁盒",
+        "artist": "周杰伦",
+        "album": "八度空间",
+        "cmt": 49908,
+        "topic": null
+      },
+      {
+        "name": "痴心绝对",
+        "artist": "李圣杰",
+        "album": "痴心绝对",
+        "cmt": 49191,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "当爱在靠近",
+        "artist": "刘若英",
+        "album": "Love and the City",
+        "cmt": 47131,
+        "topic": "励志成长"
+      },
+      {
+        "name": "至少还有你",
+        "artist": "林忆莲",
+        "album": "属于我的林忆莲",
+        "cmt": 47069,
+        "topic": "离别思念"
+      },
+      {
+        "name": "回到过去",
+        "artist": "周杰伦",
+        "album": "八度空间",
+        "cmt": 46809,
+        "topic": null
+      },
+      {
+        "name": "二十二",
+        "artist": "陶喆",
+        "album": "黑色柳丁",
+        "cmt": 46574,
+        "topic": "人生哲思"
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "周杰伦",
+        "cmt": 300057,
+        "songs": 35
+      },
+      {
+        "name": "许巍",
+        "cmt": 250843,
+        "songs": 10
+      },
+      {
+        "name": "陈绮贞",
+        "cmt": 242144,
+        "songs": 10
+      },
+      {
+        "name": "陶喆",
+        "cmt": 194343,
+        "songs": 10
+      },
+      {
+        "name": "莫文蔚",
+        "cmt": 119549,
+        "songs": 44
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "孤独emo",
+        "cnt": 139
+      },
+      {
+        "name": "人生哲思",
+        "cnt": 101
+      },
+      {
+        "name": "离别思念",
+        "cnt": 64
+      },
+      {
+        "name": "励志成长",
+        "cnt": 29
+      },
+      {
+        "name": "综合主题",
+        "cnt": 27
+      }
+    ],
+    "top_words": [
+      {
+        "word": "快乐",
+        "count": 179
+      },
+      {
+        "word": "不要",
+        "count": 164
+      },
+      {
+        "word": "爱情",
+        "count": 160
+      },
+      {
+        "word": "永远",
+        "count": 153
+      },
+      {
+        "word": "世界",
+        "count": 145
+      },
+      {
+        "word": "一起",
+        "count": 145
+      },
+      {
+        "word": "一生",
+        "count": 144
+      },
+      {
+        "word": "不会",
+        "count": 141
+      }
+    ],
+    "comment": "千禧年初，周杰伦横空出世，以独特的「周式R&B+中国风」重新定义了华语流行音乐。2002年是华语乐坛的稳年，全年收录947首歌曲，累计80.1万条评论，市场活跃。年度最具影响力歌手为「周杰伦」，共贡献35首作品，收获30.0万条评论。紧随其后的是许巍、陈绮贞、陶喆等实力歌手。年度金曲《太聪明》（陈绮贞）以20.9万条评论位居榜首，《蓝莲花》（许巍）、《太多》（陈冠蒲）等作品同样深入人心。年度创作主题集中于「孤独emo、人生哲思、离别思念」，反映了这一年的社会情绪与听众偏好。年度歌词高频词为「快乐、不要、爱情、永远、世界」，勾勒出这一年大众的情感底色。「周杰伦」连续两年登顶年度歌手榜首，势头正盛。"
+  },
+  {
+    "year": 2003,
+    "song_count": 1182,
+    "total_cmt": 2639823,
+    "top_songs": [
+      {
+        "name": "晴天",
+        "artist": "周杰伦",
+        "album": "叶惠美",
+        "cmt": 1970474,
+        "topic": null
+      },
+      {
+        "name": "十年",
+        "artist": "陈奕迅",
+        "album": "黑白灰",
+        "cmt": 139791,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "以父之名",
+        "artist": "周杰伦",
+        "album": "叶惠美",
+        "cmt": 122609,
+        "topic": null
+      },
+      {
+        "name": "温柔",
+        "artist": "五月天",
+        "album": "我们是五月天",
+        "cmt": 79747,
+        "topic": "离别思念"
+      },
+      {
+        "name": "分手快乐",
+        "artist": "梁静茹",
+        "album": "恋爱的力量",
+        "cmt": 64680,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "必杀技",
+        "artist": "古巨基",
+        "album": "游戏 基",
+        "cmt": 56516,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "我不难过",
+        "artist": "孙燕姿",
+        "album": "未完成",
+        "cmt": 55299,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "轨迹",
+        "artist": "周杰伦",
+        "album": "寻找周杰伦",
+        "cmt": 54353,
+        "topic": null
+      },
+      {
+        "name": "习惯失恋",
+        "artist": "容祖儿",
+        "album": "我的骄傲",
+        "cmt": 49089,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "布拉格广场",
+        "artist": "蔡依林/周杰伦",
+        "album": "看我72变",
+        "cmt": 47265,
+        "topic": "离别思念"
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "周杰伦",
+        "cmt": 2357121,
+        "songs": 16
+      },
+      {
+        "name": "陈奕迅",
+        "cmt": 234933,
+        "songs": 82
+      },
+      {
+        "name": "五月天",
+        "cmt": 179410,
+        "songs": 37
+      },
+      {
+        "name": "朴树",
+        "cmt": 142052,
+        "songs": 20
+      },
+      {
+        "name": "孙燕姿",
+        "cmt": 125449,
+        "songs": 29
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "孤独emo",
+        "cnt": 163
+      },
+      {
+        "name": "人生哲思",
+        "cnt": 81
+      },
+      {
+        "name": "离别思念",
+        "cnt": 57
+      },
+      {
+        "name": "励志成长",
+        "cnt": 28
+      },
+      {
+        "name": "综合主题",
+        "cnt": 24
+      }
+    ],
+    "top_words": [
+      {
+        "word": "一生",
+        "count": 175
+      },
+      {
+        "word": "快乐",
+        "count": 174
+      },
+      {
+        "word": "世界",
+        "count": 162
+      },
+      {
+        "word": "不要",
+        "count": 155
+      },
+      {
+        "word": "爱情",
+        "count": 149
+      },
+      {
+        "word": "不会",
+        "count": 147
+      },
+      {
+        "word": "心中",
+        "count": 146
+      },
+      {
+        "word": "寂寞",
+        "count": 135
+      }
+    ],
+    "comment": "千禧年初，周杰伦横空出世，以独特的「周式R&B+中国风」重新定义了华语流行音乐。2003年是华语乐坛的丰年，全年收录1182首歌曲，累计264.0万条评论，热度不凡。年度最具影响力歌手为「周杰伦」，共贡献16首作品，收获235.7万条评论。紧随其后的是陈奕迅、五月天、朴树等实力歌手。年度金曲《晴天》（周杰伦）以197.0万条评论位居榜首，《十年》（陈奕迅）、《以父之名》（周杰伦）等作品同样深入人心。年度创作主题集中于「孤独emo、人生哲思、离别思念」，反映了这一年的社会情绪与听众偏好。年度歌词高频词为「一生、快乐、世界、不要、爱情」，勾勒出这一年大众的情感底色。歌曲收录量较上年增长235首（+25%）。年度总评论暴涨183.8万（+229%），热度空前。🎖️「周杰伦」连续三年蝉联年度歌手榜首，堪称一代天王。金曲「晴天」评论量断层领先，是第二名「十年」的14倍。"
+  },
+  {
+    "year": 2004,
+    "song_count": 1373,
+    "total_cmt": 2496738,
+    "top_songs": [
+      {
+        "name": "好运来",
+        "artist": "祖海",
+        "album": "好运来",
+        "cmt": 1492460,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "江南",
+        "artist": "林俊杰",
+        "album": "第二天堂",
+        "cmt": 185224,
+        "topic": "离别思念"
+      },
+      {
+        "name": "七里香",
+        "artist": "周杰伦",
+        "album": "七里香",
+        "cmt": 177532,
+        "topic": null
+      },
+      {
+        "name": "曾经的你",
+        "artist": "许巍",
+        "album": "每一刻都是崭新的",
+        "cmt": 158168,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "美人鱼",
+        "artist": "林俊杰",
+        "album": "第二天堂",
+        "cmt": 112652,
+        "topic": "离别思念"
+      },
+      {
+        "name": "倔强",
+        "artist": "五月天",
+        "album": "神的孩子都在跳舞",
+        "cmt": 96230,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "after 17",
+        "artist": "陈绮贞",
+        "album": "After 17",
+        "cmt": 90524,
+        "topic": "离别思念"
+      },
+      {
+        "name": "当你孤单你会想起谁",
+        "artist": "张栋梁",
+        "album": "首选",
+        "cmt": 74666,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "快乐崇拜",
+        "artist": "潘玮柏/张韶涵",
+        "album": "Wu Ha",
+        "cmt": 56828,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "我们的爱",
+        "artist": "F.I.R.",
+        "album": "飞儿乐团",
+        "cmt": 52454,
+        "topic": "离别思念"
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "祖海",
+        "cmt": 1499633,
+        "songs": 45
+      },
+      {
+        "name": "周杰伦",
+        "cmt": 411472,
+        "songs": 10
+      },
+      {
+        "name": "林俊杰",
+        "cmt": 355786,
+        "songs": 14
+      },
+      {
+        "name": "张国荣",
+        "cmt": 175439,
+        "songs": 123
+      },
+      {
+        "name": "许巍",
+        "cmt": 170221,
+        "songs": 10
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "孤独emo",
+        "cnt": 165
+      },
+      {
+        "name": "人生哲思",
+        "cnt": 100
+      },
+      {
+        "name": "离别思念",
+        "cnt": 77
+      },
+      {
+        "name": "励志成长",
+        "cnt": 43
+      },
+      {
+        "name": "怀旧青春",
+        "cnt": 29
+      }
+    ],
+    "top_words": [
+      {
+        "word": "不要",
+        "count": 223
+      },
+      {
+        "word": "世界",
+        "count": 185
+      },
+      {
+        "word": "不会",
+        "count": 167
+      },
+      {
+        "word": "永远",
+        "count": 148
+      },
+      {
+        "word": "一切",
+        "count": 146
+      },
+      {
+        "word": "爱情",
+        "count": 145
+      },
+      {
+        "word": "就算",
+        "count": 138
+      },
+      {
+        "word": "寂寞",
+        "count": 130
+      }
+    ],
+    "comment": "千禧年初，周杰伦横空出世，以独特的「周式R&B+中国风」重新定义了华语流行音乐。2004年是华语乐坛的丰年，全年收录1373首歌曲，累计249.7万条评论，热度不凡。年度最具影响力歌手为「祖海」，共贡献45首作品，收获150.0万条评论。紧随其后的是周杰伦、林俊杰、张国荣等实力歌手。年度金曲《好运来》（祖海）以149.2万条评论位居榜首，《江南》（林俊杰）、《七里香》（周杰伦）等作品同样深入人心。年度创作主题集中于「孤独emo、人生哲思、离别思念」，反映了这一年的社会情绪与听众偏好。年度歌词高频词为「不要、世界、不会、永远、一切」，勾勒出这一年大众的情感底色。歌曲收录量较上年增长191首（+16%）。黑马「祖海」首度登顶年度歌手榜，一鸣惊人。金曲「好运来」评论量断层领先，是第二名「江南」的8倍。"
+  },
+  {
+    "year": 2005,
+    "song_count": 1229,
+    "total_cmt": 1697613,
+    "top_songs": [
+      {
+        "name": "The truth that you leave",
+        "artist": "Pianoboy高至豪",
+        "album": "The truth that you leave",
+        "cmt": 712257,
+        "topic": null
+      },
+      {
+        "name": "爱我还是他",
+        "artist": "陶喆",
+        "album": "太平盛世",
+        "cmt": 178228,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "葡萄成熟时",
+        "artist": "陈奕迅",
+        "album": "U87",
+        "cmt": 156793,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "知足",
+        "artist": "五月天",
+        "album": "知足 最真杰作选",
+        "cmt": 114848,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "相依为命",
+        "artist": "陈小春",
+        "album": "十年选",
+        "cmt": 97912,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "就是爱你",
+        "artist": "陶喆",
+        "album": "太平盛世",
+        "cmt": 90461,
+        "topic": "离别思念"
+      },
+      {
+        "name": "一路向北",
+        "artist": "周杰伦",
+        "album": "11月的萧邦",
+        "cmt": 89606,
+        "topic": null
+      },
+      {
+        "name": "七月七日晴",
+        "artist": "许慧欣",
+        "album": "万中选一",
+        "cmt": 87967,
+        "topic": "离别思念"
+      },
+      {
+        "name": "不得不爱",
+        "artist": "潘玮柏/弦子",
+        "album": "高手",
+        "cmt": 85461,
+        "topic": "综合主题"
+      },
+      {
+        "name": "那女孩对我说",
+        "artist": "黄义达",
+        "album": "专属密码",
+        "cmt": 84080,
+        "topic": "人生哲思"
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "Pianoboy高至豪",
+        "cmt": 712257,
+        "songs": 1
+      },
+      {
+        "name": "周杰伦",
+        "cmt": 506872,
+        "songs": 49
+      },
+      {
+        "name": "陈奕迅",
+        "cmt": 311646,
+        "songs": 64
+      },
+      {
+        "name": "陶喆",
+        "cmt": 306658,
+        "songs": 9
+      },
+      {
+        "name": "五月天",
+        "cmt": 212521,
+        "songs": 68
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "孤独emo",
+        "cnt": 185
+      },
+      {
+        "name": "人生哲思",
+        "cnt": 134
+      },
+      {
+        "name": "离别思念",
+        "cnt": 68
+      },
+      {
+        "name": "励志成长",
+        "cnt": 37
+      },
+      {
+        "name": "怀旧青春",
+        "cnt": 34
+      }
+    ],
+    "top_words": [
+      {
+        "word": "世界",
+        "count": 203
+      },
+      {
+        "word": "不会",
+        "count": 197
+      },
+      {
+        "word": "不能",
+        "count": 161
+      },
+      {
+        "word": "一起",
+        "count": 158
+      },
+      {
+        "word": "爱情",
+        "count": 154
+      },
+      {
+        "word": "只有",
+        "count": 149
+      },
+      {
+        "word": "永远",
+        "count": 146
+      },
+      {
+        "word": "一天",
+        "count": 144
+      }
+    ],
+    "comment": "千禧年初，周杰伦横空出世，以独特的「周式R&B+中国风」重新定义了华语流行音乐。2005年是华语乐坛的丰年，全年收录1229首歌曲，累计169.8万条评论，热度不凡。年度最具影响力歌手为「Pianoboy高至豪」，共贡献1首作品，收获71.2万条评论。紧随其后的是周杰伦、陈奕迅、陶喆等实力歌手。年度金曲《The truth that you leave》（Pianoboy高至豪）以71.2万条评论位居榜首，《爱我还是他》（陶喆）、《葡萄成熟时》（陈奕迅）等作品同样深入人心。年度创作主题集中于「孤独emo、人生哲思、离别思念」，反映了这一年的社会情绪与听众偏好。年度歌词高频词为「世界、不会、不能、一起、爱情」，勾勒出这一年大众的情感底色。歌曲收录量较上年减少144首（-10%）。年度总评论回落79.9万（-32%）。黑马「Pianoboy高至豪」首度登顶年度歌手榜，一鸣惊人。金曲「The truth that you leave」评论量断层领先，是第二名「爱我还是他」的3倍。"
+  },
+  {
+    "year": 2006,
+    "song_count": 1201,
+    "total_cmt": 1100665,
+    "top_songs": [
+      {
+        "name": "富士山下",
+        "artist": "陈奕迅",
+        "album": "What's Going On…?",
+        "cmt": 271794,
+        "topic": "励志成长"
+      },
+      {
+        "name": "最佳损友",
+        "artist": "陈奕迅",
+        "album": "Life Continues…",
+        "cmt": 216290,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "阳光下的星星",
+        "artist": "金海心",
+        "album": "独立日",
+        "cmt": 133106,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "词不达意",
+        "artist": "林忆莲",
+        "album": "呼吸",
+        "cmt": 100446,
+        "topic": "励志成长"
+      },
+      {
+        "name": "无赖",
+        "artist": "郑中基",
+        "album": "正宗K 新曲+精选",
+        "cmt": 77209,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "秋天不回来",
+        "artist": "王强",
+        "album": "秋天不回来",
+        "cmt": 75839,
+        "topic": "离别思念"
+      },
+      {
+        "name": "曹操",
+        "artist": "林俊杰",
+        "album": "曹操",
+        "cmt": 58352,
+        "topic": "励志成长"
+      },
+      {
+        "name": "背叛",
+        "artist": "曹格",
+        "album": "Superman",
+        "cmt": 57957,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "蝴蝶泉边",
+        "artist": "黄雅莉",
+        "album": "崽崽",
+        "cmt": 57879,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "夜的第七章",
+        "artist": "周杰伦/潘儿",
+        "album": "依然范特西",
+        "cmt": 51793,
+        "topic": null
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "陈奕迅",
+        "cmt": 963249,
+        "songs": 184
+      },
+      {
+        "name": "周杰伦",
+        "cmt": 302990,
+        "songs": 15
+      },
+      {
+        "name": "林俊杰",
+        "cmt": 158427,
+        "songs": 34
+      },
+      {
+        "name": "蔡依林",
+        "cmt": 146367,
+        "songs": 27
+      },
+      {
+        "name": "金海心",
+        "cmt": 135915,
+        "songs": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "孤独emo",
+        "cnt": 201
+      },
+      {
+        "name": "人生哲思",
+        "cnt": 101
+      },
+      {
+        "name": "离别思念",
+        "cnt": 79
+      },
+      {
+        "name": "励志成长",
+        "cnt": 50
+      },
+      {
+        "name": "综合主题",
+        "cnt": 33
+      }
+    ],
+    "top_words": [
+      {
+        "word": "不要",
+        "count": 209
+      },
+      {
+        "word": "you",
+        "count": 195
+      },
+      {
+        "word": "世界",
+        "count": 174
+      },
+      {
+        "word": "一起",
+        "count": 172
+      },
+      {
+        "word": "还是",
+        "count": 171
+      },
+      {
+        "word": "不会",
+        "count": 167
+      },
+      {
+        "word": "永远",
+        "count": 152
+      },
+      {
+        "word": "爱情",
+        "count": 147
+      }
+    ],
+    "comment": "两千年代中后期，网络歌手许嵩、汪苏泷等从互联网崛起，彩铃时代改变了音乐消费方式。2006年是华语乐坛的丰年，全年收录1201首歌曲，累计110.1万条评论，热度不凡。年度最具影响力歌手为「陈奕迅」，共贡献184首作品，收获96.3万条评论。紧随其后的是周杰伦、林俊杰、蔡依林等实力歌手。年度金曲《富士山下》（陈奕迅）以27.2万条评论位居榜首，《最佳损友》（陈奕迅）、《阳光下的星星》（金海心）等作品同样深入人心。年度创作主题集中于「孤独emo、人生哲思、离别思念」，反映了这一年的社会情绪与听众偏好。年度歌词高频词为「不要、you、世界、一起、还是」，勾勒出这一年大众的情感底色。年度总评论回落59.7万（-35%）。"
+  },
+  {
+    "year": 2007,
+    "song_count": 1310,
+    "total_cmt": 1718678,
+    "top_songs": [
+      {
+        "name": "遇见",
+        "artist": "孙燕姿",
+        "album": "My Story, Your Song 经典全纪录 (主打精华版)",
+        "cmt": 303099,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "好久不见",
+        "artist": "陈奕迅",
+        "album": "认了吧",
+        "cmt": 282157,
+        "topic": "离别思念"
+      },
+      {
+        "name": "淘汰",
+        "artist": "陈奕迅",
+        "album": "认了吧",
+        "cmt": 181832,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "爱情转移",
+        "artist": "陈奕迅",
+        "album": "认了吧",
+        "cmt": 167757,
+        "topic": "励志成长"
+      },
+      {
+        "name": "爱错",
+        "artist": "王力宏",
+        "album": "恋爱占星音乐全精选",
+        "cmt": 141878,
+        "topic": "离别思念"
+      },
+      {
+        "name": "可惜我是水瓶座",
+        "artist": "杨千嬅",
+        "album": "Simply Me",
+        "cmt": 140542,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "越来越不懂",
+        "artist": "蔡健雅",
+        "album": "Close To 蔡健雅 Original X Tanya Demo",
+        "cmt": 134738,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "钟无艳",
+        "artist": "谢安琪",
+        "album": "3/8(新歌+精选)",
+        "cmt": 134613,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "私奔",
+        "artist": "郑钧",
+        "album": "长安长安",
+        "cmt": 118883,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "红玫瑰",
+        "artist": "陈奕迅",
+        "album": "认了吧",
+        "cmt": 113179,
+        "topic": "励志成长"
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "陈奕迅",
+        "cmt": 1009145,
+        "songs": 130
+      },
+      {
+        "name": "孙燕姿",
+        "cmt": 451223,
+        "songs": 58
+      },
+      {
+        "name": "周杰伦",
+        "cmt": 449688,
+        "songs": 30
+      },
+      {
+        "name": "蔡健雅",
+        "cmt": 369988,
+        "songs": 36
+      },
+      {
+        "name": "杨千嬅",
+        "cmt": 325989,
+        "songs": 20
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "孤独emo",
+        "cnt": 202
+      },
+      {
+        "name": "人生哲思",
+        "cnt": 127
+      },
+      {
+        "name": "离别思念",
+        "cnt": 100
+      },
+      {
+        "name": "怀旧青春",
+        "cnt": 56
+      },
+      {
+        "name": "励志成长",
+        "cnt": 38
+      }
+    ],
+    "top_words": [
+      {
+        "word": "世界",
+        "count": 216
+      },
+      {
+        "word": "爱情",
+        "count": 211
+      },
+      {
+        "word": "快乐",
+        "count": 165
+      },
+      {
+        "word": "不会",
+        "count": 164
+      },
+      {
+        "word": "永远",
+        "count": 163
+      },
+      {
+        "word": "还是",
+        "count": 162
+      },
+      {
+        "word": "不要",
+        "count": 149
+      },
+      {
+        "word": "幸福",
+        "count": 148
+      }
+    ],
+    "comment": "两千年代中后期，网络歌手许嵩、汪苏泷等从互联网崛起，彩铃时代改变了音乐消费方式。2007年是华语乐坛的丰年，全年收录1310首歌曲，累计171.9万条评论，热度不凡。年度最具影响力歌手为「陈奕迅」，共贡献130首作品，收获100.9万条评论。紧随其后的是孙燕姿、周杰伦、蔡健雅等实力歌手。年度金曲《遇见》（孙燕姿）以30.3万条评论位居榜首，《好久不见》（陈奕迅）、《淘汰》（陈奕迅）等作品同样深入人心。年度创作主题集中于「孤独emo、人生哲思、离别思念」，反映了这一年的社会情绪与听众偏好。年度歌词高频词为「世界、爱情、快乐、不会、永远」，勾勒出这一年大众的情感底色。年度总评论暴涨61.8万（+56%），热度空前。「陈奕迅」连续两年登顶年度歌手榜首，势头正盛。"
+  },
+  {
+    "year": 2008,
+    "song_count": 1306,
+    "total_cmt": 1431698,
+    "top_songs": [
+      {
+        "name": "Always Online",
+        "artist": "林俊杰",
+        "album": "JJ陆",
+        "cmt": 227162,
+        "topic": null
+      },
+      {
+        "name": "不要说话",
+        "artist": "陈奕迅",
+        "album": "不想放手",
+        "cmt": 175832,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "我还想她",
+        "artist": "林俊杰",
+        "album": "JJ陆",
+        "cmt": 166629,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "爱情讯息",
+        "artist": "郭静",
+        "album": "下一个天亮",
+        "cmt": 159835,
+        "topic": "离别思念"
+      },
+      {
+        "name": "醉赤壁",
+        "artist": "林俊杰",
+        "album": "JJ陆",
+        "cmt": 131391,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "下一个天亮",
+        "artist": "郭静",
+        "album": "下一个天亮",
+        "cmt": 124696,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "同花顺",
+        "artist": "林倛玉",
+        "album": "12蓮花 原著電影原聲帶 (Original Motion Picture Soundtrack)",
+        "cmt": 121219,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "独家记忆",
+        "artist": "陈小春",
+        "album": "独家记忆 (Hong Kong Version)",
+        "cmt": 116766,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "天下",
+        "artist": "张杰",
+        "album": "明天过后",
+        "cmt": 115302,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "海阔天空",
+        "artist": "Beyond",
+        "album": "Beyond 25th Anniversary",
+        "cmt": 92866,
+        "topic": "励志成长"
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "林俊杰",
+        "cmt": 683709,
+        "songs": 15
+      },
+      {
+        "name": "陈奕迅",
+        "cmt": 501719,
+        "songs": 186
+      },
+      {
+        "name": "Beyond",
+        "cmt": 378341,
+        "songs": 12
+      },
+      {
+        "name": "周杰伦",
+        "cmt": 293327,
+        "songs": 32
+      },
+      {
+        "name": "郭静",
+        "cmt": 290201,
+        "songs": 5
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "孤独emo",
+        "cnt": 172
+      },
+      {
+        "name": "人生哲思",
+        "cnt": 117
+      },
+      {
+        "name": "离别思念",
+        "cnt": 77
+      },
+      {
+        "name": "怀旧青春",
+        "cnt": 43
+      },
+      {
+        "name": "励志成长",
+        "cnt": 38
+      }
+    ],
+    "top_words": [
+      {
+        "word": "一起",
+        "count": 188
+      },
+      {
+        "word": "世界",
+        "count": 184
+      },
+      {
+        "word": "永远",
+        "count": 180
+      },
+      {
+        "word": "不要",
+        "count": 169
+      },
+      {
+        "word": "不会",
+        "count": 157
+      },
+      {
+        "word": "就算",
+        "count": 133
+      },
+      {
+        "word": "幸福",
+        "count": 131
+      },
+      {
+        "word": "快乐",
+        "count": 130
+      }
+    ],
+    "comment": "两千年代中后期，网络歌手许嵩、汪苏泷等从互联网崛起，彩铃时代改变了音乐消费方式。2008年是华语乐坛的丰年，全年收录1306首歌曲，累计143.2万条评论，热度不凡。年度最具影响力歌手为「林俊杰」，共贡献15首作品，收获68.4万条评论。紧随其后的是陈奕迅、Beyond、周杰伦等实力歌手。年度金曲《Always Online》（林俊杰）以22.7万条评论位居榜首，《不要说话》（陈奕迅）、《我还想她》（林俊杰）等作品同样深入人心。年度创作主题集中于「孤独emo、人生哲思、离别思念」，反映了这一年的社会情绪与听众偏好。年度歌词高频词为「一起、世界、永远、不要、不会」，勾勒出这一年大众的情感底色。年度总评论回落28.7万（-17%）。"
+  },
+  {
+    "year": 2009,
+    "song_count": 1201,
+    "total_cmt": 2376703,
+    "top_songs": [
+      {
+        "name": "红色高跟鞋",
+        "artist": "蔡健雅",
+        "album": "若你碰到他",
+        "cmt": 425994,
+        "topic": "离别思念"
+      },
+      {
+        "name": "我们俩",
+        "artist": "郭顶",
+        "album": "微微",
+        "cmt": 286826,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "偏爱",
+        "artist": "张芸京",
+        "album": "仙剑奇侠传三 电视原声带",
+        "cmt": 253824,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "有何不可",
+        "artist": "许嵩",
+        "album": "自定义",
+        "cmt": 238472,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "认真的雪",
+        "artist": "薛之谦",
+        "album": "未完成的歌",
+        "cmt": 229380,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "Intro",
+        "artist": "The xx",
+        "album": "xx",
+        "cmt": 202728,
+        "topic": null
+      },
+      {
+        "name": "雨爱",
+        "artist": "杨丞琳",
+        "album": "雨爱",
+        "cmt": 201830,
+        "topic": "离别思念"
+      },
+      {
+        "name": "我知道",
+        "artist": "By2",
+        "album": "Twins",
+        "cmt": 184321,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "清明雨上",
+        "artist": "许嵩",
+        "album": "自定义",
+        "cmt": 183908,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "你瞒我瞒",
+        "artist": "陈柏宇",
+        "album": "Can't Be Half",
+        "cmt": 169420,
+        "topic": "孤独emo"
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "许嵩",
+        "cmt": 853571,
+        "songs": 9
+      },
+      {
+        "name": "蔡健雅",
+        "cmt": 456236,
+        "songs": 11
+      },
+      {
+        "name": "杨丞琳",
+        "cmt": 335116,
+        "songs": 14
+      },
+      {
+        "name": "徐佳莹",
+        "cmt": 330797,
+        "songs": 6
+      },
+      {
+        "name": "薛之谦",
+        "cmt": 325656,
+        "songs": 14
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "孤独emo",
+        "cnt": 167
+      },
+      {
+        "name": "人生哲思",
+        "cnt": 151
+      },
+      {
+        "name": "离别思念",
+        "cnt": 96
+      },
+      {
+        "name": "怀旧青春",
+        "cnt": 47
+      },
+      {
+        "name": "励志成长",
+        "cnt": 34
+      }
+    ],
+    "top_words": [
+      {
+        "word": "一起",
+        "count": 258
+      },
+      {
+        "word": "love",
+        "count": 233
+      },
+      {
+        "word": "不要",
+        "count": 219
+      },
+      {
+        "word": "世界",
+        "count": 192
+      },
+      {
+        "word": "快乐",
+        "count": 161
+      },
+      {
+        "word": "不会",
+        "count": 145
+      },
+      {
+        "word": "爱情",
+        "count": 140
+      },
+      {
+        "word": "还是",
+        "count": 136
+      }
+    ],
+    "comment": "两千年代中后期，网络歌手许嵩、汪苏泷等从互联网崛起，彩铃时代改变了音乐消费方式。2009年是华语乐坛的丰年，全年收录1201首歌曲，累计237.7万条评论，热度不凡。年度最具影响力歌手为「许嵩」，共贡献9首作品，收获85.4万条评论。紧随其后的是蔡健雅、杨丞琳、徐佳莹等实力歌手。年度金曲《红色高跟鞋》（蔡健雅）以42.6万条评论位居榜首，《我们俩》（郭顶）、《偏爱》（张芸京）等作品同样深入人心。年度创作主题集中于「孤独emo、人生哲思、离别思念」，反映了这一年的社会情绪与听众偏好。年度歌词高频词为「一起、love、不要、世界、快乐」，勾勒出这一年大众的情感底色。年度总评论暴涨94.5万（+66%），热度空前。"
+  },
+  {
+    "year": 2010,
+    "song_count": 1234,
+    "total_cmt": 1683763,
+    "top_songs": [
+      {
+        "name": "最后一页",
+        "artist": "江语晨",
+        "album": "恋习",
+        "cmt": 298732,
+        "topic": "离别思念"
+      },
+      {
+        "name": "素颜",
+        "artist": "许嵩/何曼婷",
+        "album": "素颜",
+        "cmt": 211231,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "杀死那个石家庄人",
+        "artist": "万能青年旅店",
+        "album": "万能青年旅店 同名专辑",
+        "cmt": 197379,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "老街",
+        "artist": "李荣浩",
+        "album": "小黄",
+        "cmt": 189814,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "北京东路的日子",
+        "artist": "汪源/刘千楚/徐逸昊/鲁天舒/姜玮珉/胡梦原/张鎏依/梁竞元/游彧涵/金书援/许一璇/张夙西",
+        "album": "北京东路的日子",
+        "cmt": 171904,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "她说",
+        "artist": "林俊杰",
+        "album": "她说 概念自选辑",
+        "cmt": 131517,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "玻璃之情",
+        "artist": "张国荣",
+        "album": "I Am What I Am",
+        "cmt": 128762,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "偏爱",
+        "artist": "张芸京",
+        "album": "爱情部落格 情歌精选辑",
+        "cmt": 122591,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "春夏秋冬",
+        "artist": "张国荣",
+        "album": "I Am What I Am",
+        "cmt": 116893,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "当你",
+        "artist": "林俊杰",
+        "album": "她说 概念自选辑",
+        "cmt": 114940,
+        "topic": "离别思念"
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "许嵩",
+        "cmt": 681517,
+        "songs": 24
+      },
+      {
+        "name": "林俊杰",
+        "cmt": 531031,
+        "songs": 27
+      },
+      {
+        "name": "万能青年旅店",
+        "cmt": 401083,
+        "songs": 8
+      },
+      {
+        "name": "陈奕迅",
+        "cmt": 398590,
+        "songs": 56
+      },
+      {
+        "name": "张国荣",
+        "cmt": 350452,
+        "songs": 33
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "人生哲思",
+        "cnt": 153
+      },
+      {
+        "name": "孤独emo",
+        "cnt": 146
+      },
+      {
+        "name": "离别思念",
+        "cnt": 65
+      },
+      {
+        "name": "怀旧青春",
+        "cnt": 49
+      },
+      {
+        "name": "励志成长",
+        "cnt": 40
+      }
+    ],
+    "top_words": [
+      {
+        "word": "一起",
+        "count": 219
+      },
+      {
+        "word": "爱情",
+        "count": 196
+      },
+      {
+        "word": "世界",
+        "count": 178
+      },
+      {
+        "word": "you",
+        "count": 168
+      },
+      {
+        "word": "快乐",
+        "count": 162
+      },
+      {
+        "word": "幸福",
+        "count": 158
+      },
+      {
+        "word": "不要",
+        "count": 157
+      },
+      {
+        "word": "寂寞",
+        "count": 149
+      }
+    ],
+    "comment": "一零年代初期，选秀节目（好声音、快男）成为造星主渠道，独立民谣也开始受到主流关注。2010年是华语乐坛的丰年，全年收录1234首歌曲，累计168.4万条评论，热度不凡。年度最具影响力歌手为「许嵩」，共贡献24首作品，收获68.2万条评论。紧随其后的是林俊杰、万能青年旅店、陈奕迅等实力歌手。年度金曲《最后一页》（江语晨）以29.9万条评论位居榜首，《素颜》（许嵩/何曼婷）、《杀死那个石家庄人》（万能青年旅店）等作品同样深入人心。年度创作主题集中于「人生哲思、孤独emo、离别思念」，反映了这一年的社会情绪与听众偏好。年度歌词高频词为「一起、爱情、世界、you、快乐」，勾勒出这一年大众的情感底色。年度总评论回落69.3万（-29%）。「许嵩」连续两年登顶年度歌手榜首，势头正盛。年度主旋律从「孤独emo」转向「人生哲思」，听众心态发生变化。"
+  },
+  {
+    "year": 2011,
+    "song_count": 1125,
+    "total_cmt": 2739059,
+    "top_songs": [
+      {
+        "name": "追梦赤子心",
+        "artist": "GALA",
+        "album": "追梦痴子心",
+        "cmt": 522932,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "孤独患者",
+        "artist": "陈奕迅",
+        "album": "？",
+        "cmt": 411921,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "夜空中最亮的星",
+        "artist": "逃跑计划",
+        "album": "世界",
+        "cmt": 410651,
+        "topic": "励志成长"
+      },
+      {
+        "name": "Letting Go",
+        "artist": "蔡健雅",
+        "album": "说到爱",
+        "cmt": 390128,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "南方姑娘",
+        "artist": "赵雷",
+        "album": "赵小雷",
+        "cmt": 228285,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "不再联系",
+        "artist": "夏天Alex",
+        "album": "不再联系",
+        "cmt": 177714,
+        "topic": "离别思念"
+      },
+      {
+        "name": "坏女孩",
+        "artist": "徐良/小凌",
+        "album": "不良少年",
+        "cmt": 170195,
+        "topic": "离别思念"
+      },
+      {
+        "name": "那些年",
+        "artist": "胡夏",
+        "album": "那些年，我们一起追的女孩 电影原声带",
+        "cmt": 158050,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "那些你很冒险的梦",
+        "artist": "林俊杰",
+        "album": "学不会",
+        "cmt": 143029,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "怎么说我不爱你",
+        "artist": "萧敬腾",
+        "album": "狂想曲",
+        "cmt": 126154,
+        "topic": "孤独emo"
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "陈奕迅",
+        "cmt": 657397,
+        "songs": 40
+      },
+      {
+        "name": "逃跑计划",
+        "cmt": 600253,
+        "songs": 7
+      },
+      {
+        "name": "GALA",
+        "cmt": 525205,
+        "songs": 2
+      },
+      {
+        "name": "赵雷",
+        "cmt": 460291,
+        "songs": 13
+      },
+      {
+        "name": "蔡健雅",
+        "cmt": 434801,
+        "songs": 21
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "人生哲思",
+        "cnt": 132
+      },
+      {
+        "name": "孤独emo",
+        "cnt": 125
+      },
+      {
+        "name": "离别思念",
+        "cnt": 60
+      },
+      {
+        "name": "怀旧青春",
+        "cnt": 41
+      },
+      {
+        "name": "励志成长",
+        "cnt": 32
+      }
+    ],
+    "top_words": [
+      {
+        "word": "you",
+        "count": 223
+      },
+      {
+        "word": "不要",
+        "count": 188
+      },
+      {
+        "word": "世界",
+        "count": 183
+      },
+      {
+        "word": "寂寞",
+        "count": 161
+      },
+      {
+        "word": "不会",
+        "count": 156
+      },
+      {
+        "word": "爱情",
+        "count": 151
+      },
+      {
+        "word": "快乐",
+        "count": 150
+      },
+      {
+        "word": "还是",
+        "count": 149
+      }
+    ],
+    "comment": "一零年代初期，选秀节目（好声音、快男）成为造星主渠道，独立民谣也开始受到主流关注。2011年是华语乐坛的丰年，全年收录1125首歌曲，累计273.9万条评论，热度不凡。年度最具影响力歌手为「陈奕迅」，共贡献40首作品，收获65.7万条评论。紧随其后的是逃跑计划、GALA、赵雷等实力歌手。年度金曲《追梦赤子心》（GALA）以52.3万条评论位居榜首，《孤独患者》（陈奕迅）、《夜空中最亮的星》（逃跑计划）等作品同样深入人心。年度创作主题集中于「人生哲思、孤独emo、离别思念」，反映了这一年的社会情绪与听众偏好。年度歌词高频词为「you、不要、世界、寂寞、不会」，勾勒出这一年大众的情感底色。年度总评论暴涨105.5万（+63%），热度空前。"
+  },
+  {
+    "year": 2012,
+    "song_count": 1329,
+    "total_cmt": 1242346,
+    "top_songs": [
+      {
+        "name": "麦恩莉",
+        "artist": "方大同",
+        "album": "回到未来",
+        "cmt": 292307,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "幻听",
+        "artist": "许嵩",
+        "album": "梦游计",
+        "cmt": 156523,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "有点甜",
+        "artist": "汪苏泷/By2",
+        "album": "万有引力",
+        "cmt": 125754,
+        "topic": "离别思念"
+      },
+      {
+        "name": "海誓山盟",
+        "artist": "王震/Lost Team",
+        "album": "《Come Back》",
+        "cmt": 111295,
+        "topic": "离别思念"
+      },
+      {
+        "name": "雨过后的风景",
+        "artist": "Dizzy Dizzo (蔡诗芸)",
+        "album": "黑色彩虹",
+        "cmt": 101088,
+        "topic": "离别思念"
+      },
+      {
+        "name": "男孩别哭",
+        "artist": "海龟先生",
+        "album": "海龟先生",
+        "cmt": 95832,
+        "topic": "综合主题"
+      },
+      {
+        "name": "有形的翅膀",
+        "artist": "张韶涵",
+        "album": "有形的翅膀",
+        "cmt": 92988,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "初恋旧爱新欢",
+        "artist": "RAiNBOW计划/林力尧",
+        "album": "红",
+        "cmt": 91109,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "米店",
+        "artist": "张玮玮/郭龙",
+        "album": "白银饭店",
+        "cmt": 87899,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "泡沫",
+        "artist": "G.E.M.邓紫棋",
+        "album": "Xposed",
+        "cmt": 87551,
+        "topic": "孤独emo"
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "方大同",
+        "cmt": 381108,
+        "songs": 35
+      },
+      {
+        "name": "林俊杰",
+        "cmt": 304773,
+        "songs": 33
+      },
+      {
+        "name": "许嵩",
+        "cmt": 272834,
+        "songs": 10
+      },
+      {
+        "name": "萧亚轩",
+        "cmt": 224168,
+        "songs": 96
+      },
+      {
+        "name": "汪苏泷",
+        "cmt": 213262,
+        "songs": 10
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "孤独emo",
+        "cnt": 185
+      },
+      {
+        "name": "人生哲思",
+        "cnt": 146
+      },
+      {
+        "name": "离别思念",
+        "cnt": 71
+      },
+      {
+        "name": "怀旧青春",
+        "cnt": 69
+      },
+      {
+        "name": "综合主题",
+        "cnt": 50
+      }
+    ],
+    "top_words": [
+      {
+        "word": "世界",
+        "count": 261
+      },
+      {
+        "word": "you",
+        "count": 196
+      },
+      {
+        "word": "幸福",
+        "count": 196
+      },
+      {
+        "word": "爱情",
+        "count": 189
+      },
+      {
+        "word": "不会",
+        "count": 182
+      },
+      {
+        "word": "一起",
+        "count": 173
+      },
+      {
+        "word": "不要",
+        "count": 164
+      },
+      {
+        "word": "快乐",
+        "count": 157
+      }
+    ],
+    "comment": "一零年代初期，选秀节目（好声音、快男）成为造星主渠道，独立民谣也开始受到主流关注。2012年是华语乐坛的丰年，全年收录1329首歌曲，累计124.2万条评论，热度不凡。年度最具影响力歌手为「方大同」，共贡献35首作品，收获38.1万条评论。紧随其后的是林俊杰、许嵩、萧亚轩等实力歌手。年度金曲《麦恩莉》（方大同）以29.2万条评论位居榜首，《幻听》（许嵩）、《有点甜》（汪苏泷/By2）等作品同样深入人心。年度创作主题集中于「孤独emo、人生哲思、离别思念」，反映了这一年的社会情绪与听众偏好。年度歌词高频词为「世界、you、幸福、爱情、不会」，勾勒出这一年大众的情感底色。歌曲收录量较上年增长204首（+18%）。年度总评论回落149.7万（-55%）。年度主旋律从「人生哲思」转向「孤独emo」，听众心态发生变化。"
+  },
+  {
+    "year": 2013,
+    "song_count": 2079,
+    "total_cmt": 2650234,
+    "top_songs": [
+      {
+        "name": "安和桥",
+        "artist": "宋冬野",
+        "album": "安和桥北",
+        "cmt": 644173,
+        "topic": "离别思念"
+      },
+      {
+        "name": "其实",
+        "artist": "薛之谦",
+        "album": "意外",
+        "cmt": 317693,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "我的天空",
+        "artist": "南征北战NZBZ",
+        "album": "青春派 电影原声带",
+        "cmt": 291670,
+        "topic": "励志成长"
+      },
+      {
+        "name": "稳稳的幸福",
+        "artist": "陈奕迅",
+        "album": "稳稳的幸福",
+        "cmt": 264542,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "你还要我怎样",
+        "artist": "薛之谦",
+        "album": "意外",
+        "cmt": 258392,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "修炼爱情",
+        "artist": "林俊杰",
+        "album": "因你而在",
+        "cmt": 214461,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "他不懂",
+        "artist": "张杰",
+        "album": "爱，不解释",
+        "cmt": 184176,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "意外",
+        "artist": "薛之谦",
+        "album": "意外",
+        "cmt": 179076,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "拉过勾的",
+        "artist": "陆虎",
+        "album": "花吃泡面男",
+        "cmt": 155053,
+        "topic": "离别思念"
+      },
+      {
+        "name": "斑马，斑马",
+        "artist": "宋冬野",
+        "album": "安和桥北",
+        "cmt": 140998,
+        "topic": "人生哲思"
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "宋冬野",
+        "cmt": 1200075,
+        "songs": 12
+      },
+      {
+        "name": "薛之谦",
+        "cmt": 1114852,
+        "songs": 10
+      },
+      {
+        "name": "陈奕迅",
+        "cmt": 560284,
+        "songs": 139
+      },
+      {
+        "name": "南征北战NZBZ",
+        "cmt": 386652,
+        "songs": 2
+      },
+      {
+        "name": "林俊杰",
+        "cmt": 358999,
+        "songs": 13
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "孤独emo",
+        "cnt": 201
+      },
+      {
+        "name": "怀旧青春",
+        "cnt": 178
+      },
+      {
+        "name": "人生哲思",
+        "cnt": 134
+      },
+      {
+        "name": "励志成长",
+        "cnt": 65
+      },
+      {
+        "name": "离别思念",
+        "cnt": 57
+      }
+    ],
+    "top_words": [
+      {
+        "word": "不要",
+        "count": 179
+      },
+      {
+        "word": "不会",
+        "count": 175
+      },
+      {
+        "word": "快乐",
+        "count": 167
+      },
+      {
+        "word": "世界",
+        "count": 147
+      },
+      {
+        "word": "一起",
+        "count": 144
+      },
+      {
+        "word": "那么",
+        "count": 134
+      },
+      {
+        "word": "幸福",
+        "count": 126
+      },
+      {
+        "word": "为何",
+        "count": 123
+      }
+    ],
+    "comment": "一零年代初期，选秀节目（好声音、快男）成为造星主渠道，独立民谣也开始受到主流关注。2013年是华语乐坛的大年，全年收录2079首歌曲，累计265.0万条评论，热度不凡。年度最具影响力歌手为「宋冬野」，共贡献12首作品，收获120.0万条评论。紧随其后的是薛之谦、陈奕迅、南征北战NZBZ等实力歌手。年度金曲《安和桥》（宋冬野）以64.4万条评论位居榜首，《其实》（薛之谦）、《我的天空》（南征北战NZBZ）等作品同样深入人心。年度创作主题集中于「孤独emo、怀旧青春、人生哲思」，反映了这一年的社会情绪与听众偏好。年度歌词高频词为「不要、不会、快乐、世界、一起」，勾勒出这一年大众的情感底色。歌曲收录量较上年增长750首（+56%）。年度总评论暴涨140.8万（+113%），热度空前。黑马「宋冬野」首度登顶年度歌手榜，一鸣惊人。"
+  },
+  {
+    "year": 2014,
+    "song_count": 1267,
+    "total_cmt": 3434197,
+    "top_songs": [
+      {
+        "name": "特别的人",
+        "artist": "方大同",
+        "album": "危险世界",
+        "cmt": 868532,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "可乐",
+        "artist": "赵紫骅",
+        "album": "赵浴辰原创demo精选",
+        "cmt": 596603,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "我怀念的",
+        "artist": "孙燕姿",
+        "album": "逆光",
+        "cmt": 508144,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "烟火里的尘埃",
+        "artist": "华晨宇",
+        "album": "烟火里的尘埃",
+        "cmt": 412601,
+        "topic": "励志成长"
+      },
+      {
+        "name": "理想",
+        "artist": "赵雷",
+        "album": "吉姆餐厅",
+        "cmt": 215987,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "南山南",
+        "artist": "马頔",
+        "album": "南山南",
+        "cmt": 189875,
+        "topic": "励志成长"
+      },
+      {
+        "name": "我们的明天",
+        "artist": "鹿晗",
+        "album": "我们的明天",
+        "cmt": 178775,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "匆匆那年",
+        "artist": "王菲",
+        "album": "匆匆那年",
+        "cmt": 157699,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "阴天快乐",
+        "artist": "陈奕迅",
+        "album": "Rice & Shine",
+        "cmt": 156912,
+        "topic": "离别思念"
+      },
+      {
+        "name": "喜欢你",
+        "artist": "G.E.M.邓紫棋",
+        "album": "喜欢你",
+        "cmt": 149069,
+        "topic": "励志成长"
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "华晨宇",
+        "cmt": 1535501,
+        "songs": 16
+      },
+      {
+        "name": "方大同",
+        "cmt": 902445,
+        "songs": 12
+      },
+      {
+        "name": "孙燕姿",
+        "cmt": 709924,
+        "songs": 20
+      },
+      {
+        "name": "赵雷",
+        "cmt": 607622,
+        "songs": 10
+      },
+      {
+        "name": "赵紫骅",
+        "cmt": 596603,
+        "songs": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "人生哲思",
+        "cnt": 179
+      },
+      {
+        "name": "孤独emo",
+        "cnt": 177
+      },
+      {
+        "name": "怀旧青春",
+        "cnt": 111
+      },
+      {
+        "name": "离别思念",
+        "cnt": 90
+      },
+      {
+        "name": "励志成长",
+        "cnt": 65
+      }
+    ],
+    "top_words": [
+      {
+        "word": "世界",
+        "count": 266
+      },
+      {
+        "word": "you",
+        "count": 180
+      },
+      {
+        "word": "一起",
+        "count": 171
+      },
+      {
+        "word": "还是",
+        "count": 149
+      },
+      {
+        "word": "一切",
+        "count": 129
+      },
+      {
+        "word": "不要",
+        "count": 126
+      },
+      {
+        "word": "不再",
+        "count": 120
+      },
+      {
+        "word": "时间",
+        "count": 116
+      }
+    ],
+    "comment": "一零年代中期，QQ音乐三巨头（许嵩、汪苏泷、徐良）退潮，以华晨宇为代表的新生代实力歌手崭露头角。2014年是华语乐坛的丰年，全年收录1267首歌曲，累计343.4万条评论，热度不凡。年度最具影响力歌手为「华晨宇」，共贡献16首作品，收获153.6万条评论。紧随其后的是方大同、孙燕姿、赵雷等实力歌手。年度金曲《特别的人》（方大同）以86.9万条评论位居榜首，《可乐》（赵紫骅）、《我怀念的》（孙燕姿）等作品同样深入人心。年度创作主题集中于「人生哲思、孤独emo、怀旧青春」，反映了这一年的社会情绪与听众偏好。年度歌词高频词为「世界、you、一起、还是、一切」，勾勒出这一年大众的情感底色。歌曲收录量较上年减少812首（-39%）。年度总评论暴涨78.4万（+30%），热度空前。年度主旋律从「孤独emo」转向「人生哲思」，听众心态发生变化。"
+  },
+  {
+    "year": 2015,
+    "song_count": 1552,
+    "total_cmt": 2566773,
+    "top_songs": [
+      {
+        "name": "多远都要在一起",
+        "artist": "G.E.M.邓紫棋",
+        "album": "新的心跳",
+        "cmt": 401466,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "岁月神偷",
+        "artist": "金玟岐",
+        "album": "完美世界",
+        "cmt": 399610,
+        "topic": "离别思念"
+      },
+      {
+        "name": "演员",
+        "artist": "薛之谦",
+        "album": "绅士",
+        "cmt": 396091,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "可惜没如果",
+        "artist": "林俊杰",
+        "album": "新地球 - 人 (Special Edition)",
+        "cmt": 253760,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "绅士",
+        "artist": "薛之谦",
+        "album": "绅士",
+        "cmt": 209607,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "七月上",
+        "artist": "Jam",
+        "album": "阿敬的单曲集",
+        "cmt": 208402,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "讲真的",
+        "artist": "曾惜",
+        "album": "讲真的",
+        "cmt": 182318,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "牵丝戏",
+        "artist": "银临/Aki阿杰",
+        "album": "牵丝戏",
+        "cmt": 174826,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "走马",
+        "artist": "陈粒",
+        "album": "如也",
+        "cmt": 172193,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "晚安",
+        "artist": "丢火车",
+        "album": "晚安",
+        "cmt": 168500,
+        "topic": "人生哲思"
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "华晨宇",
+        "cmt": 1378414,
+        "songs": 14
+      },
+      {
+        "name": "陈粒",
+        "cmt": 1039031,
+        "songs": 36
+      },
+      {
+        "name": "林俊杰",
+        "cmt": 965091,
+        "songs": 35
+      },
+      {
+        "name": "薛之谦",
+        "cmt": 822660,
+        "songs": 6
+      },
+      {
+        "name": "G.E.M.邓紫棋",
+        "cmt": 722230,
+        "songs": 12
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "孤独emo",
+        "cnt": 185
+      },
+      {
+        "name": "怀旧青春",
+        "cnt": 180
+      },
+      {
+        "name": "人生哲思",
+        "cnt": 159
+      },
+      {
+        "name": "离别思念",
+        "cnt": 73
+      },
+      {
+        "name": "励志成长",
+        "cnt": 62
+      }
+    ],
+    "top_words": [
+      {
+        "word": "世界",
+        "count": 199
+      },
+      {
+        "word": "快乐",
+        "count": 138
+      },
+      {
+        "word": "不要",
+        "count": 130
+      },
+      {
+        "word": "那么",
+        "count": 122
+      },
+      {
+        "word": "永远",
+        "count": 120
+      },
+      {
+        "word": "一起",
+        "count": 118
+      },
+      {
+        "word": "就算",
+        "count": 108
+      },
+      {
+        "word": "还是",
+        "count": 98
+      }
+    ],
+    "comment": "一零年代中期，QQ音乐三巨头（许嵩、汪苏泷、徐良）退潮，以华晨宇为代表的新生代实力歌手崭露头角。2015年是华语乐坛的丰年，全年收录1552首歌曲，累计256.7万条评论，热度不凡。年度最具影响力歌手为「华晨宇」，共贡献14首作品，收获137.8万条评论。紧随其后的是陈粒、林俊杰、薛之谦等实力歌手。年度金曲《多远都要在一起》（G.E.M.邓紫棋）以40.1万条评论位居榜首，《岁月神偷》（金玟岐）、《演员》（薛之谦）等作品同样深入人心。年度创作主题集中于「孤独emo、怀旧青春、人生哲思」，反映了这一年的社会情绪与听众偏好。年度歌词高频词为「世界、快乐、不要、那么、永远」，勾勒出这一年大众的情感底色。歌曲收录量较上年增长285首（+22%）。年度总评论回落86.7万（-25%）。「华晨宇」连续两年登顶年度歌手榜首，势头正盛。年度主旋律从「人生哲思」转向「孤独emo」，听众心态发生变化。"
+  },
+  {
+    "year": 2016,
+    "song_count": 1696,
+    "total_cmt": 9349146,
+    "top_songs": [
+      {
+        "name": "水星记",
+        "artist": "郭顶",
+        "album": "飞行器的执行周期",
+        "cmt": 3522111,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "雅俗共赏",
+        "artist": "许嵩",
+        "album": "青年晚报",
+        "cmt": 2820981,
+        "topic": "离别思念"
+      },
+      {
+        "name": "理想三旬",
+        "artist": "陈鸿宇",
+        "album": "浓烟下的诗歌电台",
+        "cmt": 493055,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "成都",
+        "artist": "赵雷",
+        "album": "成都",
+        "cmt": 480126,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "小半",
+        "artist": "陈粒",
+        "album": "小梦大半",
+        "cmt": 370563,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "告白气球",
+        "artist": "周杰伦",
+        "album": "周杰伦的床边故事",
+        "cmt": 349185,
+        "topic": null
+      },
+      {
+        "name": "我好像在哪见过你",
+        "artist": "薛之谦",
+        "album": "初学者",
+        "cmt": 347665,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "虚拟",
+        "artist": "陈粒",
+        "album": "小梦大半",
+        "cmt": 329465,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "春风十里",
+        "artist": "鹿先森乐队",
+        "album": "所有的酒，都不如你",
+        "cmt": 318147,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "说散就散",
+        "artist": "JC 陈咏桐",
+        "album": "说散就散",
+        "cmt": 317848,
+        "topic": "孤独emo"
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "郭顶",
+        "cmt": 4040576,
+        "songs": 10
+      },
+      {
+        "name": "许嵩",
+        "cmt": 3502705,
+        "songs": 13
+      },
+      {
+        "name": "赵雷",
+        "cmt": 934066,
+        "songs": 13
+      },
+      {
+        "name": "薛之谦",
+        "cmt": 907509,
+        "songs": 11
+      },
+      {
+        "name": "周杰伦",
+        "cmt": 851777,
+        "songs": 33
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "人生哲思",
+        "cnt": 239
+      },
+      {
+        "name": "怀旧青春",
+        "cnt": 218
+      },
+      {
+        "name": "孤独emo",
+        "cnt": 218
+      },
+      {
+        "name": "离别思念",
+        "cnt": 72
+      },
+      {
+        "name": "综合主题",
+        "cnt": 70
+      }
+    ],
+    "top_words": [
+      {
+        "word": "世界",
+        "count": 180
+      },
+      {
+        "word": "不会",
+        "count": 169
+      },
+      {
+        "word": "不要",
+        "count": 164
+      },
+      {
+        "word": "you",
+        "count": 145
+      },
+      {
+        "word": "开始",
+        "count": 140
+      },
+      {
+        "word": "不能",
+        "count": 135
+      },
+      {
+        "word": "时间",
+        "count": 130
+      },
+      {
+        "word": "所有",
+        "count": 128
+      }
+    ],
+    "comment": "一零年代中期，QQ音乐三巨头（许嵩、汪苏泷、徐良）退潮，以华晨宇为代表的新生代实力歌手崭露头角。2016年是华语乐坛的丰年，全年收录1696首歌曲，累计934.9万条评论，创下惊人热度。年度最具影响力歌手为「郭顶」，共贡献10首作品，收获404.1万条评论。紧随其后的是许嵩、赵雷、薛之谦等实力歌手。年度金曲《水星记》（郭顶）以352.2万条评论位居榜首，《雅俗共赏》（许嵩）、《理想三旬》（陈鸿宇）等作品同样深入人心。年度创作主题集中于「人生哲思、怀旧青春、孤独emo」，反映了这一年的社会情绪与听众偏好。年度歌词高频词为「世界、不会、不要、you、开始」，勾勒出这一年大众的情感底色。年度总评论暴涨678.2万（+264%），热度空前。黑马「郭顶」首度登顶年度歌手榜，一鸣惊人。年度主旋律从「孤独emo」转向「人生哲思」，听众心态发生变化。"
+  },
+  {
+    "year": 2017,
+    "song_count": 2190,
+    "total_cmt": 5101200,
+    "top_songs": [
+      {
+        "name": "哪里都是你",
+        "artist": "队长",
+        "album": "哪里都是你",
+        "cmt": 1263035,
+        "topic": "综合主题"
+      },
+      {
+        "name": "城南花已开",
+        "artist": "三亩地",
+        "album": "城南花已开",
+        "cmt": 840059,
+        "topic": null
+      },
+      {
+        "name": "还是分开",
+        "artist": "张叶蕾",
+        "album": "还是分开",
+        "cmt": 448890,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "说散就散",
+        "artist": "袁娅维TIA RAY",
+        "album": "说散就散",
+        "cmt": 445522,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "暧昧",
+        "artist": "薛之谦",
+        "album": "渡",
+        "cmt": 425951,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "追光者",
+        "artist": "岑宁儿",
+        "album": "夏至未至 影视原声带",
+        "cmt": 352397,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "在你的身边",
+        "artist": "盛哲",
+        "album": "在你的身边",
+        "cmt": 344723,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "云烟成雨",
+        "artist": "房东的猫",
+        "album": "云烟成雨",
+        "cmt": 336216,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "再也没有",
+        "artist": "永彬Ryan.B/AY楊佬叁",
+        "album": "再也没有",
+        "cmt": 327795,
+        "topic": "离别思念"
+      },
+      {
+        "name": "白羊",
+        "artist": "徐秉龙/沈以诚",
+        "album": "白羊",
+        "cmt": 316612,
+        "topic": "人生哲思"
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "薛之谦",
+        "cmt": 1909015,
+        "songs": 12
+      },
+      {
+        "name": "华晨宇",
+        "cmt": 1436579,
+        "songs": 17
+      },
+      {
+        "name": "队长",
+        "cmt": 1263035,
+        "songs": 1
+      },
+      {
+        "name": "三亩地",
+        "cmt": 875178,
+        "songs": 17
+      },
+      {
+        "name": "徐秉龙",
+        "cmt": 692313,
+        "songs": 9
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "怀旧青春",
+        "cnt": 310
+      },
+      {
+        "name": "人生哲思",
+        "cnt": 259
+      },
+      {
+        "name": "孤独emo",
+        "cnt": 153
+      },
+      {
+        "name": "综合主题",
+        "cnt": 111
+      },
+      {
+        "name": "离别思念",
+        "cnt": 91
+      }
+    ],
+    "top_words": [
+      {
+        "word": "you",
+        "count": 219
+      },
+      {
+        "word": "曾经",
+        "count": 155
+      },
+      {
+        "word": "不要",
+        "count": 153
+      },
+      {
+        "word": "me",
+        "count": 149
+      },
+      {
+        "word": "世界",
+        "count": 138
+      },
+      {
+        "word": "一切",
+        "count": 131
+      },
+      {
+        "word": "my",
+        "count": 125
+      },
+      {
+        "word": "一起",
+        "count": 123
+      }
+    ],
+    "comment": "一零年代末，短视频（抖音、快手）崛起，15秒片段成为音乐传播的新载体，「神曲」频出。2017年是华语乐坛的大年，全年收录2190首歌曲，累计510.1万条评论，创下惊人热度。年度最具影响力歌手为「薛之谦」，共贡献12首作品，收获190.9万条评论。紧随其后的是华晨宇、队长、三亩地等实力歌手。年度金曲《哪里都是你》（队长）以126.3万条评论位居榜首，《城南花已开》（三亩地）、《还是分开》（张叶蕾）等作品同样深入人心。年度创作主题集中于「怀旧青春、人生哲思、孤独emo」，反映了这一年的社会情绪与听众偏好。年度歌词高频词为「you、曾经、不要、me、世界」，勾勒出这一年大众的情感底色。歌曲收录量较上年增长494首（+29%）。年度总评论回落424.8万（-45%）。年度主旋律从「人生哲思」转向「怀旧青春」，听众心态发生变化。"
+  },
+  {
+    "year": 2018,
+    "song_count": 2527,
+    "total_cmt": 6190012,
+    "top_songs": [
+      {
+        "name": "于是",
+        "artist": "郑润泽",
+        "album": "于是",
+        "cmt": 1258937,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "起风了",
+        "artist": "冯沁苑(买辣椒也用券)",
+        "album": "起风了",
+        "cmt": 1127903,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "等你下课 (with 杨瑞代)",
+        "artist": "周杰伦/杨瑞代",
+        "album": "等你下课",
+        "cmt": 936940,
+        "topic": null
+      },
+      {
+        "name": "可不可以",
+        "artist": "张紫豪",
+        "album": "可不可以",
+        "cmt": 742498,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "年少有为",
+        "artist": "李荣浩",
+        "album": "耳朵",
+        "cmt": 415410,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "出山",
+        "artist": "花粥/王胜娚",
+        "album": "粥请客（四）",
+        "cmt": 367267,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "总有一天你会出现在我身边",
+        "artist": "棱镜乐队",
+        "album": "一次有预谋的初次相遇",
+        "cmt": 355979,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "我们",
+        "artist": "陈奕迅",
+        "album": "我们",
+        "cmt": 336764,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "盗将行",
+        "artist": "花粥/马雨阳",
+        "album": "粥请客（二）",
+        "cmt": 331888,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "你要的全拿走",
+        "artist": "胡彦斌",
+        "album": "覅忒好",
+        "cmt": 316426,
+        "topic": "离别思念"
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "毛不易",
+        "cmt": 2132818,
+        "songs": 41
+      },
+      {
+        "name": "郑润泽",
+        "cmt": 1424609,
+        "songs": 3
+      },
+      {
+        "name": "薛之谦",
+        "cmt": 1222159,
+        "songs": 10
+      },
+      {
+        "name": "冯沁苑(买辣椒也用券)",
+        "cmt": 1127903,
+        "songs": 1
+      },
+      {
+        "name": "花粥",
+        "cmt": 977993,
+        "songs": 20
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "怀旧青春",
+        "cnt": 352
+      },
+      {
+        "name": "人生哲思",
+        "cnt": 331
+      },
+      {
+        "name": "孤独emo",
+        "cnt": 172
+      },
+      {
+        "name": "综合主题",
+        "cnt": 154
+      },
+      {
+        "name": "励志成长",
+        "cnt": 100
+      }
+    ],
+    "top_words": [
+      {
+        "word": "you",
+        "count": 235
+      },
+      {
+        "word": "世界",
+        "count": 161
+      },
+      {
+        "word": "时间",
+        "count": 139
+      },
+      {
+        "word": "所有",
+        "count": 130
+      },
+      {
+        "word": "my",
+        "count": 129
+      },
+      {
+        "word": "还是",
+        "count": 126
+      },
+      {
+        "word": "一起",
+        "count": 125
+      },
+      {
+        "word": "不会",
+        "count": 111
+      }
+    ],
+    "comment": "一零年代末，短视频（抖音、快手）崛起，15秒片段成为音乐传播的新载体，「神曲」频出。2018年是华语乐坛的大年，全年收录2527首歌曲，累计619.0万条评论，创下惊人热度。年度最具影响力歌手为「毛不易」，共贡献41首作品，收获213.3万条评论。紧随其后的是郑润泽、薛之谦、冯沁苑(买辣椒也用券)等实力歌手。年度金曲《于是》（郑润泽）以125.9万条评论位居榜首，《起风了》（冯沁苑(买辣椒也用券)）、《等你下课 (with 杨瑞代)》（周杰伦/杨瑞代）等作品同样深入人心。年度创作主题集中于「怀旧青春、人生哲思、孤独emo」，反映了这一年的社会情绪与听众偏好。年度歌词高频词为「you、世界、时间、所有、my」，勾勒出这一年大众的情感底色。歌曲收录量较上年增长337首（+15%）。年度总评论暴涨108.9万（+21%），热度空前。"
+  },
+  {
+    "year": 2019,
+    "song_count": 2821,
+    "total_cmt": 5220047,
+    "top_songs": [
+      {
+        "name": "好想爱这个世界啊",
+        "artist": "华晨宇",
+        "album": "好想爱这个世界啊",
+        "cmt": 1410005,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "把回忆拼好给你",
+        "artist": "王贰浪",
+        "album": "把回忆拼好给你",
+        "cmt": 782120,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "你",
+        "artist": "郑润泽",
+        "album": "你",
+        "cmt": 469783,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "晚安",
+        "artist": "颜人中",
+        "album": "晚安",
+        "cmt": 455034,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "世间美好与你环环相扣",
+        "artist": "柏松",
+        "album": "听闻余生",
+        "cmt": 445336,
+        "topic": "励志成长"
+      },
+      {
+        "name": "无感",
+        "artist": "王一博",
+        "album": "无感",
+        "cmt": 378764,
+        "topic": "综合主题"
+      },
+      {
+        "name": "所念皆星河",
+        "artist": "CMJ",
+        "album": "所念皆星河",
+        "cmt": 355406,
+        "topic": null
+      },
+      {
+        "name": "心如止水",
+        "artist": "Ice Paper",
+        "album": "成语接龙",
+        "cmt": 319177,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "多想在平庸的生活拥抱你",
+        "artist": "隔壁老樊",
+        "album": "我曾",
+        "cmt": 306537,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "我的一个道姑朋友",
+        "artist": "双笙（陈元汐）",
+        "album": "我的一个道姑朋友",
+        "cmt": 297885,
+        "topic": "怀旧青春"
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "隔壁老樊",
+        "cmt": 1739320,
+        "songs": 39
+      },
+      {
+        "name": "颜人中",
+        "cmt": 1688006,
+        "songs": 31
+      },
+      {
+        "name": "华晨宇",
+        "cmt": 1410005,
+        "songs": 1
+      },
+      {
+        "name": "薛之谦",
+        "cmt": 1264747,
+        "songs": 11
+      },
+      {
+        "name": "王贰浪",
+        "cmt": 1064906,
+        "songs": 44
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "人生哲思",
+        "cnt": 373
+      },
+      {
+        "name": "怀旧青春",
+        "cnt": 335
+      },
+      {
+        "name": "综合主题",
+        "cnt": 169
+      },
+      {
+        "name": "孤独emo",
+        "cnt": 110
+      },
+      {
+        "name": "离别思念",
+        "cnt": 101
+      }
+    ],
+    "top_words": [
+      {
+        "word": "世界",
+        "count": 215
+      },
+      {
+        "word": "you",
+        "count": 202
+      },
+      {
+        "word": "所有",
+        "count": 173
+      },
+      {
+        "word": "时间",
+        "count": 163
+      },
+      {
+        "word": "不会",
+        "count": 156
+      },
+      {
+        "word": "一起",
+        "count": 156
+      },
+      {
+        "word": "my",
+        "count": 125
+      },
+      {
+        "word": "还是",
+        "count": 121
+      }
+    ],
+    "comment": "一零年代末，短视频（抖音、快手）崛起，15秒片段成为音乐传播的新载体，「神曲」频出。2019年是华语乐坛的大年，全年收录2821首歌曲，累计522.0万条评论，创下惊人热度。年度最具影响力歌手为「隔壁老樊」，共贡献39首作品，收获173.9万条评论。紧随其后的是颜人中、华晨宇、薛之谦等实力歌手。年度金曲《好想爱这个世界啊》（华晨宇）以141.0万条评论位居榜首，《把回忆拼好给你》（王贰浪）、《你》（郑润泽）等作品同样深入人心。年度创作主题集中于「人生哲思、怀旧青春、综合主题」，反映了这一年的社会情绪与听众偏好。年度歌词高频词为「世界、you、所有、时间、不会」，勾勒出这一年大众的情感底色。年度总评论回落97.0万（-16%）。黑马「隔壁老樊」首度登顶年度歌手榜，一鸣惊人。年度主旋律从「怀旧青春」转向「人生哲思」，听众心态发生变化。"
+  },
+  {
+    "year": 2020,
+    "song_count": 3538,
+    "total_cmt": 4187755,
+    "top_songs": [
+      {
+        "name": "罗生门（Follow）",
+        "artist": "梨冻紧/Wiz_H张子豪",
+        "album": "罗生门（Follow）",
+        "cmt": 629185,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "天外来物",
+        "artist": "薛之谦",
+        "album": "天外来物",
+        "cmt": 526914,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "与我无关",
+        "artist": "阿冗",
+        "album": "与我无关",
+        "cmt": 461236,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "晚风",
+        "artist": "Copy/BT07",
+        "album": "晚风",
+        "cmt": 456895,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "错位时空",
+        "artist": "艾辰",
+        "album": "错位时空",
+        "cmt": 384353,
+        "topic": "离别思念"
+      },
+      {
+        "name": "海底",
+        "artist": "一支榴莲",
+        "album": "海底",
+        "cmt": 364870,
+        "topic": "离别思念"
+      },
+      {
+        "name": "唯一",
+        "artist": "告五人",
+        "album": "运气来得若有似无",
+        "cmt": 362328,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "海底",
+        "artist": "一支榴莲",
+        "album": "《独》",
+        "cmt": 351680,
+        "topic": "离别思念"
+      },
+      {
+        "name": "与火星的孩子对话",
+        "artist": "华晨宇",
+        "album": "新世界NEW WORLD",
+        "cmt": 345478,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "会不会（吉他版）",
+        "artist": "刘大壮",
+        "album": "会不会",
+        "cmt": 304816,
+        "topic": "人生哲思"
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "华晨宇",
+        "cmt": 2388963,
+        "songs": 16
+      },
+      {
+        "name": "周深",
+        "cmt": 1690867,
+        "songs": 39
+      },
+      {
+        "name": "薛之谦",
+        "cmt": 1611999,
+        "songs": 11
+      },
+      {
+        "name": "毛不易",
+        "cmt": 1595140,
+        "songs": 17
+      },
+      {
+        "name": "尤长靖",
+        "cmt": 1587922,
+        "songs": 13
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "怀旧青春",
+        "cnt": 383
+      },
+      {
+        "name": "人生哲思",
+        "cnt": 369
+      },
+      {
+        "name": "综合主题",
+        "cnt": 225
+      },
+      {
+        "name": "孤独emo",
+        "cnt": 151
+      },
+      {
+        "name": "励志成长",
+        "cnt": 135
+      }
+    ],
+    "top_words": [
+      {
+        "word": "世界",
+        "count": 202
+      },
+      {
+        "word": "不会",
+        "count": 185
+      },
+      {
+        "word": "me",
+        "count": 174
+      },
+      {
+        "word": "时间",
+        "count": 149
+      },
+      {
+        "word": "you",
+        "count": 135
+      },
+      {
+        "word": "所有",
+        "count": 130
+      },
+      {
+        "word": "一起",
+        "count": 120
+      },
+      {
+        "word": "多少",
+        "count": 115
+      }
+    ],
+    "comment": "疫情三年，线上演出成为新常态，独立音乐人通过直播和短视频获得前所未有的曝光。2020年是华语乐坛的大年，全年收录3538首歌曲，累计418.8万条评论，热度不凡。年度最具影响力歌手为「华晨宇」，共贡献16首作品，收获238.9万条评论。紧随其后的是周深、薛之谦、毛不易等实力歌手。年度金曲《罗生门（Follow）》（梨冻紧/Wiz_H张子豪）以62.9万条评论位居榜首，《天外来物》（薛之谦）、《与我无关》（阿冗）等作品同样深入人心。年度创作主题集中于「怀旧青春、人生哲思、综合主题」，反映了这一年的社会情绪与听众偏好。年度歌词高频词为「世界、不会、me、时间、you」，勾勒出这一年大众的情感底色。歌曲收录量较上年增长717首（+25%）。年度总评论回落103.2万（-20%）。年度主旋律从「人生哲思」转向「怀旧青春」，听众心态发生变化。"
+  },
+  {
+    "year": 2021,
+    "song_count": 4050,
+    "total_cmt": 3950772,
+    "top_songs": [
+      {
+        "name": "如果呢",
+        "artist": "郑润泽",
+        "album": "如果呢",
+        "cmt": 1093566,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "还是会想你",
+        "artist": "林达浪/h3R3",
+        "album": "还是会想你",
+        "cmt": 605804,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "予你",
+        "artist": "队长",
+        "album": "予你",
+        "cmt": 377619,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "忘不掉的你",
+        "artist": "h3R3",
+        "album": "忘不掉的你",
+        "cmt": 345106,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "孤勇者",
+        "artist": "陈奕迅",
+        "album": "孤勇者",
+        "cmt": 310024,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "这世界那么多人",
+        "artist": "莫文蔚",
+        "album": "这世界那么多人",
+        "cmt": 293748,
+        "topic": "离别思念"
+      },
+      {
+        "name": "如果可以",
+        "artist": "韦礼安",
+        "album": "如果可以",
+        "cmt": 245921,
+        "topic": "离别思念"
+      },
+      {
+        "name": "指纹",
+        "artist": "杜宣达",
+        "album": "指纹",
+        "cmt": 237564,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "无名的人",
+        "artist": "毛不易",
+        "album": "无名的人",
+        "cmt": 226540,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "精卫",
+        "artist": "30年前，50年后",
+        "album": "丧失年轻，勿失年华",
+        "cmt": 214880,
+        "topic": "人生哲思"
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "毛不易",
+        "cmt": 1454978,
+        "songs": 31
+      },
+      {
+        "name": "周深",
+        "cmt": 1184919,
+        "songs": 29
+      },
+      {
+        "name": "郑润泽",
+        "cmt": 1120407,
+        "songs": 2
+      },
+      {
+        "name": "队长",
+        "cmt": 629092,
+        "songs": 5
+      },
+      {
+        "name": "林达浪/h3R3",
+        "cmt": 608596,
+        "songs": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "怀旧青春",
+        "cnt": 347
+      },
+      {
+        "name": "人生哲思",
+        "cnt": 342
+      },
+      {
+        "name": "综合主题",
+        "cnt": 207
+      },
+      {
+        "name": "孤独emo",
+        "cnt": 148
+      },
+      {
+        "name": "励志成长",
+        "cnt": 118
+      }
+    ],
+    "top_words": [
+      {
+        "word": "you",
+        "count": 256
+      },
+      {
+        "word": "世界",
+        "count": 254
+      },
+      {
+        "word": "me",
+        "count": 192
+      },
+      {
+        "word": "所有",
+        "count": 166
+      },
+      {
+        "word": "未来",
+        "count": 165
+      },
+      {
+        "word": "my",
+        "count": 161
+      },
+      {
+        "word": "不要",
+        "count": 138
+      },
+      {
+        "word": "九妹",
+        "count": 136
+      }
+    ],
+    "comment": "疫情三年，线上演出成为新常态，独立音乐人通过直播和短视频获得前所未有的曝光。2021年是华语乐坛的大年，全年收录4050首歌曲，累计395.1万条评论，热度不凡。年度最具影响力歌手为「毛不易」，共贡献31首作品，收获145.5万条评论。紧随其后的是周深、郑润泽、队长等实力歌手。年度金曲《如果呢》（郑润泽）以109.4万条评论位居榜首，《还是会想你》（林达浪/h3R3）、《予你》（队长）等作品同样深入人心。年度创作主题集中于「怀旧青春、人生哲思、综合主题」，反映了这一年的社会情绪与听众偏好。年度歌词高频词为「you、世界、me、所有、未来」，勾勒出这一年大众的情感底色。"
+  },
+  {
+    "year": 2022,
+    "song_count": 5193,
+    "total_cmt": 2624919,
+    "top_songs": [
+      {
+        "name": "小胡同",
+        "artist": "郑润泽",
+        "album": "小胡同",
+        "cmt": 477233,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "我记得",
+        "artist": "赵雷",
+        "album": "署前街少年",
+        "cmt": 441436,
+        "topic": null
+      },
+      {
+        "name": "海屿你",
+        "artist": "马也_Crabbit",
+        "album": "海屿你",
+        "cmt": 262203,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "好想我回来啊",
+        "artist": "华晨宇",
+        "album": "希忘Hope",
+        "cmt": 254697,
+        "topic": null
+      },
+      {
+        "name": "红",
+        "artist": "罗言",
+        "album": "When the world is came，take it！",
+        "cmt": 246917,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "肆无惧燥",
+        "artist": "华晨宇",
+        "album": "雪碧酷光灯",
+        "cmt": 224310,
+        "topic": null
+      },
+      {
+        "name": "苦茶子",
+        "artist": "Starling8/DRODUMANA/FIVESTAR",
+        "album": "埋汰",
+        "cmt": 195557,
+        "topic": "综合主题"
+      },
+      {
+        "name": "Hug me (抱我)",
+        "artist": "蔡徐坤",
+        "album": "Hug me (抱我)",
+        "cmt": 189895,
+        "topic": "综合主题"
+      },
+      {
+        "name": "变废为宝",
+        "artist": "薛之谦",
+        "album": "无数",
+        "cmt": 178726,
+        "topic": null
+      },
+      {
+        "name": "你",
+        "artist": "郑润泽",
+        "album": "你（正式版）",
+        "cmt": 153945,
+        "topic": "人生哲思"
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "华晨宇",
+        "cmt": 1665493,
+        "songs": 13
+      },
+      {
+        "name": "郑润泽",
+        "cmt": 882429,
+        "songs": 11
+      },
+      {
+        "name": "周深",
+        "cmt": 876594,
+        "songs": 41
+      },
+      {
+        "name": "薛之谦",
+        "cmt": 673125,
+        "songs": 9
+      },
+      {
+        "name": "赵雷",
+        "cmt": 613135,
+        "songs": 10
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "人生哲思",
+        "cnt": 468
+      },
+      {
+        "name": "怀旧青春",
+        "cnt": 355
+      },
+      {
+        "name": "综合主题",
+        "cnt": 277
+      },
+      {
+        "name": "孤独emo",
+        "cnt": 167
+      },
+      {
+        "name": "励志成长",
+        "cnt": 104
+      }
+    ],
+    "top_words": [
+      {
+        "word": "you",
+        "count": 245
+      },
+      {
+        "word": "不会",
+        "count": 178
+      },
+      {
+        "word": "my",
+        "count": 170
+      },
+      {
+        "word": "世界",
+        "count": 159
+      },
+      {
+        "word": "一天",
+        "count": 148
+      },
+      {
+        "word": "music",
+        "count": 138
+      },
+      {
+        "word": "不再",
+        "count": 133
+      },
+      {
+        "word": "所有",
+        "count": 132
+      }
+    ],
+    "comment": "疫情三年，线上演出成为新常态，独立音乐人通过直播和短视频获得前所未有的曝光。2022年是华语乐坛的大年，全年收录5193首歌曲，累计262.5万条评论，热度不凡。年度最具影响力歌手为「华晨宇」，共贡献13首作品，收获166.5万条评论。紧随其后的是郑润泽、周深、薛之谦等实力歌手。年度金曲《小胡同》（郑润泽）以47.7万条评论位居榜首，《我记得》（赵雷）、《海屿你》（马也_Crabbit）等作品同样深入人心。年度创作主题集中于「人生哲思、怀旧青春、综合主题」，反映了这一年的社会情绪与听众偏好。年度歌词高频词为「you、不会、my、世界、一天」，勾勒出这一年大众的情感底色。歌曲收录量较上年增长1143首（+28%）。年度总评论回落132.6万（-34%）。年度主旋律从「怀旧青春」转向「人生哲思」，听众心态发生变化。"
+  },
+  {
+    "year": 2023,
+    "song_count": 5357,
+    "total_cmt": 2675886,
+    "top_songs": [
+      {
+        "name": "瞬",
+        "artist": "郑润泽",
+        "album": "瞬",
+        "cmt": 633214,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "唯一",
+        "artist": "G.E.M.邓紫棋",
+        "album": "T.I.M.E.",
+        "cmt": 402063,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "诀别书",
+        "artist": "邓垚",
+        "album": "诀别书",
+        "cmt": 362236,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "遐想",
+        "artist": "郑润泽",
+        "album": "梦游",
+        "cmt": 245125,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "我想念",
+        "artist": "汪苏泷",
+        "album": "我想念",
+        "cmt": 242952,
+        "topic": "离别思念"
+      },
+      {
+        "name": "绽放",
+        "artist": "郑润泽",
+        "album": "梦游",
+        "cmt": 188817,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "向云端",
+        "artist": "小霞/海洋Bo",
+        "album": "向云端",
+        "cmt": 188326,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "雪 Distance",
+        "artist": "Capper/罗言",
+        "album": "Uniconfication",
+        "cmt": 148343,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "我会永远记得想你",
+        "artist": "尤长靖",
+        "album": "我会永远记得想你",
+        "cmt": 143841,
+        "topic": null
+      },
+      {
+        "name": "愿与愁",
+        "artist": "林俊杰",
+        "album": "愿与愁",
+        "cmt": 120969,
+        "topic": "励志成长"
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "郑润泽",
+        "cmt": 1400921,
+        "songs": 10
+      },
+      {
+        "name": "G.E.M.邓紫棋",
+        "cmt": 638281,
+        "songs": 6
+      },
+      {
+        "name": "尤长靖",
+        "cmt": 607635,
+        "songs": 6
+      },
+      {
+        "name": "周深",
+        "cmt": 379605,
+        "songs": 20
+      },
+      {
+        "name": "邓垚",
+        "cmt": 362236,
+        "songs": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "人生哲思",
+        "cnt": 423
+      },
+      {
+        "name": "怀旧青春",
+        "cnt": 327
+      },
+      {
+        "name": "综合主题",
+        "cnt": 256
+      },
+      {
+        "name": "孤独emo",
+        "cnt": 174
+      },
+      {
+        "name": "励志成长",
+        "cnt": 119
+      }
+    ],
+    "top_words": [
+      {
+        "word": "you",
+        "count": 287
+      },
+      {
+        "word": "世界",
+        "count": 215
+      },
+      {
+        "word": "my",
+        "count": 192
+      },
+      {
+        "word": "me",
+        "count": 183
+      },
+      {
+        "word": "不会",
+        "count": 165
+      },
+      {
+        "word": "music",
+        "count": 146
+      },
+      {
+        "word": "基本",
+        "count": 142
+      },
+      {
+        "word": "节奏",
+        "count": 141
+      }
+    ],
+    "comment": "后疫情时代，演唱会市场井喷式复苏，抖音热歌继续主导大众收听习惯。2023年是华语乐坛的大年，全年收录5357首歌曲，累计267.6万条评论，热度不凡。年度最具影响力歌手为「郑润泽」，共贡献10首作品，收获140.1万条评论。紧随其后的是G.E.M.邓紫棋、尤长靖、周深等实力歌手。年度金曲《瞬》（郑润泽）以63.3万条评论位居榜首，《唯一》（G.E.M.邓紫棋）、《诀别书》（邓垚）等作品同样深入人心。年度创作主题集中于「人生哲思、怀旧青春、综合主题」，反映了这一年的社会情绪与听众偏好。年度歌词高频词为「you、世界、my、me、不会」，勾勒出这一年大众的情感底色。"
+  },
+  {
+    "year": 2024,
+    "song_count": 3923,
+    "total_cmt": 6814115,
+    "top_songs": [
+      {
+        "name": "船",
+        "artist": "鹭卓",
+        "album": "船",
+        "cmt": 1507576,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "蝴蝶",
+        "artist": "王一珩OneSD",
+        "album": "蝴蝶",
+        "cmt": 1328984,
+        "topic": "励志成长"
+      },
+      {
+        "name": "初雪",
+        "artist": "鹭卓",
+        "album": "初雪",
+        "cmt": 998203,
+        "topic": null
+      },
+      {
+        "name": "VTTT",
+        "artist": "鹭卓",
+        "album": "VTTT",
+        "cmt": 657272,
+        "topic": null
+      },
+      {
+        "name": "如果爱忘了 (live)",
+        "artist": "汪苏泷/单依纯",
+        "album": "声生不息·家年华 第12期",
+        "cmt": 541108,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "和你等烟花",
+        "artist": "鹭卓",
+        "album": "和你等烟花",
+        "cmt": 516063,
+        "topic": null
+      },
+      {
+        "name": "跳楼机",
+        "artist": "LBI利比",
+        "album": "跳楼机",
+        "cmt": 420512,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "阿拉斯加海湾",
+        "artist": "蓝心羽",
+        "album": "阿拉斯加海湾",
+        "cmt": 369960,
+        "topic": "孤独emo"
+      },
+      {
+        "name": "二十二",
+        "artist": "王一珩OneSD",
+        "album": "二十二",
+        "cmt": 257307,
+        "topic": null
+      },
+      {
+        "name": "再等冬天(Memories)",
+        "artist": "h3R3",
+        "album": "故事商铺·上",
+        "cmt": 217130,
+        "topic": "人生哲思"
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "鹭卓",
+        "cmt": 3818213,
+        "songs": 6
+      },
+      {
+        "name": "王一珩OneSD",
+        "cmt": 1640265,
+        "songs": 10
+      },
+      {
+        "name": "毛不易",
+        "cmt": 1198988,
+        "songs": 18
+      },
+      {
+        "name": "黄子弘凡",
+        "cmt": 914462,
+        "songs": 41
+      },
+      {
+        "name": "汪苏泷",
+        "cmt": 896836,
+        "songs": 23
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "人生哲思",
+        "cnt": 292
+      },
+      {
+        "name": "综合主题",
+        "cnt": 196
+      },
+      {
+        "name": "怀旧青春",
+        "cnt": 193
+      },
+      {
+        "name": "孤独emo",
+        "cnt": 106
+      },
+      {
+        "name": "励志成长",
+        "cnt": 101
+      }
+    ],
+    "top_words": [
+      {
+        "word": "you",
+        "count": 261
+      },
+      {
+        "word": "music",
+        "count": 239
+      },
+      {
+        "word": "世界",
+        "count": 190
+      },
+      {
+        "word": "时间",
+        "count": 154
+      },
+      {
+        "word": "me",
+        "count": 153
+      },
+      {
+        "word": "一切",
+        "count": 149
+      },
+      {
+        "word": "回忆",
+        "count": 139
+      },
+      {
+        "word": "不会",
+        "count": 125
+      }
+    ],
+    "comment": "后疫情时代，演唱会市场井喷式复苏，抖音热歌继续主导大众收听习惯。2024年是华语乐坛的大年，全年收录3923首歌曲，累计681.4万条评论，创下惊人热度。年度最具影响力歌手为「鹭卓」，共贡献6首作品，收获381.8万条评论。紧随其后的是王一珩OneSD、毛不易、黄子弘凡等实力歌手。年度金曲《船》（鹭卓）以150.8万条评论位居榜首，《蝴蝶》（王一珩OneSD）、《初雪》（鹭卓）等作品同样深入人心。年度创作主题集中于「人生哲思、综合主题、怀旧青春」，反映了这一年的社会情绪与听众偏好。年度歌词高频词为「you、music、世界、时间、me」，勾勒出这一年大众的情感底色。歌曲收录量较上年减少1434首（-27%）。年度总评论暴涨413.8万（+155%），热度空前。"
+  },
+  {
+    "year": 2025,
+    "song_count": 5229,
+    "total_cmt": 13010370,
+    "top_songs": [
+      {
+        "name": "我是一只鱼",
+        "artist": "梓渝",
+        "album": "我是一只鱼",
+        "cmt": 2237813,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "萤火星球",
+        "artist": "梓渝",
+        "album": "萤火星球",
+        "cmt": 2043753,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "下一页",
+        "artist": "梓渝",
+        "album": "下一页",
+        "cmt": 1880430,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "我可以",
+        "artist": "梓渝",
+        "album": "我可以",
+        "cmt": 1506524,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "晨昏线",
+        "artist": "梓渝",
+        "album": "晨昏线",
+        "cmt": 1306596,
+        "topic": null
+      },
+      {
+        "name": "有我在",
+        "artist": "鹭卓",
+        "album": "有我在",
+        "cmt": 1003384,
+        "topic": null
+      },
+      {
+        "name": "不放晴的雨季",
+        "artist": "鹭卓",
+        "album": "不放晴的雨季",
+        "cmt": 832880,
+        "topic": null
+      },
+      {
+        "name": "火上浇油",
+        "artist": "鹭卓",
+        "album": "火上浇油",
+        "cmt": 764895,
+        "topic": null
+      },
+      {
+        "name": "褪黑素",
+        "artist": "梓渝",
+        "album": "褪黑素",
+        "cmt": 740293,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "简单的一句话",
+        "artist": "鹭卓",
+        "album": "简单的一句话",
+        "cmt": 693802,
+        "topic": null
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "梓渝",
+        "cmt": 10243633,
+        "songs": 11
+      },
+      {
+        "name": "鹭卓",
+        "cmt": 4346967,
+        "songs": 9
+      },
+      {
+        "name": "华晨宇",
+        "cmt": 1607013,
+        "songs": 10
+      },
+      {
+        "name": "尤长靖",
+        "cmt": 765700,
+        "songs": 7
+      },
+      {
+        "name": "薛之谦",
+        "cmt": 764437,
+        "songs": 6
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "人生哲思",
+        "cnt": 447
+      },
+      {
+        "name": "综合主题",
+        "cnt": 241
+      },
+      {
+        "name": "怀旧青春",
+        "cnt": 240
+      },
+      {
+        "name": "励志成长",
+        "cnt": 148
+      },
+      {
+        "name": "孤独emo",
+        "cnt": 144
+      }
+    ],
+    "top_words": [
+      {
+        "word": "you",
+        "count": 242
+      },
+      {
+        "word": "世界",
+        "count": 221
+      },
+      {
+        "word": "music",
+        "count": 194
+      },
+      {
+        "word": "时间",
+        "count": 175
+      },
+      {
+        "word": "me",
+        "count": 169
+      },
+      {
+        "word": "my",
+        "count": 134
+      },
+      {
+        "word": "like",
+        "count": 130
+      },
+      {
+        "word": "北京",
+        "count": 125
+      }
+    ],
+    "comment": "后疫情时代，演唱会市场井喷式复苏，抖音热歌继续主导大众收听习惯。2025年是华语乐坛的大年，全年收录5229首歌曲，累计1301.0万条评论，创下惊人热度。年度最具影响力歌手为「梓渝」，共贡献11首作品，收获1024.4万条评论。紧随其后的是鹭卓、华晨宇、尤长靖等实力歌手。年度金曲《我是一只鱼》（梓渝）以223.8万条评论位居榜首，《萤火星球》（梓渝）、《下一页》（梓渝）等作品同样深入人心。年度创作主题集中于「人生哲思、综合主题、怀旧青春」，反映了这一年的社会情绪与听众偏好。年度歌词高频词为「you、世界、music、时间、me」，勾勒出这一年大众的情感底色。歌曲收录量较上年增长1306首（+33%）。年度总评论暴涨619.6万（+91%），热度空前。"
+  },
+  {
+    "year": 2026,
+    "song_count": 2487,
+    "total_cmt": 3649125,
+    "top_songs": [
+      {
+        "name": "故乡月",
+        "artist": "梓渝",
+        "album": "故乡月",
+        "cmt": 1356100,
+        "topic": "怀旧青春"
+      },
+      {
+        "name": "DDD（With沙一汀EL）",
+        "artist": "沙一汀EL/柳多恋",
+        "album": "DDD（With沙一汀EL）",
+        "cmt": 510869,
+        "topic": "综合主题"
+      },
+      {
+        "name": "一半一半",
+        "artist": "Top Barry/INDEcompany",
+        "album": "一半一半",
+        "cmt": 383255,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "新鲜感",
+        "artist": "颜人中",
+        "album": "新鲜感",
+        "cmt": 276519,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "心的距离",
+        "artist": "鹭卓/叶炫清/逆水寒/逆水长琴/雷火音频",
+        "album": "心的距离",
+        "cmt": 211210,
+        "topic": null
+      },
+      {
+        "name": "玻璃",
+        "artist": "Gareth.T",
+        "album": "玻璃",
+        "cmt": 210949,
+        "topic": "人生哲思"
+      },
+      {
+        "name": "拥抱你的我",
+        "artist": "梓渝",
+        "album": "拥抱你的我",
+        "cmt": 201421,
+        "topic": null
+      },
+      {
+        "name": "不联络的朋友",
+        "artist": "尤长靖",
+        "album": "不联络的朋友",
+        "cmt": 198831,
+        "topic": null
+      },
+      {
+        "name": "DD backseat",
+        "artist": "Top Barry/Rapeter",
+        "album": "DD backseat",
+        "cmt": 158909,
+        "topic": "综合主题"
+      },
+      {
+        "name": "Not Angry (夏夜告别)",
+        "artist": "卓沅/Chris James",
+        "album": "Not Angry（夏夜告别）",
+        "cmt": 141062,
+        "topic": "综合主题"
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "梓渝",
+        "cmt": 1561402,
+        "songs": 3
+      },
+      {
+        "name": "Top Barry/INDEcompany",
+        "cmt": 542164,
+        "songs": 2
+      },
+      {
+        "name": "沙一汀EL",
+        "cmt": 518723,
+        "songs": 2
+      },
+      {
+        "name": "薛之谦",
+        "cmt": 331326,
+        "songs": 4
+      },
+      {
+        "name": "颜人中",
+        "cmt": 277061,
+        "songs": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "name": "人生哲思",
+        "cnt": 290
+      },
+      {
+        "name": "怀旧青春",
+        "cnt": 160
+      },
+      {
+        "name": "综合主题",
+        "cnt": 153
+      },
+      {
+        "name": "孤独emo",
+        "cnt": 113
+      },
+      {
+        "name": "励志成长",
+        "cnt": 82
+      }
+    ],
+    "top_words": [
+      {
+        "word": "you",
+        "count": 285
+      },
+      {
+        "word": "music",
+        "count": 250
+      },
+      {
+        "word": "me",
+        "count": 233
+      },
+      {
+        "word": "love",
+        "count": 163
+      },
+      {
+        "word": "世界",
+        "count": 163
+      },
+      {
+        "word": "不会",
+        "count": 154
+      },
+      {
+        "word": "还是",
+        "count": 141
+      },
+      {
+        "word": "录音师",
+        "count": 140
+      }
+    ],
+    "comment": "当前年份数据仍在积累中。2026年是华语乐坛的大年，全年收录2487首歌曲，累计364.9万条评论，热度不凡。年度最具影响力歌手为「梓渝」，共贡献3首作品，收获156.1万条评论。紧随其后的是Top Barry/INDEcompany、沙一汀EL、薛之谦等实力歌手。年度金曲《故乡月》（梓渝）以135.6万条评论位居榜首，《DDD（With沙一汀EL）》（沙一汀EL/柳多恋）、《一半一半》（Top Barry/INDEcompany）等作品同样深入人心。年度创作主题集中于「人生哲思、怀旧青春、综合主题」，反映了这一年的社会情绪与听众偏好。年度歌词高频词为「you、music、me、love、世界」，勾勒出这一年大众的情感底色。歌曲收录量较上年减少2742首（-52%）。年度总评论回落936.1万（-72%）。「梓渝」连续两年登顶年度歌手榜首，势头正盛。"
+  }
+]

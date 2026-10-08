@@ -1,0 +1,14 @@
+[
+  {
+    "sentiment": "中性",
+    "count": 2743
+  },
+  {
+    "sentiment": "负向",
+    "count": 23640
+  },
+  {
+    "sentiment": "正向",
+    "count": 160646
+  }
+]
